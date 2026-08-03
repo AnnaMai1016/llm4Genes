@@ -1,0 +1,179 @@
+{
+  "saved_at_utc": "2026-08-01T02:03:35.188028+00:00",
+  "result": {
+    "metadata": {
+      "title": "Genome-wide identification of the auxin transporter gene families in sweet potato (Ipomoea batatas) and their expression during tuberization",
+      "organism": [
+        "Ipomoea batatas"
+      ]
+    },
+    "entities": [
+      {
+        "local_id": "gene_1",
+        "name": "IbLAX1",
+        "type": "Gene",
+        "organism": "Ipomoea batatas",
+        "synonyms": [
+          "IbLAX"
+        ],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Auxin influx carrier gene in sweet potato; up-regulated during tuber initiation and highly expressed in several tissues.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_2",
+        "name": "IbPIN13",
+        "type": "Gene",
+        "organism": "Ipomoea batatas",
+        "synonyms": [
+          "IbPIN"
+        ],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "PIN family gene in sweet potato; a canonical PIN auxin efflux protein and up-regulated during storage root initiation.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_3",
+        "name": "IbPILS7",
+        "type": "Gene",
+        "organism": "Ipomoea batatas",
+        "synonyms": [
+          "IbPILS"
+        ],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "PILS family gene in sweet potato; up-regulated during tuber initiation and implicated in intercellular auxin partitioning.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_4",
+        "name": "IbABCB1",
+        "type": "Gene",
+        "organism": "Ipomoea batatas",
+        "synonyms": [
+          "IbABCB"
+        ],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "ABCB family gene in sweet potato; predicted to be an auxin transporter and up-regulated during storage root initiation.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_5",
+        "name": "IbABCB14",
+        "type": "Gene",
+        "organism": "Ipomoea batatas",
+        "synonyms": [
+          "IbABCB"
+        ],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "ABCB family gene in sweet potato; predicted to be an auxin transporter and up-regulated during storage root initiation.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_1",
+        "name": "storage root initiation",
+        "type": "Phenotype_Trait",
+        "organism": "Ipomoea batatas",
+        "synonyms": [
+          "tuber initiation"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Initiation of sweet potato storage root/tuber development.",
+        "extraction_FLAG": true
+      }
+    ],
+    "relations": [
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_1",
+        "relation_type": "positively_regulates",
+        "mechanism": "IbLAX1 is an auxin influx carrier and was up-regulated during storage root/tuber initiation, suggesting it contributes to initiation.",
+        "growth_stage": [
+          "Seed_Development"
+        ],
+        "growth_stage_detail": "tuber initiation / storage root initiation",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "IbLAX1 was up-regulated in SRs vs. FRs at tuber initiation (30 DAT), and the significant up-regulation during SR indicates that IbLAX1 ... [is a] strong candidate[] for further in-depth studies on [its] functions during SR initiation.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_2",
+        "object_id": "phenotype_1",
+        "relation_type": "positively_regulates",
+        "mechanism": "IbPIN13 is a canonical PIN auxin efflux protein and was up-regulated during storage root initiation and as initiation progressed.",
+        "growth_stage": [
+          "Seed_Development"
+        ],
+        "growth_stage_detail": "storage root initiation",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "IbPIN13 was up-regulated in SRs vs. FRs at tuber initiation (30 DAT) ... IbPIN13 is a canonical PIN auxin efflux protein that is up-regulated in SRs vs FRs and also up-regulated as SR initiation progresses.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_3",
+        "object_id": "phenotype_1",
+        "relation_type": "positively_regulates",
+        "mechanism": "IbPILS7 was up-regulated during storage root initiation and may have a role in intercellular auxin partitioning.",
+        "growth_stage": [
+          "Seed_Development"
+        ],
+        "growth_stage_detail": "storage root initiation",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "IbPILS7 was up-regulated in SRs vs. FRs at tuber initiation (30 DAT) ... IbPILS7 is also up-regulated at SR initiation, and since PILS proteins are involved in intercellular auxin partitioning, it is possible that IbPILS7 has a similar role.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_4",
+        "object_id": "phenotype_1",
+        "relation_type": "positively_regulates",
+        "mechanism": "IbABCB1 was up-regulated during storage root initiation and was predicted to be an auxin transporter.",
+        "growth_stage": [
+          "Seed_Development"
+        ],
+        "growth_stage_detail": "storage root initiation",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "Two of the three up-regulated IbABCB genes (IbABCB1 and IbABCB14) were predicted to be auxin transporters ... The up-regulation of IbABCB1 in SRs vs. FRs at 40 DAT and 50 DAT ... supports its role in SR development.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_5",
+        "object_id": "phenotype_1",
+        "relation_type": "positively_regulates",
+        "mechanism": "IbABCB14 was up-regulated during storage root initiation and was predicted to be an auxin transporter.",
+        "growth_stage": [
+          "Seed_Development"
+        ],
+        "growth_stage_detail": "storage root initiation",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "Two of the three up-regulated IbABCB genes (IbABCB1 and IbABCB14) were predicted to be auxin transporters ... and ... is also up-regulated during SR initiation and development and is also predicted to be an auxin transporter.",
+        "extraction_FLAG": true
+      }
+    ],
+    "patch_set": null
+  }
+}

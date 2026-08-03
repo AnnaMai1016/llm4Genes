@@ -1,0 +1,656 @@
+[
+    {
+        "type": "text",
+        "text": "Mutations in the diastrophic dysplasia sulfate transporter (DTDST) gene: correlation between sulfate transport activity and chondrodysplasia phenotype",
+        "text_level": 1,
+        "bbox": [
+            60,
+            106,
+            917,
+            190
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lawrence P. Karniski\\*",
+        "bbox": [
+            60,
+            200,
+            275,
+            217
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laboratory of Epithelial Transport, Department of Internal Medicine, Veterans Affairs Medical Center and University of Iowa College of Medicine, Iowa City, IA 52242, USA",
+        "bbox": [
+            60,
+            233,
+            932,
+            266
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received March 29, 2001; Revised and Accepted May 16, 2001",
+        "bbox": [
+            60,
+            279,
+            448,
+            293
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The diastrophic dysplasia sulfate transporter (DTDST) gene encodes a transmembrane protein that transports sulfate into chondrocytes to maintain adequate sulfation of proteoglycans. Mutations in this gene are responsible for four recessively inherited chondrodysplasias that include diastrophic dysplasia, multiple epiphyseal dysplasia, atelosteogenesis type 2 and achondrogenesis 1B (ACG-1B). To determine whether the DTDSTmutations found in individuals with these chondrodysplasias differ functionally from each other, we compared the sulfate transport activity of 11 reported DTDST mutations. Five mutations, G255E, ∆a1751, L483P, R178X and N425D, had minimal sulfate transport function following expression in Xenopus laevisoocytes. Two mutations, ∆V340 and R279W, transported sulfate at rates of 17 and 32%, respectively, of wild-type . Four mutations, A715V, C653S, Q454P and G678V, had rates of sulfate transport nearly equal to that of wild-type DTDST. Transport kinetics were not different among the four mutations with near-normal sulfate transport function and wild-type DTDST. When the sulfate transport function of the different mutations are grouped according to the general phenotypes, individuals with the most severe form, ACG-1B, tend to be homozygous for null mutations, individuals with the moderately severe atelosteogenesis type 2 have at least one allele with a loss-of-function mutation, and individuals with the mildest forms are typically homozygous for mutations with residual sulfate transport function. However, in the X<sub>.</sub>laevis oocyte expression system, the correlation between residual transport function and the severity of phenotype was not absolute, suggesting that factors in addition to the intrinsic sulfate transport properties of the DTDST protein may influence the phenotype in individuals with mutations.",
+        "bbox": [
+            60,
+            309,
+            489,
+            872
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION",
+        "text_level": 2,
+        "bbox": [
+            509,
+            309,
+            645,
+            324
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mutations in the diastrophic dysplasia sulfate transporter gene (DTDST), first described by Hästbacka et al. (1), have been identified in four recessively inherited chondrodysplasias: achondrogenesis 1B (ACG-1B) (2), atelosteogenesis type 2 (AO-II) (3), diastrophic dysplasia (DTD) (1) and autosomal recessive multiple epiphyseal dysplasia (MED) (4). McAlister dysplasia has been described as a variant of AO-II (5), and broad bone-platyspondyly is a variant of DTD (6). ACG-1B is the most severe form of these chondrodysplasias, resulting in skeletal underdevelopment and death preceding or shortly after birth. AO-II is frequently lethal in the neonatal period, while DTD and MED are considered the least severe forms. In two families with apparently isolated club foot, the diagnosis of MED was made only after skeletal X-rays and molecular analysis were performed (7).",
+        "bbox": [
+            507,
+            331,
+            937,
+            529
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The DTDST gene encodes a sulfate transporter that also accepts chloride and possibly bicarbonate as substrates (8). Reduced sulfate transport in chondrocytes of individuals with DTDST mutations results in the under-sulfation of proteoglycans, which in turn leads to abnormal cartilage formation. Correlations between pathogenic mutations in the DTDST gene and clinical phenotypes have been described (9,10). It has been proposed that the differences in disease severity between the chondrodysplasias reflects differences in residual sulfate uptake via the mutated DTDST sulfate transporter (3). If this were the case, cells from patients with ACG-1B would have either absent or minimal sulfate transport, AO-II would have an intermediate level of sulfate transport, and the milder diastrophic dysplasia and MED phenotypes would have the most residual sulfate transport. Several studies have attempted to test this hypothesis by comparing either sulfate uptake or the degree of proteoglycan sulfation in tissue from individuals with ACG-1B, AO-II and DTD (2,3,5,11–13). In all studies, sulfate transport and the level of proteoglycan sulfation is significantly reduced in cells from individuals with chondrodysplasias compared with cells from normal controls; however, a consistent correlation between disease severity and the level of sulfate transport or proteoglycan sulfation has not been found. These types of studies are limited by the relatively low number of patients available with each phenotype, the various ages of the individuals studied and by the fact that alternative sources of cell sulfate other than transport via the DTDST protein have been described in chondrocytes (5,14).",
+        "bbox": [
+            505,
+            529,
+            937,
+            872
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Published by Oxford University Press",
+        "bbox": [
+            62,
+            66,
+            322,
+            81
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Human Molecular Genetics, 2001, Vol. 10, No. 14 1485–1490",
+        "bbox": [
+            500,
+            66,
+            936,
+            81
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*To whom correspondence should be addressed at: Department of Internal Medicine, E300C University of Iowa Hospitals, 200 Hawkins Drive, Iowa City, IA 52242, USA. Tel: +1 319 356 3971; Fax: +1 319 356 2999; Email: lawrence-karniski@uiowa.edu",
+        "bbox": [
+            63,
+            884,
+            904,
+            909
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "chart",
+        "img_path": "images/45638ba9c22cd22b4153687b41f5926906429c21cda2b066179604136527749d.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 1. Sulfate uptake in X.laevis oocytes injected with 0.5 ng of wild-type DTDST cRNA (solid bar) or various DTDST mutations (open bars). Each individual experiment represents the mean of 7–12 oocytes within each group. At least three experiments using oocytes from different frogs were performed for each mutant. Data for each mutant are depicted as a percentage of sulfate uptake in oocytes injected with wild-type DTDST cRNA."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            124,
+            117,
+            870,
+            345
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            414,
+            487,
+            442
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present study, several DTDST mutations have been expressed in Xenopus laevis oocytes and their sulfate transport capacity was measured. X.laevis oocytes have a relatively low level of endogenous sulfate transport; consequently, it can be determined whether the functional sulfate transport capacity of the mutated DTDST protein at the molecular level correlates with known genotype/phenotype relationships.",
+        "bbox": [
+            58,
+            442,
+            489,
+            538
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS",
+        "text_level": 2,
+        "bbox": [
+            60,
+            555,
+            147,
+            570
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Eleven mutations of the DTDST gene were examined in the present study (10). To determine the residual sulfate transport function of the individual DTDST mutations, X.laevis oocytes were injected with 0.5 ng of either mutant or wild-type cRNA, and the rate of sulfate transport was determined. As shown in Figure 1, four mutations, C653S, A715V, Q454P and G678V, have sulfate transport rates between 56 and 100% of wild-type cRNA. Five mutations, G255E, L483P, R178X, ∆a1751 and N425D, have sulfate transport rates that are <10% of wild-type cRNA, and two mutations, R279W and ∆V340, have intermediate levels of transport activity (32 and 17% of wild-type cRNA, respectively).",
+        "bbox": [
+            58,
+            577,
+            489,
+            737
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The high level of sulfate transport activity depicted in Figure 1 for the A715V, C653S, Q454P and G678V mutations was unexpected; however, in this experiment, a single concentration of sulfate was used (100 µM). It is possible that these mutations alter the affinity of sulfate for the DTDST transporter, so that under physiologic conditions the velocity of sulfate transport into the chondrocytes would be reduced compared with wild-type DTDST. To test this, we performed non-linear regression analysis of velocity versus increasing sulfate concentration in oocytes injected with 0.5 ng of either wild-type DTDST cRNA or the A715V, C653S, Q454P and G678V mutant cRNAs. The $\\mathrm { K } _ { \\mathrm { m } }$ for sulfate determined in oocytes expressing wild-type DTDST was $6 7 \\pm 1 2 { \\mu \\mathrm { M } }$ . There was no significant difference between the sulfate $\\mathrm { K } _ { \\mathrm { m } }$ for wildtype DTDST and the A715V, C653S, Q454P and G678V mutants (data not shown).",
+        "bbox": [
+            58,
+            736,
+            489,
+            910
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            507,
+            414,
+            934,
+            456
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cells with low levels of sulfate transport activity could increase the rate of sulfate transport by upregulating mRNA synthesis and increasing the expression of mutant protein. As shown in Figure 2, by increasing the amount of injected mutant cRNA 3-fold compared with wild-type (0.3 versus 0.1 ng), five mutations were able to achieve sulfate transport rates equal to, or exceeding that of wild-type DTDST, and a sixth mutation, ∆V340, had sulfate transport activity 36% of wild-type. In contrast, in oocytes injected with ≤0.5 ng cRNA of the mutations L483P, R178X, ∆a1751, G255E and N425D, sulfate transport was <10% of that in oocytes injected with 0.1 ng wild-type cRNA (data not shown). Therefore, it is unlikely that upregulation of mRNA synthesis and protein expression could correct any sulfate transport deficits resulting from the L483P, R178X, ∆a1751, G255E and N425D mutations.",
+        "bbox": [
+            507,
+            456,
+            937,
+            655
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As noted in Figure 1, the A715V, C653S and G678V mutations have near-normal transport activity when expressed in X.laevis oocytes. These three mutations have been linked to chondrodysplasias when a second mutation with minimal transport function is present on the opposite allele. In addition, the most common DTDST mutation, R279W, has an intermediate level of residual sulfate transport activity and has also been found in individuals with a second, minimal-function mutation on the opposite allele. It is not known whether the DTDST protein exists as a monomer or oligomer; however, most membrane transport proteins are probably oligomeric (15). Therefore, a possible explanation for the high level of sulfate transport function when some mutations are expressed individually in oocytes is that these mutations result in conformational changes which favor the formation of non-functional, oligomeric complexes in the presence of certain other DTDST mutants. To test this, we injected X.laevis oocytes with 0.1 ng cRNA of the four functional mutations, A715V, C653S, G678V or R279W, and compared the rate of sulfate transport with oocytes injected with 0.1 ng cRNA of these same four mutations plus 0.3 ng cRNA of a non-functional mutation. The six mutant combinations tested have all been identified in individuals with chondrodysplasia and include A715V/G255E (AO-II), C653S/R178X (DTD), G678V/ R178X (ACG-1B), R279W/R178X (AO-II), R279W/N425D (AO-II) and R279W/∆a1751(AO-II). As shown in Figure 3, there was no significant difference in sulfate transport activity in any of the groups of oocytes injected with both a functional and non-functional mutation compared with oocytes injected with the functional mutation alone. This demonstrates that the functional mutant DTDST proteins, A715V, C653S, G678V and R279W, do not interact with non-functional mutant proteins to produce a loss-of-function phenotype.",
+        "bbox": [
+            505,
+            655,
+            937,
+            910
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "1486 Human Molecular Genetics, 2001, Vol. 10, No. 14",
+        "bbox": [
+            62,
+            66,
+            457,
+            81
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/13dfc49f3dd362bd14019046746c885c466416e877e63008839024c921865661.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 2. Sulfate uptake in oocytes injected with either 0.1 ng wild-type DTDST cRNA (solid bar) or 0.3 ng cRNA of the C653S, A715V, G678V, Q454P, R279W and ∆V340 mutations (open bars). Data are expressed as the mean ± SE of sulfate uptakes in oocytes from three different frogs. \\*P < 0.05 compared with oocytes injected with wild-type DTDST cRNA."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            168,
+            112,
+            830,
+            342
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            404,
+            489,
+            602
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION",
+        "text_level": 2,
+        "bbox": [
+            509,
+            403,
+            621,
+            418
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Individuals with disease-causing mutations in the DTDST gene present with at least four chondrodysplasias with different levels of severity. The underlying defect in each is abnormal sulfate transport with subsequent under-sulfation of cartilage proteoglycans. It has been proposed that the phenotypic variability observed in these chondrodysplasias is the result of different levels of residual sulfate transport function (3). This hypothesis is based on the correlation between certain mutations in the DTDST gene and clinical phenotypes (9,10); mutations of the DTDST gene in the most severe chondrodysplasia, ACG-1B, are predicted to result in dramatic alterations in the transport protein structure, whereas the chondrodysplasias of intermediate (AO-II ) or mild severity (DTD and MED) are predicted to have less severe alterations in protein structure. Such a correlation between disease severity and residual transport function has been found with the PDS chloride-iodide transporter, which is closely related to DTDST (16,17).",
+        "bbox": [
+            505,
+            423,
+            937,
+            602
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/78bdebb056d740556909d02bb2e8a18f34876cb9469c3cc7470c64649ff12abe.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 3. Sulfate uptake in X.laevis oocytes injected with various combinations of DTDST mutations. The solid bars represent sulfate uptake in oocytes injected with 0.1 ng DTDST cRNA containing one of the mutations A715V, C653S, G678V or R279W. The open bars represent sulfate uptake in oocytes injected with 0.1 ng cRNA of the same mutation listed in the adjacent solid bar plus 0.3 ng cRNA of a second DTDST mutation. A single experiment represents the mean of 7–12 oocytes for each group with four experiments performed using oocytes from different frogs. There was no significant difference between any of the combined mutations when compared with the corresponding mutation injected alone (P > 0.05)."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            151,
+            617,
+            847,
+            844
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Human Molecular Genetics, 2001, Vol. 10, No. 14 1487",
+        "bbox": [
+            541,
+            66,
+            936,
+            81
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            109,
+            489,
+            175
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the present study, we have duplicated the changes in amino acid sequence predicted to result from 11 different DTDST mutations and have analyzed the sulfate transport properties of each following expression in X.laevis oocytes. Since this study was designed to determine the functional capacity of the mutated protein, we did not study the Finnish mutation, which is located in a splice donor site of an untranslated exon and results in decreased levels of mRNA (18).",
+        "bbox": [
+            60,
+            175,
+            489,
+            281
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Five of the mutations that we examined, N425D, R178X, L483P, G255E and ∆a1751, can be classified as null mutations. In oocytes injected with cRNA of each of these five mutations, sulfate transport is <10% of that in oocytes injected with an equal amount of wild-type cRNA, and injecting up to 5-fold more mutant cRNA than wild-type cRNA does not measurably increase the relative rate of sulfate transport. In contrast, we have classified R279W and ∆V340 as intermediate-function mutations. When oocytes were injected with equal amounts of cRNA, the R279W mutation had sulfate uptake 32%, and the ∆V340 mutation 17%, of that of wildtype. Sulfate uptake increased to 94 and 36%, respectively, when oocytes were injected with 3-fold more mutant cRNA than wild-type cRNA. Surprisingly, in oocytes injected with four DTDST mutations, A715V, C653S, Q454P and G678V, sulfate transport activity was ≥50% of that in oocytes injected with an equal amount wild-type cRNA. There was no significant difference in the sulfate K values between wild-type DTDST and the A715V, C653S, Q454P and G678V mutations. In addition, in oocytes injected with 3-fold more cRNA of each of these four mutations, sulfate transport activity exceeded that of oocytes injected with wild-type cRNA.",
+        "bbox": [
+            60,
+            281,
+            489,
+            570
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For each mutant allele examined in this study, Table 1 lists the residual sulfate transport capacity (null, intermediate and near-normal) according to the chondrodysplasia in which it has been identified. The following three observations support the hypothesis that the level of residual sulfate transport capacity of the mutant DTDST protein correlates to disease severity. (i) Homozygosity for null mutations is found only with the severe ACG-1B phenotype. (ii) All AO-II genotypes that we examined have a null mutation on one allele with either an intermediate or near-normal mutation on the opposite allele. (iii) Three of the four milder, diastrophic dysplasia or MED genotypes were homozygous for mutations with intermediate or near-normal sulfate transport activity. However, two findings suggest that there is some variance in the relationship between disease severity and DTDST sulfate transport activity. Firstly, compound heterozygotes with a null mutation on one allele and a near-normal mutation on the second allele have been identified in chondrodysplasias of all levels of severity. Secondly, homozygotes for an intermediate function mutation were found in both the severe ACG-1B phenotype (∆V340/ ∆V340) and the milder, diastrophic dysplasia or MED phenotypes (∆V340/R279W and R279W/R279W, respectively). The classification of intermediate function is based on the ∆V340 and R279W mutations, having 10–50% of wild-type sulfate transport activity and being able to increase transport activity with increasing amounts of injected cRNA; however, at all levels of injected cRNA, the R279W mutation has at least twice as much sulfate transport activity as the ∆V340 mutation. Furthermore, the ∆V340 mutant is able to increase sulfate transport to only 36% of wild-type despite injecting 3-fold excess cRNA (Figs 1 and 2). This level of residual activity may be sufficient to produce a mild phenotype when ∆V340 is found as a compound heterozygote with R279W but results in a severe phenotype when ∆V340 is present on both alleles.",
+        "bbox": [
+            60,
+            570,
+            489,
+            742
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0970094a5b0249bce298046d741543538dcdc00283dbd0560fa26ec0d958b0e1.jpg",
+        "table_caption": [
+            "Table 1. Functional activity of DTDST alleles in ACG-IB, AO-II, DTD and MED",
+            "+, Near-normal activity; O, intermediate activity; –, null activity."
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>ACG-IB</td><td>AO-II</td><td>DTD or MED</td></tr><tr><td>L483P/L483P (-/-)</td><td>R279W/∆a1751(O/-)</td><td>R279W/R279W (O/O)</td></tr><tr><td>ΔV340/ΔV340 (O/O)</td><td>R279W/R178X (O/–)</td><td>Q454P/Q454P (+/+)</td></tr><tr><td>N425D/∆a1751 (-/-)</td><td>A715V/G255E (+/-)</td><td>ΔV340/R279W (O/O)</td></tr><tr><td>G678V/R178X (+/-)</td><td>R279W/N425D (O/-)</td><td>C653S/R178X (+/-)</td></tr></table>",
+        "bbox": [
+            62,
+            798,
+            480,
+            883
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            505,
+            109,
+            937,
+            384
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "How can the A715V, C653S, Q454P and G678V mutations have nearly normal transport function following expression in oocytes yet result in defective sulfate transport in chondrocytes? It should be noted that the ionic composition of the uptake solutions used in the present study was designed to enhance detection of sulfate transport in the oocyte expression system and does not mimic physiologic conditions. It’s possible that if the experiments are performed with physiologic concentrations of electrolytes, the mutant proteins may have transport function different from what we observed.",
+        "bbox": [
+            507,
+            384,
+            937,
+            515
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Besides altering the intrinsic functional properties of a protein, mutations of the coding region can result in abnormal function through defective protein processing, defective protein regulation and alternations in RNA processing. As a rule, folding and post-translational processing of mammalian proteins is performed accurately in X.laevis oocytes (19); however, in certain instances, mutant proteins that are nonfunctional in mammalian cells display some functional activity in oocytes. This can be explained by the fact that proper folding and post-translational processing of some mutant proteins is temperature-sensitive (20,21), and that X.laevis oocytes require incubation temperatures much lower than that of mammalian cells. Expressing the DTDST mutations in a mammalian cell system may indicate whether incubation at a lower temperature affects either the folding or processing of the DTDST mutants.",
+        "bbox": [
+            505,
+            515,
+            937,
+            725
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The A715V, C653S, Q454P and G678V mutations could also result in reduced function in chondrocytes through an abnormality of RNA splicing. A recent study has demonstrated that single base pair mutations within exons, at sites distinct from splice junctions, may disrupt splicing by altering the motifs of either exonic splice enhancers or silencers (22). In our study, the mutant cRNA that is injected in oocytes is generated from normal cDNA transcripts and is not influenced by mRNA splicing factors.",
+        "bbox": [
+            505,
+            724,
+            937,
+            844
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The observation that some mutations do not result in a lossof-transport function does not contradict the previously noted correlation between certain DTDST genotypes and disease severity, but instead suggests that the correlation cannot be attributed solely to the intrinsic properties of the mutant protein. Our results are consistent with earlier studies that have not been able to detect measurable differences between the chondrodysplasias in either the level of cellular proteoglycan sulfation or sulfate transport (2,3,5,12). These studies, together with our observation that there is only a partial correlation between protein function and disease severity suggests that other factors, such as environmental influences or an inability to use alternative transport pathways for sulfate (5,14), may contribute to the clinical features seen in this family of chondrodysplasias, and is consistent with the phenotypic variability that has been noted within single sibships (23). However, the inconsistencies may also be attributed to the oocyte expression system and additional studies in mammalian cells may help resolve some of the discrepancies identified in the present study.",
+        "bbox": [
+            507,
+            844,
+            937,
+            910
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "1488 Human Molecular Genetics, 2001, Vol. 10, No. 14",
+        "bbox": [
+            63,
+            67,
+            457,
+            80
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            58,
+            109,
+            489,
+            307
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS",
+        "text_level": 2,
+        "bbox": [
+            62,
+            324,
+            295,
+            339
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Preparation of DTDST clone",
+        "text_level": 2,
+        "bbox": [
+            62,
+            352,
+            272,
+            365
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The DTDST coding sequence, spanning nucleotides 16–2244, was amplified by PCR from a human kidney cDNA library (Clontech Laboratories, Palo Alto, CA) using Elongase polymerase (Gibco BRL Rockville, MD) and the primers 5′-CCG-GAATTCTATCTCCAGAAATGTCTTCAG-3′ and 5′-GCTCG-GACTTGCGGCCGCTCAGTGGTGGTGGTGGTGGTGA-TCACTACTAAGACTCAGACCAT-3′. The PCR cycle was denatured at 94°C for 2 min, followed by 35 cycles at 94°C for 30 s, 58°C for 1 min, 68°C for 2 min, with a final extension at 68°C for 10 min. This amplification resulted in the insertion of a 6-histidine tag at the C-terminal end of the DTDST coding sequence followed by a TGA stop codon, and includes EcoRI and NotI sites. The resulting PCR fragment was cloned in a pSPORT vector following digestion with EcoRI and NotI and sequenced in both directions. Two variations from the published sequence, predicted to result in amino acid changes, were detected at nucleotides 1238 and 1797. These were corrected using the Quick-Change Site-Directed Mutagenesis kit (Stratagene, La Jolla, CA), as described previously (17). DTDST in pSPORT was subsequently amplified by PCR with pfu DNA polymerase (Stratagene) using the forward primer defined above and a reverse primer 5′-TGCTCTAGATCA-GTGTGTGTGGTGGTGGTGATCACTACTAAGACTC-AGACCAT-3′ which replaces the NotI site with XbaI. The PCR cycle was denatured at $9 5 \\mathrm { { ^ \\circ C } }$ for 45 s, followed by 35 cycles at 95°C for 45 s, 50°C for 45 s, 72°C for 6 min, with a final extension at 72°C for 10 min. The amplified product was digested with EcoRI and XbaI, subcloned into a modified pGEM vector (24) and sequenced using gene-specific primers to confirm the correct sequence. To determine the effect of DTDST mutations on sulfate transport, plasmids containing modifications in the DTDST coding sequence were constructed using a Quick-Change Site-Directed Mutagenesis kit. The inclusion of the correct mutation was confirmed by sequence analysis. The numbering for the various nucleic acid and amino acid mutations is based on the sequence published in Hästabacka et al. (1).",
+        "bbox": [
+            58,
+            371,
+            489,
+            843
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Capped cRNA encoding wild-type DTDST and DTDST mutants was synthesized according to the manufacturer’s instructions using an mMessage mMachine T7 kit (Ambion, Austin, TX) and stored at –70°C. cRNA was quantified by measurement of the optical density at 260 nm wavelength. In addition, 1 µl of each transcription reaction was separated on a 20% formaldehyde/agarose gel, together with 5 µg of an RNA standard (Gibco BRL, 0.24–9.5 kb ladder). Following separation, the gel was immediately photographed, then scanned into Microsoft PhotoEditor for quantification by the ‘Kodak Digital Science 1D’ program. The relative amounts of the different RNA samples generated in a single preparation were typically within 25% of each other using both methods of quantification. To avoid variability resulting from storage, the different cRNAs used in an experiment were generated at the same time.",
+        "bbox": [
+            60,
+            843,
+            489,
+            910
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            507,
+            109,
+            937,
+            242
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Anion transport in X.laevis oocytes",
+        "text_level": 2,
+        "bbox": [
+            507,
+            252,
+            766,
+            268
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The method for harvesting oocytes from X.laevis has been described by us previously (16). Oocytes were injected with either water or various concentrations of cRNA in a 50 nl volume using a Drummond ‘NANOJECT’ microinjector (Drummond Scientific, Broomall, PA) and returned to 16°C for ∼72 h. For uptakes, oocytes were washed at room temperature in chloridefree buffer (115 mM sodium gluconate, 2.5 mM potassium gluconate, 2.0 mM calcium hydroxide, 11.0 mM HEPES pH 7.35) and incubated in 300 µl of a solution containing chloride-free buffer plus 100 µM [35S]sodium sulfate. After incubation, oocytes were washed three times with ice-cold chloride-free buffer to remove unincorporated isotope, solubilized in 200 µl of 10% SDS and added to 3 ml of 3a70B complete counting cocktail (Research Products International, Mount Prospect, IL). The uptake of radio-isotope in each individual oocyte was determined by scintillation spectroscopy. Sulfate uptake in wild-type DTDST-injected oocytes was typically 50–200-fold greater than in oocytes injected with water; consequently, the water-injected controls are not included in the Figures.",
+        "bbox": [
+            507,
+            271,
+            937,
+            534
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For determination of the sulfate $\\mathrm { K } _ { \\mathrm { m } } ,$ 1.2 mM sodium sulfate in chloride-free buffer was mixed in various proportions with chloride-free buffer without sulfate to obtain the desired final sulfate concentration. For each kinetic experiment, the mean one hour sulfate uptake in 7–10 oocytes was determined at various sulfate concentrations, and the $\\mathrm { K } _ { \\mathrm { m } }$ value was obtained by non-linear regression analysis (Prism Software, GraphPad, San Diego, CA). The $\\mathrm { K } _ { \\mathrm { m } }$ value for each mutant represents the mean $\\mathrm { K } _ { \\mathrm { m } }$ from four different experiments using oocytes from different frogs and compared with the $\\mathrm { K } _ { \\mathrm { m } }$ value for wild-type DTDST in oocytes obtained at the same time from the same frog. Statistical analysis was by paired t-test.",
+        "bbox": [
+            507,
+            534,
+            937,
+            692
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS",
+        "text_level": 2,
+        "bbox": [
+            509,
+            710,
+            710,
+            724
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Office of Research and Development, Department of Veterans Affairs and in part by grant number 685 from the March of Dimes Birth Defects Foundation.",
+        "bbox": [
+            507,
+            730,
+            936,
+            783
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES",
+        "text_level": 2,
+        "bbox": [
+            510,
+            801,
+            630,
+            815
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. Hästbacka, J., de la Chapelle, A., Mahtani, M.M., Clines, G., Reeve-Daly, M.P., Daly, M., Hamilton, B.A., Kusumi, K., Trivedi, B., Weaver, A. et al. (1994) The diastrophic dysplasia gene encodes a novel sulfate transporter: positional cloning by fine-structure linkage disequilibrium mapping. Cell, 78, 1073–1087.",
+            "2. Superti-Furga, A., Hästbacka, J., Wilcox, W.R., Cohn, D.H., van der Harten, H.J., Rossi, A., Blau, N., Rimoin, D.L., Steinmann, B., Lander, E.S. and Gitzelmann, R. (1996) Achondrogenesis type IB is caused by"
+        ],
+        "bbox": [
+            519,
+            823,
+            929,
+            876
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Human Molecular Genetics, 2001, Vol. 10, No. 14 1489",
+        "bbox": [
+            542,
+            67,
+            934,
+            80
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "mutations in the diastrophic dysplasia sulfate transporter gene. Nat. Genet., 12, 100–102.",
+            "3. Hästbacka, J., Superti-Furga, A., Wilcox, W.R., Rimoin, D.L., Cohn, D.H. and Lander, E.S. (1996) Atelosteogenesis type II is caused by mutations in the diastrophic dysplasia sulfate transporter gene (DTDST): Evidence for a phenotypic series involving three chondrodysplasias. Am. J. Hum. Genet., 58, 255–262.",
+            "4. Superti-Furga, A., Neumann, L., Riebel, T., Eich, G., Steinmann, B., Spranger, J. and Kunze, J. (1999) Recessively inherited multiple epiphyseal dysplasia with normal stature, club foot, and double layered patella caused by a DTDST mutation. J. Med. Genet., 36, 621–624.",
+            "5. Rossi, A., Bonaventure, J., Delezoide, A.-L., Superti-Furga, A. and Cetta, G. (1997) Undersulfation of cartilage proteoglycans ex vivo and increased contribution of amino acid sulfur to sulfation in vitro in McAlister dysplasia/atelosteogenesis type 2. Eur. J. Biochem., 248, 741–747.",
+            "6. Mégarbané, A., Haddad, F.A., Haddad-Zebouni, S., Achram, M., Eich, G., Le Merrer, M. and Superti-Furga, A. (1999) Homozygosity for a novel DTDST mutation in a child with a ‘broad bone-platyspondylic’ variant of diastrophic dysplasia. Clin. Genet., 56, 71–76.",
+            "7. Huber, C., Odent, S., Rumeur, S., Padovani, P., Penet, C., Cormier-Daire, V., Munnich, A. and Le Merrer, M. (2001) Sulphate transporter gene mutations in apparently isolated club foot. J. Med. Genet., 38, 191–193.",
+            "8. Satoh, H., Susaki, M., Shukunami, C., Iyama, K., Negoro, T. and Hiraki, Y. (1998) Functional analysis of diastrophic dysplasia sulfate transporter. J. Biol. Chem., 273, 12307–12315.",
+            "9. Superti-Furga, A., Rossi, A., Steinmann, B. and Gitzelmann, R. (1996) A chondrodysplasia family produced by mutation in the diastrophic dysplasia sulfate transporter gene: genotype/phenotype correlations. Am. J. Med. Genet., 63, 144–147.",
+            "10. Rossi, A. and Superti-Furga, A. (2001) Mutations in the diastrophic dysplasia transporter (DTDST) gene (SLC26A2): 22 novel mutations, mutation review, associated skeletal phenotypes and diagnostic relevance. Hum. Mutat., 17, 159–171.",
+            "11. Superti-Furga, A. (1994) A defect in the metabolic activation of sulfate in a patient with achondrogenesis type IB. Am. J. Hum. Genet., 55, 1137–1145.",
+            "12. Rossi, A., van der Harten, H.J., Beemer, F.A., Kleijer, W.J., Gitzelmann, R., Steinmann, B. and Superti-Furga, A. (1996) Phenotypic and genotypic overlap between atelosteogenesis type 2 and diastrophic dysplasia. Hum. Genet., 98, 657–661.",
+            "13. Rossi, A., Kaitila, I., Wilcox, W.R., Rimoin, D.L., Steinmann, B., Cetta, G. and Superti-Furga, A. (1998) Proteoglycan sulfation in cartilage and cell",
+            "cultures from patients with sulfate transporter chondrodysplasias: relationship to clinical severity and indication on the role of intracellular sulfate production. Matrix Biology, 17, 361–369.",
+            "14. Rossi, A., Bonaventure, J., Delezoide, A.-L., Cetta, G. and Superti-Furga, A. (1996) Undersulfation of proteoglycans synthesized by chondrocytes from a patient with achondrogenesis type 1B homozygous for an L483P substitution in the diastrophic dysplasia sulfate transporter. J. Biol. Chem., 271, 18456–18464.",
+            "15. Klingenberg, M. (1981) Membrane protein oligomeric structure and transport function. Nature, 290, 449–454.",
+            "16. Scott, D.A., Wang, R., Kreman, T.M., Sheffield, V.C. and Karniski, L.P. (1999) The Pendred syndrome gene encodes a chloride-iodide transport protein. Nat. Genet., 21, 440–442.",
+            "17. Scott, D.A., Wang, R., Kreman, T.M., Andrews, M., McDonald, J.M., Bishop, J.R., Smith, R.J.H., Karniski, L.P. and Sheffield, V.C. (2000) Functional differences of the PDS gene product are associated with phenotypic variation in patients with Pendred syndrome and non-syndromic hearing loss (DFNB4). Hum. Mol. Genet., 9, 1709–1751.",
+            "18. Hästbacka, J., Kerrebrock, A., Mokkala, K., Clines, G., Lovett, M., Kaitila, I., de la Chapelle, A. and Lander, E.S. (1999) Identification of the Finnish founder mutation for diastrophic dysplasia (DTD). Eur. J. Hum. Genet., 7, 664–670.",
+            "19. Sigel, E. (1990) Use of Xenopus oocytes for the functional expression of plasma membrane proteins. J. Membr. Biol., 117, 201–221.",
+            "20. Denning, G.M., Anderson, M.P., Amara, J.F., Marshall, J., Smith, A.E. and Welsh, M.J. (1992) Processing of mutant cystic fibrosis transmembrane conductance regulator is temperature-sensitive. Nature, 358, 761–764.",
+            "21. Machamer, C.E. and Rose, J.K. (1988) Vesicular stomatitis virus G proteins with altered glycosylation sites display temperature-sensitive intracellular transport and are subject to aberrant intermolecular disulfide bonding. J. Biol. Chem., 263, 5955–5960.",
+            "22. Liu, H.-X., Cartegni, L., Zhang, M.Q. and Krainer, A.R. (2001) A mechanism for exon skipping caused by nonsense or missense mutations in BRCA1 and other genes. Nat. Genet., 27, 55–58.",
+            "23. Horton, W.A., Rimoin, D.L., Lachman, R.S., Skovby, F., Hollister, D.W., Spanger, J., Scott, C.I. and Hall, J.G. (1978) The phenotypic variability in diastrophic dysplasia. J. Pediatr., 93, 609–613.",
+            "24. Liman, E.R., Tygat, J. and Hess, P. (1992) Subunit stoichiometry of a mammalian K<sup>+</sup> channel determined by construction of multimeric cDNAs. Neuron, 9, 861–871."
+        ],
+        "bbox": [
+            85,
+            110,
+            453,
+            131
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "1490 Human Molecular Genetics, 2001, Vol. 10, No. 14",
+        "bbox": [
+            62,
+            67,
+            455,
+            80
+        ],
+        "page_idx": 5
+    }
+]

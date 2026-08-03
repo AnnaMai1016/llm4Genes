@@ -1,0 +1,1133 @@
+[
+    {
+        "type": "text",
+        "text": "The Variable Number of Tandem Repeats Polymorphism of the Dopamine Transporter Gene Is Not Associated with Significant Change in Dopamine Transporter Phenotype in Humans",
+        "text_level": 1,
+        "bbox": [
+            79,
+            189,
+            870,
+            353
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Diana Martinez, M.D., Joel Gelernter, M.D., Anissa Abi-Dargham, M.D., Christopher H. van Dyck, M.D., Lawrence Kegeles, M.D., Ph.D., Robert B. Innis, M.D., Ph.D., and Marc Laruelle, M.D.",
+        "bbox": [
+            79,
+            358,
+            696,
+            410
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A 40 base polymorphism of a variable number of tandem repeats (VNTR) has been described in the 3 <sup>9</sup> untranslated region of the gene (SLC6A3) coding for the dopamine transporter (DAT). Despite being located in the untranslated region of the gene, this polymorphism has been associated with clinical phenotypes associated with dysregulation of dopamine transmission, such as attention deficit hyperactivity disorder and cocaine-induced paranoia. To examine the neurochemical phenotype associated with this polymorphism, we compared amphetamine-induced dopamine release (measured as displacement of the radiotracer [<sup>123</sup>I]IBZM) and DAT expression (measured with [<sup>123</sup>I]b-CIT) in the striatum with Single Photon",
+        "bbox": [
+            79,
+            474,
+            488,
+            675
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEY WORDS: Single Photon Emission Tomography; Dopamine uptake transporter; Dopamine type 2 receptor; Striatum; Genotype; Human",
+        "bbox": [
+            79,
+            702,
+            476,
+            747
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Computerized Emission Tomography (SPECT). Our sample included 59 subjects, 31 healthy controls and 29 patients with schizophrenia. No significant association was found between VNTR polymorphism and amphetamineinduced dopamine release or DAT density in the total sample, nor when each diagnostic group was considered separately. Thus, we did not replicate the findings of two previous studies, which had suggested that the 9 repeat allele was associated with either an increased or decreased DAT expression, albeit in different patient populations. [Neuropsychopharmacology 24:553–560, 2001] © American College of Neruopsychopharmacology. Published by Elsevier Science Inc.",
+        "bbox": [
+            503,
+            474,
+            910,
+            674
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The dopamine transporter (DAT) plays a key role in regulating dopamine neurotransmission. The gene coding for DAT, SLC6A3 (solute carrier family 6, member 3), is localized on chromosome 5p15.3 (Vandenbergh et al. 1992). A 40 base polymorphism of a variable number of tandem repeats (VNTR) has been described in the 39 untranslated region of exon 15 of the gene (Vandenbergh et al. 1992, 2000). In most populations, the nine and ten repeat alleles are the most common, although three, five, seven, eight, and eleven repeat alleles are also observed in various populations (Gelernter et al. 1998).",
+        "bbox": [
+            503,
+            702,
+            917,
+            869
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Despite being located in the untranslated region of the gene, this polymorphism has been associated with sev-",
+        "bbox": [
+            503,
+            869,
+            917,
+            901
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "From the Division of Functional Brain Mapping, New York State Psychiatry Institute (DM, AA-D, LK, ML) and the Departments of Psychiatry (DM, AA-D, LK, ML) and Radiology (AA-D, ML), Columbia University College of Physicians and Surgeons, New York, NY; and the Departments of Psychiatry, Yale University School of Medicine, New Haven, CT (CHVD, RBI, JG).",
+        "bbox": [
+            79,
+            761,
+            491,
+            830
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Address correspondence to: Diana Martinez, M.D., New York State Psychiatric Institute, 1051 Riverside Drive, Box #31, New York, NY 10032; Tel.: (212) 543-6628; Fax: (212) 568-6171, e-mail: dm437@columbia.edu",
+        "bbox": [
+            79,
+            829,
+            491,
+            876
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "ELSEVIER",
+        "bbox": [
+            82,
+            30,
+            148,
+            84
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "Received June 19, 2000; revised September 26, 2000; accepted September 27, 2000.",
+        "bbox": [
+            79,
+            875,
+            491,
+            900
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "NEUROPSYCHOPHARMACOLOGY 2001–VOL. 24, NO. 5 © 2001 American College of Neuropsychopharmacology Published by Elsevier Science Inc. 655 Avenue of the Americas, New York, NY 10010",
+        "bbox": [
+            79,
+            917,
+            424,
+            965
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "0893-133X/01/\\$–see front matter PII S0893-133X(00)00216-5",
+        "bbox": [
+            712,
+            939,
+            917,
+            964
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "eral clinical phenotypes associated with dysregulation of dopamine transmission. Linkage disequilibrium between attention deficit hyperactivity disorder (ADHD) and the 10-repeat allele has been demonstrated in 4 studies (Cook et al. 1995; Daly et al. 1999; Gill et al. 1997; Waldman et al. 1998). Gelernter et al. (1994) have demonstrated an association between the 9-repeat allele and a history of cocaineinduced paranoia among cocaine dependent subjects. An association between the nine-repeat allele and severity of alcohol withdrawal has been reported (Sander et al. 1997; Schmidt et al. 1998). Nine-repeat allele carriers have also be found to be less likely to be tobacco smokers (Lerman et al. 1999; Sabol et al. 1999). On the other hand, this VNTR polymorphism is not associated with polysubstance abuse (Persico et al. 1993), cocaine dependence (Gelernter et al. 1994), delusional disorder (Persico and Catalano 1998), schizophrenia (Byerley et al. 1993; Persico et al. 1995), Tourette’s syndrome (Gelernter et al. 1995; Vandenbergh et al. 2000), or alcoholism itself (Sander et al. 1997; Vandenbergh et al. 2000).",
+        "bbox": [
+            79,
+            85,
+            493,
+            390
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The 39 VNTR polymorphism is not associated with mutations in the DAT protein sequence (Vandenbergh et al. 2000). Thus, these associations suggest that the $3 ^ { \\prime }$ VNTR polymorphism might be in linkage disequilibrium with a mutation which influences either gene expression or physiological function of the protein. Brain imaging provides a tool to study the functional consequences of this genetic polymorphism in vivo. Single photon emission tomography (SPECT) and the radiotracer [<sup>123</sup>I]methyl 3b-(4-iodophenyl)tropane-2b-carboxylate ([<sup>123</sup>I]b-CIT) provides a quantitative measure of DAT availability in the human brain (Innis et al. 1993; Laruelle et al. 1993). Two groups have reported an association between the SLC6A3 VNTR polymorphism and DAT density in humans. Heinz et al. (2000) studied a group of 25 subjects (14 abstinent alcoholics and 11 controls) and reported that 9-repeat individuals (9-10 heterozygotes) had a mean 22% decrease in [<sup>123</sup>I]b-CIT binding in putamen compared to the 10-repeat subjects (10-10 homozygotes). Jacobsen et al. (2000) studied a group of 44 subjects (14 recently detoxified cocaine abusers and 30 healthy controls). In this study, 9-repeat carriers (9-9 homozygotes and 9-10 heterozygotes) showed a mean 13.4% increase in striatal [<sup>123</sup>I]b-CIT binding compared to 10-10 homozygotes. Thus, these groups, using the same radiotracer, reported opposite findings, such that it remains unclear if the SLC6A3 VNTR polymorphism influences the density of this protein in humans.",
+        "bbox": [
+            77,
+            390,
+            493,
+            829
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, DAT function is influenced by multiple factors other than degree of expression, such as phosphorylation and sequestration. The observation that cocaine abusers who have the 9-repeat allele (SLC6A3\\*9R) run an increased risk of developing cocaine induced paranoia (Gelernter et al. 1994) is consistent with the hypothesis that this allele may be associated with a decreased efficiency of the DAT to clear dopamine from the synaptic space, since psychostimulant-induced psychosis is associated with increased dopamine transmission (Laruelle et al. 1996). The increase in synaptic dopamine concentration elicited by a psychostimulant challenge (cocaine, methylphenidate, or amphetamine) can be measured as the decrease in binding potential of the dopamine type 2 receptor (D ) radiotracers such as [<sup>11</sup>C]raclopride or [<sup>123</sup>I]IBZM (Laruelle et al. 1995; Schlaepfer et al., 1997; Volkow et al. 1994). Competition between dopamine and these radiotracers for binding to $\\mathrm { D } _ { 2 }$ receptors in the mechanism believed to underlie this effect, although agonist-mediated internalization of $\\mathrm { D } _ { 2 }$ receptors might also play a role in this response (for review see Laruelle 2000).",
+        "bbox": [
+            79,
+            828,
+            493,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            501,
+            85,
+            917,
+            314
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, we investigated the association between the SLC6A3 VNTR polymorphism and 1) DAT protein availability measured as the specific binding of [<sup>123</sup>I]b-CIT and 2) amphetamine-induced increase in synaptic dopamine measured as a decrease in the specific binding of [<sup>123</sup>I]IBZM. Both measurements were obtained in the same group of 59 subjects (31 healthy controls and 28 untreated patients with schizophrenia). Given the previous contradictory findings reported on the association between SLC6A3 VNTR polymorphism and [<sup>123</sup>I]b-CIT binding, we did not specifically formulate a hypothesis regarding an increase or decrease in [<sup>123</sup>I]b-CIT binding and VNTR polymorphism.",
+        "bbox": [
+            501,
+            313,
+            917,
+            512
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With respect to the association between SLC6A3 VNTR polymorphism and amphetamine-induced dopamine release, our hypothesis was that SLC6A3\\*9R carriers would display greater reduction in [<sup>123</sup>I]IBZM BP following amphetamine (i.e., greater increase in synaptic dopamine) compared to 10-repeat carriers (SLC6A3\\*10R). This hypothesis was generated by the previous observation that the 9 repeat allele increases vulnerability to cocaine-induced psychosis.",
+        "bbox": [
+            503,
+            511,
+            917,
+            648
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "METHODS",
+        "text_level": 2,
+        "bbox": [
+            663,
+            691,
+            759,
+            707
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Subjects",
+        "text_level": 2,
+        "bbox": [
+            505,
+            715,
+            579,
+            731
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The SLC6A3 VNTR polymorphism was determined in 59 subjects: 31 controls and 28 patients with schizophrenia. All 59 subjects underwent SPECT scanning with [<sup>123</sup>I]IBZM, before and after an amphetamine challenge (0.3 mg/kg). Forty-three of these subjects underwent scanning with [<sup>123</sup>I]b-CIT.",
+        "bbox": [
+            503,
+            737,
+            917,
+            829
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The imaging data of most of these subjects have been previously published. In the amphetamine-induced dopamine release sample $( n = 5 9 )$ , imaging data were published in Laruelle et al. (1996) (25 subjects: 13 control subjects and 12 patients with schizophrenia), in Abi-Dargham et al. (1998) (28 subjects: 15 control subjects and 13 patients with schizophrenia), and in Kegeles et al. (1999) (2 control subjects), while imaging data from 4 subjects are unpublished (1 control and 3 patients with schizophrenia). Data included subjects studied at Yale University (53) and Columbia University (6). Studies from both sites were performed using the same type of SPECT camera (PRISM 3000, Picker, Cleveland, OH) equipped with the same collimators and the same protocol, and were conducted under the direction of the same investigators (AAD and ML). We have previously shown that the study site does not affect the outcome measure of amphetamine-induced reduction in [<sup>123</sup>I]IBZM binding potential (Laruelle et al. 1999). The [<sup>123</sup>I]b-CIT sample $( n = 4 3 )$ included 21 controls and 22 patients with schizophrenia. All [<sup>123</sup>I]b-CIT scans were performed at Yale and published in Laruelle et al (Laruelle et al. 2000).",
+        "bbox": [
+            501,
+            828,
+            917,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "554",
+        "bbox": [
+            82,
+            36,
+            109,
+            49
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "D. Martinez et al.",
+        "bbox": [
+            117,
+            36,
+            237,
+            50
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "NEUROPSYCHOPHARMACOLOGY 2001–VOL. 24, NO. 5",
+        "bbox": [
+            594,
+            36,
+            917,
+            51
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            77,
+            85,
+            493,
+            329
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These studies were approved by at least 2 of 4 institutional review boards (IRB). Studies conducted at Yale were approved by the Yale University IRB and West Haven Veteran Administration Medical Center IRB. Studies conducted at Columbia were approved by the New York State Psychiatric Institute IRB and the Columbia Presbyterian Medical Center IRB. Patients provided informed consent after detailed explanation of the nature and risks of the study.",
+        "bbox": [
+            79,
+            328,
+            493,
+            465
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inclusion criteria for patients were as follows: (1) diagnosis of schizophrenia according to Diagnostic and Statistical Manual (DSM-IV), (2) no other DSM-IV axis I diagnosis, (3) no history of alcohol or substance abuse or dependence, (4) no concomitant or past severe medical conditions, (5) absence of pregnancy; (6) no current suicidal or homicidal ideation, and (7) ability to provide informed consent.",
+        "bbox": [
+            79,
+            464,
+            493,
+            587
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All subjects with schizophrenia scanned with [<sup>123</sup>I]IBZM had been off all psychotropic medication for at least 21 days prior to the study (with the exception of lorazepam, which was allowed at a maximal dose of 3 mg per day up to 24 hours prior to the study). Since chronic neuroleptic administration does not affect DAT density (Allard et al. 1990; Ase et al. 1999; Reader et al. 1998; Rivest et al. 1995), there was no rationale to withhold treatment prior to the [<sup>123</sup>I]b-CIT scan. In the [<sup>123</sup>I]b-CIT study, eight of the schizophrenic patients were treated with antipsychotic medication at the time of scanning. The other subjects were off-medications for an average of 17.5 6 11 days (range 7–33 days).",
+        "bbox": [
+            77,
+            585,
+            493,
+            785
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inclusion criteria for the normal control group were: (1) absence of past or present neurological or psychiatric illnesses, (2) no concomitant or past severe medical conditions, (3) absence of pregnancy, (4) absence of prior exposure to d-amphetamine, and (5) informed consent.",
+        "bbox": [
+            79,
+            784,
+            493,
+            862
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Imaging Methods",
+        "text_level": 2,
+        "bbox": [
+            79,
+            882,
+            227,
+            898
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The imaging method and data analyses have been previously described (Laruelle et al. 1996, 2000). Briefly, slices with highest striatal uptake were used to generate a summed striatal slice. Right and left striatal regions and an occipital region were positioned on the summed slice. The right and left striatal regions were averaged and the occipital region was used as the reference region. Attenuation correction was performed using the Chang algorithm (Chang 1987), which assumes uniform attenuation within an ellipse drawn around the skull. Both measures of [<sup>123</sup>I]IBZM and $[ ^ { 1 2 3 } \\mathrm { I } ] \\beta \\mathrm { - } \\mathrm { C I T }$ were taken at equilibrium. For ${ \\lbrack { } ^ { 1 2 3 } { \\mathrm { I } } { \\rbrack } { \\mathsf { \\{ \\{ \\beta } } } { \\cdot } { \\mathrm { C I T } }  , $ , the outcome measure was the specific to nonspecific equilibrium ratio $( \\mathrm { V } _ { 3 } ^ { \\prime \\prime } )$ measured 24 h following single bolus injection. $\\mathrm { V } _ { 3 } ^ { \\prime \\prime }$ is defined as the ratio of specific to nonspecific activity or BP/V2 where $\\mathrm { B P } \\ = \\ \\mathrm { \\hat { B } m a x / K D }$ and V2 is the nondisplaceable distribution volume. For amphetamineinduced dopamine release, the outcome measure was the relative difference in [<sup>123</sup>I]IBZM ${ \\mathrm { V } } _ { 3 } ^ { \\ \\prime \\prime } ,$ measured under equilibrium conditions, before and 60 min after amphetamine injection (0.3 mg/kg). This difference was expressed in percentage of the baseline value.",
+        "bbox": [
+            79,
+            904,
+            491,
+            936
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            501,
+            85,
+            917,
+            392
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SLC6A3 VNTR Polymorphism",
+        "text_level": 2,
+        "bbox": [
+            503,
+            411,
+            747,
+            429
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We used either the primers described by Vandenbergh et al. (1992), as described previously (Gelernter et al. 1998), or primer T7-3along (CTT CCT GGA GGT CAC GGC TCA AGG) (Vandenbergh et al. 1992) and James5 (AG GAA ATT CTG TTT ATG TTC TTG) to amplify the VNTR. The latter pair amplifies a segment 91 bp longer than that amplified by use of both primers described by Vandenbergh et al. (1992).",
+        "bbox": [
+            501,
+            434,
+            917,
+            558
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Statistical Analysis",
+        "text_level": 2,
+        "bbox": [
+            503,
+            579,
+            659,
+            595
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For purpose of this analysis, 9-10 and 9-11 heterozygotes and 9-9 homozygotes were grouped as SLC6A3\\*9R carriers and contrasted with SLC6A3\\*10R homozygotes. Given the relative rarity of 9-9 homozygotes it was necessary to group all 9 allele carriers (homozygotes and heterozygotes) together. Statistical analyses were carried out with a 2 way ANOVA using genotype and diagnosis as factors and the imaging outcome measure as the dependent variable. Values are given as mean 6 SD.",
+        "bbox": [
+            501,
+            601,
+            917,
+            741
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS",
+        "text_level": 2,
+        "bbox": [
+            668,
+            767,
+            754,
+            784
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Genotype Composition of the Sample",
+        "text_level": 2,
+        "bbox": [
+            503,
+            791,
+            804,
+            808
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Among 31 control subjects, 12 were SLC6A3\\*9R carriers (11 were 9-10 and 1 was 9-9), and 19 were 10-repeat homozygotes. Among the 28 subjects with schizophrenia, 11 were SLC6A3\\*9R carriers (8 were 9-10 genotypes, 2 were 9-9, and 1 was 9-11), and 17 were SLC6A3\\*10R homozygotes. The relative proportion of SLC6A3\\*9R carriers was 38% in controls and 39% in patients with schizophrenia. The four subgroups were matched for age (Table 1).",
+        "bbox": [
+            503,
+            813,
+            917,
+            938
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "NEUROPSYCHOPHARMACOLOGY 2001–VOL. 24, NO. 5",
+        "bbox": [
+            79,
+            36,
+            402,
+            51
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "DAT VNTR Polymorphism and Function",
+        "bbox": [
+            584,
+            36,
+            867,
+            51
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "555",
+        "bbox": [
+            888,
+            36,
+            915,
+            49
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5be4549d681421d11e9089ba44bbd0159bd79c4d5e7b21e9a974cbbe57f85252.jpg",
+        "table_caption": [
+            "Table 1. Sample Composition"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td colspan=\"2\">SLC6A3*9R carriers</td><td colspan=\"2\">SLC6A3*10R homozygotes</td></tr><tr><td>Diagnosis</td><td>n</td><td>Age (years)</td><td>n</td><td>Age (years)</td></tr><tr><td>Controls</td><td>12</td><td> $4 3 \\pm 9$ </td><td>19</td><td> $3 8 \\pm 9$ </td></tr><tr><td>Patients with Schizophrenia</td><td>11</td><td> $3 8 \\pm 9$ </td><td>17</td><td> $4 0 \\pm 1 0 $ </td></tr><tr><td>Total</td><td>23</td><td> $4 1 \\pm 9$ </td><td>36</td><td> $3 9 \\pm 1 0$ </td></tr></table>",
+        "bbox": [
+            79,
+            106,
+            489,
+            210
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Amphetamine-Induced Dopamine Release",
+        "text_level": 2,
+        "bbox": [
+            79,
+            266,
+            417,
+            281
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Baseline D2 receptor availability did not differ significantly between SLC6A3\\*9R carriers (baseline [<sup>123</sup>I]IBZM $\\mathrm { V } _ { 3 } ^ { \\prime \\prime } \\mathrm { o f } 0 . 9 3 \\pm 0 . 2 3 )$ and SLC6A3\\*10R homozygotes (0.97 6 0.26, $p = . 5 1 )$ . Regarding amphetamine-induced DA release, analysis of variance revealed a significant effect of diagnosis but no significant effect of DAT VNTR status (Table 2). Amphetamine-induced displacement of [<sup>123</sup>I]IBZM in the SLC6A3\\*9R carrier group was 14.4 6 13.8% compared to 10.3 6 10.2% for the SLC6A3\\*10R homozygote group (p 5 .16).",
+        "bbox": [
+            79,
+            287,
+            493,
+            440
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The mean displacement of [<sup>123</sup>I]IBZM following amphetamine in SLC6A3\\*9R carrier subjects with schizophrenia was 21.0 6 16.2% compared to a mean displacement in SLC6A3\\*10R homozygote subjects with schizophrenia of $1 4 . 5 \\pm 1 1 . 7 \\% ( p = . 2 4 )$ . The SLC6A3\\*9R carrier control subjects showed a mean displacement of $8 . 3 \\ : \\pm \\ : 7 . 8 \\%$ , whereas SLC6A3\\*10R homozygote control subjects showed a mean displacement of $6 . 6 \\pm 7 . 2 \\%$ (p 5 .55). Thus, the SLC6A3\\*9R carrier subjects displayed greater decrease in [<sup>123</sup>I]IBZM BP after amphetamine in both diagnostic groups, but this difference failed to reach significance (Figure 1).",
+        "bbox": [
+            77,
+            439,
+            493,
+            623
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DAT Expression",
+        "text_level": 2,
+        "bbox": [
+            79,
+            643,
+            215,
+            660
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Analysis of variance revealed no significant effect of diagnosis or VNTR status on [<sup>123</sup>I]b-CIT $\\mathrm { V } _ { 3 } ^ { \\prime \\prime }$ (Table 3). The mean [<sup>123</sup>I]b-CIT $\\mathrm { V } _ { 3 } ^ { \\prime \\prime }$ in the SLC6A3\\*9R carrier group was $8 . 1 \\pm 1 . 8$ compared to 8.1 6 1.4 for the SLC6A3\\*10R homozygote group $( p = . 9 7 )$",
+        "bbox": [
+            79,
+            666,
+            491,
+            743
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[<sup>123</sup>I]b-CIT $\\mathrm { V } _ { 3 } ^ { \\prime \\prime }$ in SLC6A3\\*9R carrier subjects with schizophrenia was $7 . 9 \\pm 2 . 1$ compared to $7 . { \\overset { \\cdot } { 8 } } \\pm 1 . 5$ in SLC6A3\\*10R homozygotes subjects with schizophrenia.",
+        "bbox": [
+            77,
+            742,
+            491,
+            790
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SLC6A3\\*9R carrier control subjects showed [<sup>123</sup>I]b-CIT $\\mathrm { V } _ { 3 } ^ { \\prime \\prime } \\mathrm { o f } 8 . 2 \\pm 1 . 5 ,$ whereas SLC6A3\\*10R homozygote control subjects showed [<sup>123</sup>I]b-CIT $\\mathrm { V } _ { 3 } ^ { \\prime \\prime }$ of $8 . 2 \\pm 1 . 3$ (Figure 2). Among the schizophrenic patients, no significant difference was noted between patients on $( [ ^ { 1 2 3 } \\mathrm { I } ] \\beta \\mathrm { - } \\mathrm { C I T }$ $\\mathrm { V } _ { 3 } ^ { \\prime \\prime }$ of $7 . 9 \\pm 1 . 1 )$ or off $( \\mathrm { [ ^ { 1 2 3 } I ] \\beta - \\dot { C } I T \\vee _ { 3 } } ^ { \\prime \\prime }$ of $7 . 8 \\pm 2 . 0 , p =$ .94) neuroleptic at the time of the $[ ^ { 1 2 3 } \\mathrm { I } ] \\beta \\mathrm { - } \\mathrm { C I T }$ scan.",
+        "bbox": [
+            503,
+            85,
+            917,
+            194
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION",
+        "text_level": 2,
+        "bbox": [
+            651,
+            227,
+            769,
+            243
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study, no significant association was detected between SLC6A3 VNTR polymorphism and amphetamineinduced dopamine release or DAT expression. This study is the first report examining potential relationship between SLC6A3 VNTR polymorphism and amphetamine-induced dopamine release. The observation that, in cocaine abusers, SLC6A3\\*9R carrier subjects are more prone to cocaine-induced paranoia (Gelernter et al. 1994) prompted the hypothesis that the SLC6A3\\*9R allele might be associated with increased psychostimulantinduced dopamine release. The mechanism by which amphetamine induces a marked increase in synaptic dopamine is complex, but is ultimately associated with DAT function, since it is currently postulated that amphetamine-induced dopamine release is mediated by reverse transport of dopamine from the cytoplasm to the synaptic cleft (Sulzer et al. 1993).",
+        "bbox": [
+            501,
+            257,
+            917,
+            517
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In accordance with this hypothesis, we observed that, in both groups (patients with schizophrenia and controls), SLC6A3\\*9R carrier subjects displayed a greater amphetamine-induced dopamine release compared to SLC6A3\\*10R homozygotes. Yet, this difference did not reach significance. Thus, it appears that if the VNTR polymorphism has an effect in modulating dopamine transporter function, it is small in magnitude and studies in a larger group of subjects might be needed to clarify this issue.",
+        "bbox": [
+            501,
+            516,
+            917,
+            667
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "While the diagnosis by genotype interaction was not significant, the effect size (dt) of the difference was larger in patients with schizophrenia $( \\mathrm { d t } = 0 . 4 6 )$ than in controls (dt 5 0.07). We previously showed that amphetamine-induced dopamine release is increased in patients with schizophrenia who are experiencing a first episode of illness or an episode of illness exacerbation but not in patients in clinical remission (Laruelle et al. 1999). This observation suggests that the dysregulation of dopamine transmission revealed by the amphetamine challenge might fluctuate over the course of illness. If this is the case, it would make the identification of genotype associated with this response more difficult, since the relationship would have to be corrected for the illness phase. When controlling for this factor (two way ANOVA with clinical phase and genotype as factors and [<sup>123</sup>I]IBZM displacement by amphetamine as dependent variable), we found the previously significant effect of illness phase (p 5 .014) and no effect of the genotype $( p = . 3 3 )$ . Thus, there is no evidence that this confounding factor obscured a potential impact of SLC6A3 VNTR polymorphism on amphetamineinduced dopamine release in patients with schizophrenia. Quite the opposite, the VNTR effect was reduced when the clinical phase was taken into consideration.",
+        "bbox": [
+            501,
+            667,
+            919,
+            791
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8690b766604beec9ceb5930cad9092dbf83925f83add72f42e8230be93fbfefd.jpg",
+        "table_caption": [
+            "Table 2. Effect of Diagnosis and DAT VNTR Status on Amphetamine-Induced Dopamine Release"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td>df</td><td>Sum of Squares</td><td>Mean Square</td><td>F value</td><td>p value</td></tr><tr><td>Diagnosis</td><td>1</td><td>0.148</td><td>0.148</td><td>12.688</td><td>.008</td></tr><tr><td>DAT VNTR Status</td><td>1</td><td>0.024</td><td>0.024</td><td>2.032</td><td>.16</td></tr><tr><td>Diagnosis by VNTR Status</td><td>1</td><td>0.008</td><td>0.008</td><td>0.697</td><td>.41</td></tr><tr><td>Residual</td><td>55</td><td>0.641</td><td>0.012</td><td></td><td></td></tr></table>",
+        "bbox": [
+            191,
+            847,
+            804,
+            929
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "556",
+        "bbox": [
+            82,
+            36,
+            109,
+            50
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "D. Martinez et al.",
+        "bbox": [
+            116,
+            36,
+            239,
+            51
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "NEUROPSYCHOPHARMACOLOGY 2001–VOL. 24, NO. 5",
+        "bbox": [
+            594,
+            36,
+            917,
+            51
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/9cdb1fbf023511545b238a408e897076d4eea5cabb22ff221e1b80da72160ce3.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 1. Mean 6 SD of striatal amphetamine-induced decreased in [<sup>123</sup>I]IBZM binding potential in patients with schizophrenia carriers of the DAT VNTR 9-repeat allele (SCH-9R-C), in patients with schizophrenia homozygotes for the DAT VNTR 10-repeat allele (SCH-10R-H), in healthy controls carriers of the DAT VNTR 9-repeat allele (CTR-9R-C), and in healthy controls homozygotes for the DAT VNTR 10-repeat allele (CTR-10R-H). Schizophrenia was associated with a larger increased in synaptic dopamine following the amphetamine challenge compared to controls. While in both diagnostic groups subjects carriers of the 9-repeat allele displayed larger amphetamine effect, this difference failed to reach significance."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            95,
+            85,
+            478,
+            273
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            79,
+            479,
+            493,
+            738
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Regarding [<sup>123</sup>I]b-CIT binding, the present study was clearly negative and failed to replicate previously described associations between the SLC6A3\\*9R allele and low [<sup>123</sup>I]b-CIT binding (Heinz et al. 2000) or high [<sup>123</sup>I]b-CIT binding (Jacobsen et al. 2000). The three studies used the same ligand ([<sup>123</sup>I]b-CIT) and similar scanning techniques (equilibrium imaging at 24 h post injection), although there were some differences in imaging methodology.",
+        "bbox": [
+            79,
+            738,
+            493,
+            801
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            503,
+            85,
+            917,
+            165
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Heinz et al. (2000) used $\\mathrm { B P ^ { \\prime } }$ as outcome measure, which is the ratio of specific binding to plasma $[ ^ { 1 2 3 } \\mathrm { I } ] \\beta \\mathrm { - } \\mathrm { C I T }$ concentration at equilibrium. In our study and that of Jacobsen et al. (2000), the outcome measure was ${ \\mathrm { V } } _ { 3 } ^ { \\ \\prime \\prime } ,$ which is a ratio of specific to non-specific binding. Although we would not expect genotype to affect non-specific binding, the advantage of the method used by Heinz et al. (2000) is that it protects against possible between group differences in nonspecific binding.",
+        "bbox": [
+            505,
+            170,
+            917,
+            321
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. Jacobsen et al. (2000) and Heinz et al. (2000) used the cerebellum as the reference region, whereas our study used the occipital cortex as the reference region. Again, this factor would not be expected to affect the outcome given that both regions are devoid of both DAT and $\\mathrm { D } _ { 2 }$ receptors.",
+        "bbox": [
+            505,
+            320,
+            917,
+            412
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Jacobsen et al. (2000) performed attenuation correction based on a transmission scan, whereas our study and that of Heinz et al. (2000) assumed uniform attenuation within an ellipse drawn around the skull. However, attenuation correction based on transmission scan does not significantly increase striatal [<sup>123</sup>I]b-CIT accuracy compared to uniform attenuation (Rajeevan et al. 1998). Thus, the differences in imaging methods between the three studies are not expected to bias the between group comparisons.",
+        "bbox": [
+            505,
+            412,
+            917,
+            566
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Interactions between VNTR polymorphism effect on gene expression and clinical conditions is another potential source of conflicting results. Heinz et al. (2000) studied alcoholic subjects and healthy controls, Jacobsen et al. (2000) studied cocaine abusers and healthy controls, and we studied patients with schizophrenia and healthy controls. However, in all three studies, the findings resulting from the analysis of the entire sample (pathological condition plus controls) were also present in the control subjects.",
+        "bbox": [
+            503,
+            570,
+            917,
+            723
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Heinz et al. (2000) studied a group of 25 subjects (14 abstinent alcoholics and 11 controls) and reported that SLC6A3\\*9R carriers had a mean 22% decrease in $[ { } ^ { 1 2 3 } \\mathrm { I } ] \\beta \\cdot$ CIT binding in putamen compared to non SLC6A3\\*10R homozygotes. Since this association was significant in the putamen but not in the caudate, we also analyzed our data by subregions. The lack of association between SLC6A3 VNTR and [<sup>123</sup>I]b-CIT $\\mathrm { V } _ { 3 } ^ { \\prime \\prime }$ was observed in both caudate (SLC6A3\\*9R carriers, 8.1 6 1.9; SLC6A3\\*10R homozygotes, 8.2 6 1.5) and putamen (SLC6A3\\*9R carriers, 8.0 6 1.7; SLC6A3\\*10R homozygotes, $7 . 9 \\pm 1 . 4 )$ The study of Heinz et al. (2000) was controlled for possible confounding factors such as age and the lower [<sup>123</sup>I]b-CIT binding was observed in both control and alcoholic SLC6A3\\*9R carriers. Thus, discrepancies between the results of Heinz et al. (2000) and our study probably stem from a sampling effect due to relatively small sample sizes.",
+        "bbox": [
+            501,
+            722,
+            917,
+            801
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5ca318d83de4d26fa107f86fc13bd24e7da05ae3330ffc641552af9596f7325.jpg",
+        "table_caption": [
+            "Table 3. Effect of Diagnosis and DAT VNTR Status on [<sup>123</sup>I]b-CIT V 0"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td>df</td><td>Sum of Squares</td><td>Mean Square</td><td>F value</td><td>p value</td></tr><tr><td>Diagnosis</td><td>1</td><td>1.346</td><td>1.346</td><td>0.528</td><td>.47</td></tr><tr><td>DAT VNTR Status</td><td>1</td><td>0.003</td><td>0.003</td><td>0.001</td><td>.97</td></tr><tr><td>Diagnosis by VNTR Status</td><td>1</td><td>0.064</td><td>0.064</td><td>0.025</td><td>.87</td></tr><tr><td>Residual</td><td>39</td><td>99.389</td><td>2.548</td><td></td><td></td></tr></table>",
+        "bbox": [
+            191,
+            847,
+            804,
+            930
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "NEUROPSYCHOPHARMACOLOGY 2001–VOL. 24, NO. 5",
+        "bbox": [
+            80,
+            36,
+            404,
+            51
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "DAT VNTR Polymorphism and Function",
+        "bbox": [
+            584,
+            36,
+            867,
+            51
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "557",
+        "bbox": [
+            888,
+            36,
+            914,
+            49
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "chart",
+        "img_path": "images/bf26445bafc8b84938fb44b55f5d2b333d0b2f11e56080d76a0f9824d14c4a53.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 2. $\\mathrm { M e a n } \\pm \\mathrm { S D }$ of striatal $[ ^ { 1 2 3 } \\mathrm { I } ] \\beta \\mathrm { – C I T } \\mathrm { V } _ { 3 } ^ { \\prime \\prime }$ in patients with schizophrenia carriers of the DAT VNTR 9-repeat allele (SCH-9R-C), in patients with schizophrenia homozygotes for the DAT VNTR 10-repeat allele (SCH-10R-H), in healthy controls carriers of the DAT VNTR 9-repeat allele (CTR-9R-C), and in healthy controls homozygotes for the DAT VNTR 10-repeat allele (CTR-10R-H). The DAT VNTR polymorphism had no influence on DAT expression measured with $[ ^ { 1 2 3 } \\mathrm { I } ] \\beta \\mathrm { - C I T }$"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            94,
+            85,
+            468,
+            272
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            79,
+            435,
+            491,
+            631
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Jacobsen et al. (2000) studied a group of 44 subjects (14 recently detoxified cocaine abusers and 30 healthy controls). A lower [<sup>123</sup>I]b-CIT binding was observed in SLC6A3\\*10R homozygote subjects, and this finding was also present when cocaine abusers were removed from the analysis and when analyses were controlled for age. Thus, we cannot readily identify factors that might account for the differences between the two studies, which could also result from sampling effects of relatively small cohorts.",
+        "bbox": [
+            79,
+            631,
+            491,
+            782
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "When the results of the three studies are considered together, the most parsimonious conclusion is that the SLC6A3 VNTR polymorphism is not consistently associated with differences in DAT expression in humans, although we cannot completely exclude the possibility that this is a diagnosis-dependent relationship.",
+        "bbox": [
+            79,
+            782,
+            491,
+            875
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A potential limitation of this study is that we did not control for possible affect of nicotine on outcome measures (the smoking status of the subjects was not consistently recorded). Cigarette smokers have been shown to have a higher uptake of cerebral [18F]DOPA (Salokangas et al. 2000) as well as decreased levels of striatal monoamine oxidase A and B (Fowler et al. 1996, 1998), both of these findings would be expected to decrease dopamine metabolism in the striatum of smokers. Although we know of no study to date that demonstrates increased amphetamine-induced dopamine release in response to amphetamine in smokers, it is possible that the smoking status of subjects could affect this response. With regard to the [<sup>123</sup>I]b-CIT study, a recent study has demonstrated that smoking status does not affect striatal [<sup>123</sup>I]b-CIT binding (Staley et al., 1999).",
+        "bbox": [
+            79,
+            873,
+            491,
+            935
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            503,
+            85,
+            915,
+            268
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary, this study failed to identify neurochemical phenotypes associated with the VNTR polymorphism of the DAT. The mechanism by which this polymorphism is associated with conditions such as ADHD remains to be elucidated.",
+        "bbox": [
+            503,
+            268,
+            917,
+            344
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS",
+        "text_level": 2,
+        "bbox": [
+            611,
+            382,
+            811,
+            396
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Research was supported by Public Health Service (NIDA RO1-DA10219-01, NIMH 2-RO1-MH54192, and NIMH 1-K02- MH01603-01).",
+        "bbox": [
+            503,
+            412,
+            915,
+            453
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES",
+        "text_level": 2,
+        "bbox": [
+            653,
+            488,
+            769,
+            505
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Abi-Dargham A, Gil R, Krystal J, Baldwin R, Seibyl J, Bowers M, van Dyck C, Charney D, Innis R, Laruelle M (1998): Increased striatal dopamine transmission in schizophrenia: Confirmation in a second cohort. Am J Psychiatry 155:761–767",
+            "Allard P, Eriksson K, Ross SB, Marcusson JO (1990): Unaltered [3H]GBR–12935 binding after chronic treatment with dopamine active drugs. Psychopharmacol 102: 291–294",
+            "Ase AR, Amdiss F, Hebert C, Huang N, van Gelder NM, Reader TA (1999): Effects of antipsychotic drugs on dopamine and serotonin contents and metabolites, dopamine and serotonin transporters, and serotonin1A receptors. J Neural Transm 106:75–105",
+            "Byerley W, Coon H, Hoff M, Holik J, Waldo M, Freedman R, Caron M, Giros B (1993): Human dopamine transporter gene not linked to schizophrenia in multigenerational pedigrees. Hum Hered 43:319–322",
+            "Chang LT (1987): A method for attenuation correction in computed tomography. IEEE Trans Nucl Sci NS-25:638– 643",
+            "Cook EH, Jr., Stein MA, Krasowski MD, Cox NJ, Olkon DM, Kieffer JE, Leventhal BL (1995): Association of attention-deficit disorder and the dopamine transporter gene. Am J Hum Genet 56:993–998",
+            "Daly G, Hawi Z, Fitzgerald M, Gill M (1999): Mapping susceptibility loci in attention deficit hyperactivity disorder: preferential transmission of parental alleles at DAT1, DBH and DRD5 to affected children. Mol Psychiatry 4:192–196"
+        ],
+        "bbox": [
+            508,
+            521,
+            915,
+            585
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "558",
+        "bbox": [
+            82,
+            37,
+            109,
+            49
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "D. Martinez et al.",
+        "bbox": [
+            117,
+            36,
+            237,
+            50
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "NEUROPSYCHOPHARMACOLOGY 2001–VOL. 24, NO. 5",
+        "bbox": [
+            595,
+            36,
+            917,
+            50
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Fowler JS, Volkow ND, Wang GJ, Pappas N, Logan J, MacGregor R, Alexoff D, Wolf AP, Warner D, Cilento R, Zezulkova I (1998): Neuropharmacological actions of cigarette smoke: Brain monoamine oxidase B (MAO B) inhibition. J Addict Dis 17:23–34",
+            "Fowler JS, Volkow ND, Wang GJ, Pappas N, Logan J, Shea C, Alexoff D, MacGregor RR, Schlyer DJ, Zezulkova I, Wolf AP (1996): Brain monoamine oxidase A inhibition in cigarette smokers. Proc Natl Acad Sci USA 93:14065– 14069",
+            "Gelernter J, Kranzler H, Lacobelle J (1998): Population studies of polymorphisms at loci of neuropsychiatric interest (tryptophan hydroxylase (TPH), dopamine transporter protein (SLC6A3), D3 dopamine receptor (DRD3), apolipoprotein E (APOE), mu opioid receptor (OPRM1), and ciliary neurotrophic factor (CNTF)). Genomics 52: 289–297",
+            "Gelernter J, Kranzler HR, Satel S, Rao PA (1994): Genetic association between dopamine transporter alleles and cocaine-induced paranoia. Neuropsychopharmacology 11:195–200",
+            "Gelernter J, Uhl G, Kruger S, Pauls DL, Kurlan R, Pakstis AJ, Kidd KK, Vandenbergh D (1995): The dopamine transporter protein gene (SLC6A3): Primary linkage mapping, and linkage studies in Tourette’s syndrome. Genomics 30:459–463",
+            "Gill M, Daly G, Heron S, Hawi Z, Fitzgerald M (1997): Confirmation of association between attention deficit hyperactivity disorder and a dopamine transporter polymorphism. Mol Psychiatr 2:311–313",
+            "Heinz A, Goldman D, Jones DW, Palmour R, Hommer D, Gorey JG, Lee KS, Linnoila M, Weinberger DR (2000): Genotype influences in vivo dopamine transporter availability in human striatum. Neuropsychopharmacology 22:133–139",
+            "Innis RB, Seibyl JP, Scanley BE, Laruelle M, Abi-Dargham A, Wallace E, Baldwin RM, Zea-Ponce Y, Zoghbi S, Wang S, Gao Y, Neumeyer JL, Charney DS, Hoffer PB, Marek KL (1993): Single photon emission computed tomographic imaging demonstrates loss of striatal transporters in Parkinson’s disease. Proc Natl Acad Sci 90:11965– 11969",
+            "Jacobsen LK, Staley JK, Zoghbi SS, Seibyl JP, Kosten TR, Innis RB, Gelernter J (2000): Prediction of dopamine transporter binding availability by genotype: a preliminary report. Am J Psychiatry 157:1700–1703",
+            "Kegeles LS, Zea-Ponce Y, Abi-Dargham A, Rodenhiser J, Wang T, Weiss R, Van Heertum RL, Mann JJ, Laruelle M (1999): Stability of [123I]IBZM SPECT measurement of amphetamine-induced striatal dopamine release in humans. Synapse 31:302–308",
+            "Laruelle M (2000): Imaging synaptic neurotransmission with in vivo binding competition techniques: A critical review. J Cereb Blood Flow Metab 20:423–451",
+            "Laruelle M, Abi-Dargham A, Gil R, Kegeles L, Innis R (1999): Increased dopamine transmission in schizophrenia: relationship to illness phases. Biol Psychiatry 46:56–72",
+            "Laruelle M, Abi-Dargham A, van Dyck C, Gil R, D’Souza DC, Krystal J, Seibyl J, Baldwin R, Innis R (2000): Dopamine and serotonin transporters in patients with schizophrenia: an imaging study with [(123)I]beta-CIT. Biol Psychiatry 47:371–379",
+            "Laruelle M, Abi-Dargham A, van Dyck CH, Gil R, De Souza CD, Erdos J, Mc Cance E, Rosenblatt W, Fingado C, Zoghbi SS, Baldwin RM, Seibyl JP, Krystal JH, Charney DS, Innis RB (1996): Single photon emission computerized tomography imaging of amphetamine-induced dopamine release in drug free schizophrenic subjects. Proc Natl Acad Sci USA 93:9235–9240",
+            "Laruelle M, Abi-Dargham A, van Dyck CH, Rosenblatt W, Zea-Ponce Y, Zoghbi SS, Baldwin RM, Charney DS, Hoffer PB, Kung HF, Innis RB (1995): SPECT imaging of striatal dopamine release after amphetamine challenge. J Nucl Med 36:1182–1190",
+            "Laruelle M, Baldwin RM, Malison RT, Zea-Ponce Y, Zoghbi SS, Al-Tikriti M, Sybirska EH, Zimmerman RC, Wisnieski G, Neumeyer JL, Milius RA, Wang RA, Smith EO, Roth RH, Charney D, Hoffer PB, Innis RB (1993): SPECT imaging of dopamine and serotonin transporters with [<sup>123</sup>I]b-CIT: pharmacological characterization of brain uptake in nonhuman primates. Synapse 13:295– 309",
+            "Lerman C, Caporaso NE, Audrain J, Main D, Bowman ED, Lockshin B, Boyd NR, Shields PG (1999): Evidence suggesting the role of specific genetic factors in cigarette smoking. Health Psychol 18:14–20",
+            "Persico AM, Catalano M (1998): Lack of association between dopamine transporter gene polymorphisms and delusional disorder. Am J Med Genet. 81:163–165",
+            "Persico AM, Vandenbergh DJ, Smith SS, Uhl GR (1993): Dopamine transporter gene polymorphisms are not associated with substance abuse. Biol. Psychiatry 34: 265–267",
+            "Persico AM, Wang ZW, Black DW, Andreasen NC, Uhl GR, Crowe RR (1995): Exclusion of close linkage of the dopamine transporter gene with schizophrenia spectrum disorders. Am J Psychiatry 152:134–136",
+            "Rajeevan N, Zubal IG, Ramsby SQ, Zoghbi SS, Seibyl J, Innis RB (1998): Significance of nonuniform attenuation correction in quantitative brain SPECT imaging. J Nucl Med 39:1719–1726",
+            "Reader TA, Ase AR, Huang N, Hebert C, van Gelder NM (1998): Neuroleptics and dopamine transporters. Neurochem Res 23:73–80",
+            "Rivest R, Falardeau P, Di Paolo T (1995): Brain dopamine transporter: Gender differences and effect of chronic haloperidol. Brain Res 692:269–272",
+            "Sabol SZ, Nelson ML, Fisher C, Gunzerath L, Brody CL, Hu S, Sirota LA, Marcus SE, Greenberg BD, Lucas FRt, Benjamin J, Murphy DL, Hamer DH (1999): A genetic association for cigarette smoking behavior. Health Psychol 18:7–13",
+            "Salokangas RK, Vilkman H, Ilonen T, Taiminen T, Bergman J, Haaparanta M, Solin O, Alanen A, Syvalahti E, Hietala J (2000): High levels of dopamine activity in the basal ganglia of cigarette smokers [In Process Citation]. Am J Psychiatry 157:632–634",
+            "Sander T, Harms H, Podschus J, Finckh U, Nickel B, Rolfs A, Rommelspacher H, Schmidt LG (1997): Allelic association of a dopamine transporter gene polymorphism in alcohol dependence with withdrawal seizures or delirium. Biol Psychiatry 41:299–304",
+            "Schlaepfer TE, Pearlson GD, Wong DF, Marenco S, Dannals RF (1997): PET study of competition between intrave-"
+        ],
+        "bbox": [
+            80,
+            87,
+            491,
+            151
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "NEUROPSYCHOPHARMACOLOGY 2001–VOL. 24, NO. 5",
+        "bbox": [
+            80,
+            37,
+            402,
+            50
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "DAT VNTR Polymorphism and Function",
+        "bbox": [
+            584,
+            36,
+            867,
+            51
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "559",
+        "bbox": [
+            888,
+            37,
+            915,
+            49
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "nous cocaine and [C-11]raclopride at dopamine receptors in human subjects. Am J Psychiatry 154:1209–1213",
+            "Schmidt LG, Harms H, Kuhn S, Rommelspacher H, Sander T (1998): Modification of alcohol withdrawal by the A9 allele of the dopamine transporter gene. Am J Psychiatry 155:474–478",
+            "Staley JK, Krishnan-Sarin S, Zoghbi S, Tamagnan G, Seibyl JP, Jatlow S, O’Malley S, Innis RB (1999): [<sup>123</sup>I]b-CIT SPECT imaging of dopamine and serotonin transporters in tobacco smokers. Soc Neurosci Abs 25:1067",
+            "Sulzer D, Maidment NT, Rayport, S (1993): Amphetamine and other weak bases act to promote reverse transport of dopamine in ventral midbrain neurons. J Neurochem 60:527–535",
+            "Vandenbergh DJ, Persico AM, Hawkins AL, Griffin CA, Li X, Jabs EW, Uhl GR (1992): Human dopamine transporter gene (DAT1) maps to chromosome 5p15.3 and displays a VNTR. Genomics 14:1104–1106",
+            "Vandenbergh DJ, Thompson MD, Cook EH, Bendahhou E, Nguyen T, Krasowski MD, Zarrabian D, Comings D, Sellers EM, Tyndale RF, George SR, O’Dowd BF, Uhl GR (2000): Human dopamine transporter gene: coding region conservation among normal, Tourette’s disorder, alcohol dependence and attention-deficit hyperactivity disorder populations. Mol Psychiatry 5:283–292",
+            "Volkow ND, Wang G-J, Fowler JS, Logan J, Schlyer D, Hitzemann R, Lieberman J, Angrist B, Pappas N, MacGregor R, Burr G, Cooper T, Wolf AP (1994): Imaging endogenous dopamine competition with [<sup>11</sup>C]raclopride in the human brain. Synapse 16:255–262",
+            "Waldman ID, Rowe DC, Abramowitz A, Kozel ST, Mohr JH, Sherman SL, Cleveland HH, Sanders ML, Gard JM, Stever C (1998): Association and linkage of the dopamine transporter gene and attention- deficit hyperactivity disorder in children: heterogeneity owing to diagnostic subtype and severity. Am J Hum Genet 63: 1767–1776"
+        ],
+        "bbox": [
+            111,
+            88,
+            489,
+            113
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "560",
+        "bbox": [
+            82,
+            37,
+            109,
+            49
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "D. Martinez et al.",
+        "bbox": [
+            117,
+            36,
+            237,
+            50
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "NEUROPSYCHOPHARMACOLOGY 2001–VOL. 24, NO. 5",
+        "bbox": [
+            595,
+            37,
+            915,
+            50
+        ],
+        "page_idx": 7
+    }
+]

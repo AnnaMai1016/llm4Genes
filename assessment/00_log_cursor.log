@@ -1,0 +1,104 @@
+2026-04-14 15:01:04 | INFO | assessment.batch_submit | submission started | scenario=extract__gpt-5-mini__sample_meta__20260414T150104Z | turn=1
+2026-04-14 15:01:10 | INFO | assessment.batch_submit | requests built | count=50 | missing=0
+2026-04-14 15:01:10 | INFO | assessment.batch_submit | dry-run enabled. Batch submission skipped.
+2026-04-14 19:09:32 | INFO | assessment.batch_submit | submission started | scenario=smoke_single | strategy=single-path | turn=1
+2026-04-14 19:09:33 | INFO | assessment.batch_submit | requests built | count=3 | missing=0
+2026-04-14 19:09:33 | INFO | assessment.batch_submit | dry-run enabled. Batch submission skipped.
+2026-04-14 19:16:39 | INFO | assessment.batch_submit | submission started | scenario=s1_gpt54_single | strategy=single-path | turn=1
+2026-04-14 19:16:47 | INFO | assessment.batch_submit | requests built | count=50 | missing=0
+2026-04-14 19:16:50 | INFO | assessment.batch_submit | batch submitted | batch_id=batch_69ded8f1a4bc8190ace85b269c406d01 | input_file_id=file-C58Ui8eVgncGrbvVxtSmnM
+2026-04-14 19:20:55 | INFO | assessment.batch_download | download start | scenario=s1_gpt54_single | jobs=1
+2026-04-14 19:20:55 | INFO | assessment.batch_download | polling batch | batch_id=batch_69ded8f1a4bc8190ace85b269c406d01
+2026-04-14 19:40:16 | INFO | assessment.batch_submit | submission started | scenario=smoke_single | strategy=single-path | turn=1
+2026-04-14 19:40:16 | INFO | assessment.batch_submit | requests built | count=3 | missing=0
+2026-04-14 19:40:16 | INFO | assessment.batch_submit | dry-run enabled. Batch submission skipped.
+2026-04-14 19:43:31 | INFO | assessment.batch_download | download start | scenario=s1_gpt54_single | jobs=1
+2026-04-14 19:43:31 | INFO | assessment.batch_download | polling batch | batch_id=batch_69ded8f1a4bc8190ace85b269c406d01
+2026-04-14 19:45:00 | INFO | assessment.batch_download | download start | scenario=s1_gpt54_single | jobs=1
+2026-04-14 19:45:00 | INFO | assessment.batch_download | polling batch | batch_id=batch_69ded8f1a4bc8190ace85b269c406d01
+2026-04-14 19:45:01 | INFO | assessment.batch_download | batch status | batch_id=batch_69ded8f1a4bc8190ace85b269c406d01 | status=completed
+2026-04-14 19:45:01 | INFO | assessment.batch_download | downloaded error file | batch_id=batch_69ded8f1a4bc8190ace85b269c406d01
+2026-04-14 19:45:01 | INFO | assessment.batch_download | download finished | scenario=s1_gpt54_single
+2026-04-14 19:55:31 | INFO | assessment.batch_submit | submission started | scenario=s1_gpt54_single | strategy=single-path | turn=1
+2026-04-14 19:55:39 | INFO | assessment.batch_submit | requests built | count=50 | missing=0
+2026-04-14 19:55:42 | INFO | assessment.batch_submit | batch submitted | batch_id=batch_69dee20d9af8819097de74d4f82108de | input_file_id=file-6MfRvvsmmhRURdQxdBFB6j
+2026-04-14 20:19:26 | INFO | assessment.batch_submit | submission started | scenario=s2_gpt5_single | strategy=single-path | turn=1
+2026-04-14 20:19:32 | INFO | assessment.batch_submit | requests built | count=50 | missing=0
+2026-04-14 20:19:35 | INFO | assessment.batch_submit | batch submitted | batch_id=batch_69dee7a6921881909d4b79f4ea1c9c15 | input_file_id=file-8aAeUG2BY9UsYrziH4hB5G
+2026-04-14 20:36:09 | INFO | assessment.batch_download | download start | scenario=s2_gpt5_single | jobs=1
+2026-04-14 20:36:09 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dee7a6921881909d4b79f4ea1c9c15
+2026-04-14 20:36:10 | INFO | assessment.batch_download | batch status | batch_id=batch_69dee7a6921881909d4b79f4ea1c9c15 | status=completed
+2026-04-14 20:36:11 | INFO | assessment.batch_download | downloaded output file | batch_id=batch_69dee7a6921881909d4b79f4ea1c9c15
+2026-04-14 20:36:18 | INFO | assessment.batch_download | download finished | scenario=s2_gpt5_single
+2026-04-14 21:38:55 | INFO | assessment.batch_download | download start | scenario=s1_gpt54_single | jobs=1
+2026-04-14 21:38:55 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dee20d9af8819097de74d4f82108de
+2026-04-14 21:38:56 | INFO | assessment.batch_download | batch status | batch_id=batch_69dee20d9af8819097de74d4f82108de | status=completed
+2026-04-14 21:38:57 | INFO | assessment.batch_download | downloaded output file | batch_id=batch_69dee20d9af8819097de74d4f82108de
+2026-04-14 21:39:02 | INFO | assessment.batch_download | download finished | scenario=s1_gpt54_single
+2026-04-15 09:35:27 | INFO | assessment.batch_submit | submission started | scenario=s3_gpt5_multi | strategy=multi-path | turn=1
+2026-04-15 09:35:29 | INFO | assessment.batch_submit | requests built | count=50 | missing=0
+2026-04-15 09:35:32 | INFO | assessment.batch_submit | batch submitted | batch_id=batch_69dfa234289481908a5fa2ca1f90350b | input_file_id=file-CPrNgvd1tjYhxFWDPmUSHp
+2026-04-15 10:14:23 | INFO | assessment.batch_submit | submission started | scenario=s3_gpt5_multi | strategy=multi-path | turn=2
+2026-04-15 10:15:14 | INFO | assessment.batch_submit | submission started | scenario=s3_gpt5_multi | strategy=multi-path | turn=2
+2026-04-15 10:15:14 | INFO | assessment.batch_submit | requests built | count=0 | missing=50
+2026-04-15 10:15:14 | WARNING | assessment.batch_submit | No requests created for this turn. Exiting.
+2026-04-15 10:28:19 | INFO | assessment.batch_submit | submission started | scenario=s3_gpt5_multi | strategy=multi-path | turn=2
+2026-04-15 10:28:27 | INFO | assessment.batch_submit | requests built | count=50 | missing=0
+2026-04-15 10:28:30 | INFO | assessment.batch_submit | batch submitted | batch_id=batch_69dfae9e29c48190b269162295f857af | input_file_id=file-1PHx6WqYJuMUQ45PdkH8de
+2026-04-15 10:29:34 | INFO | assessment.batch_submit | submission started | scenario=s3_gpt5_multi | strategy=multi-path | turn=3
+2026-04-15 10:29:35 | INFO | assessment.batch_submit | requests built | count=50 | missing=0
+2026-04-15 10:29:37 | INFO | assessment.batch_submit | batch submitted | batch_id=batch_69dfaee0f9248190a80cb47fa723cc7e | input_file_id=file-14imTszRLtvU2TfPGdUqCY
+2026-04-15 10:38:18 | INFO | assessment.batch_submit | submission started | scenario=s3_gpt5_multi | strategy=multi-path | turn=1
+2026-04-15 10:38:23 | INFO | assessment.batch_submit | requests built | count=50 | missing=0
+2026-04-15 10:38:25 | INFO | assessment.batch_submit | batch submitted | batch_id=batch_69dfb0f1051481909079f3bbc631706e | input_file_id=file-HzavzW1bihnq5TBjYJb1zZ
+2026-04-15 10:52:43 | INFO | assessment.batch_download | download start | scenario=s3_gpt5_multi | jobs=3
+2026-04-15 10:52:43 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dfb0f1051481909079f3bbc631706e
+2026-04-15 10:52:44 | INFO | assessment.batch_download | batch status | batch_id=batch_69dfb0f1051481909079f3bbc631706e | status=completed
+2026-04-15 10:52:45 | INFO | assessment.batch_download | downloaded output file | batch_id=batch_69dfb0f1051481909079f3bbc631706e
+2026-04-15 10:52:50 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dfae9e29c48190b269162295f857af
+2026-04-15 10:52:50 | INFO | assessment.batch_download | batch status | batch_id=batch_69dfae9e29c48190b269162295f857af | status=completed
+2026-04-15 10:52:51 | INFO | assessment.batch_download | downloaded output file | batch_id=batch_69dfae9e29c48190b269162295f857af
+2026-04-15 10:52:55 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dfaee0f9248190a80cb47fa723cc7e
+2026-04-15 10:52:55 | INFO | assessment.batch_download | batch status | batch_id=batch_69dfaee0f9248190a80cb47fa723cc7e | status=completed
+2026-04-15 10:52:56 | INFO | assessment.batch_download | downloaded output file | batch_id=batch_69dfaee0f9248190a80cb47fa723cc7e
+2026-04-15 10:53:00 | INFO | assessment.batch_download | download finished | scenario=s3_gpt5_multi
+2026-04-15 10:54:20 | INFO | assessment.batch_submit | submission started | scenario=s3_gpt5_multi | strategy=multi-path | turn=4
+2026-04-15 10:54:28 | INFO | assessment.batch_submit | requests built | count=50 | missing=0
+2026-04-15 10:54:30 | INFO | assessment.batch_submit | batch submitted | batch_id=batch_69dfb4b5e8d08190a72aef5c1c91a9aa | input_file_id=file-QNz5SbBeaqVeips2zhmsyJ
+2026-04-15 10:55:00 | INFO | assessment.batch_submit | submission started | scenario=s3_gpt5_multi | strategy=multi-path | turn=5
+2026-04-15 10:55:00 | INFO | assessment.batch_submit | requests built | count=50 | missing=0
+2026-04-15 10:55:02 | INFO | assessment.batch_submit | batch submitted | batch_id=batch_69dfb4d62eb88190974ba5d4cbce90a9 | input_file_id=file-CdcrVPrkwxV3aDqqhD1LgB
+2026-04-15 11:00:15 | INFO | assessment.batch_submit | submission started | scenario=s4_gpt5_update1 | strategy=update | turn=1
+2026-04-15 12:43:35 | INFO | assessment.batch_download | download start | scenario=s3_gpt5_multi | jobs=4
+2026-04-15 12:43:35 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dfb0f1051481909079f3bbc631706e
+2026-04-15 12:43:37 | INFO | assessment.batch_download | batch status | batch_id=batch_69dfb0f1051481909079f3bbc631706e | status=completed
+2026-04-15 12:43:41 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dfae9e29c48190b269162295f857af
+2026-04-15 12:43:41 | INFO | assessment.batch_download | batch status | batch_id=batch_69dfae9e29c48190b269162295f857af | status=completed
+2026-04-15 12:43:43 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dfaee0f9248190a80cb47fa723cc7e
+2026-04-15 12:43:43 | INFO | assessment.batch_download | batch status | batch_id=batch_69dfaee0f9248190a80cb47fa723cc7e | status=completed
+2026-04-15 12:43:45 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dfb4b5e8d08190a72aef5c1c91a9aa
+2026-04-15 12:43:45 | INFO | assessment.batch_download | batch status | batch_id=batch_69dfb4b5e8d08190a72aef5c1c91a9aa | status=completed
+2026-04-15 12:43:46 | INFO | assessment.batch_download | downloaded output file | batch_id=batch_69dfb4b5e8d08190a72aef5c1c91a9aa
+2026-04-15 12:43:52 | INFO | assessment.batch_download | download finished | scenario=s3_gpt5_multi
+2026-04-15 12:45:56 | INFO | assessment.batch_submit | submission started | scenario=s3_gpt5_multi | strategy=multi-path | turn=5
+2026-04-15 12:46:05 | INFO | assessment.batch_submit | requests built | count=50 | missing=0
+2026-04-15 12:46:07 | INFO | assessment.batch_submit | batch submitted | batch_id=batch_69dfcedee5048190aeb0e7db311e50ba | input_file_id=file-KLEutEXBvwAqrVMTrsCP7K
+2026-04-15 12:59:26 | INFO | assessment.batch_submit | submission started | scenario=smoke_single | strategy=single-path | turn=1
+2026-04-15 12:59:26 | INFO | assessment.batch_submit | requests built | count=2 | missing=0
+2026-04-15 12:59:26 | INFO | assessment.batch_submit | dry-run enabled. Batch submission skipped.
+2026-04-15 13:51:49 | INFO | assessment.batch_submit | submission started | scenario=s3_gpt5_multi | strategy=multi-path | turn=5
+2026-04-15 13:51:56 | INFO | assessment.batch_submit | requests built | count=50 | missing=0
+2026-04-15 13:51:59 | INFO | assessment.batch_submit | batch submitted | batch_id=batch_69dfde4e896c8190ad72bc118e480cf2 | input_file_id=file-F2e1ikpqYEhJw2d9T2fAJk
+2026-04-15 14:05:04 | INFO | assessment.batch_download | download start | scenario=s3_gpt5_multi | jobs=5
+2026-04-15 14:05:05 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dfb0f1051481909079f3bbc631706e
+2026-04-15 14:05:06 | INFO | assessment.batch_download | batch status | batch_id=batch_69dfb0f1051481909079f3bbc631706e | status=completed
+2026-04-15 14:05:13 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dfae9e29c48190b269162295f857af
+2026-04-15 14:05:13 | INFO | assessment.batch_download | batch status | batch_id=batch_69dfae9e29c48190b269162295f857af | status=completed
+2026-04-15 14:05:17 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dfaee0f9248190a80cb47fa723cc7e
+2026-04-15 14:05:17 | INFO | assessment.batch_download | batch status | batch_id=batch_69dfaee0f9248190a80cb47fa723cc7e | status=completed
+2026-04-15 14:05:21 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dfb4b5e8d08190a72aef5c1c91a9aa
+2026-04-15 14:05:21 | INFO | assessment.batch_download | batch status | batch_id=batch_69dfb4b5e8d08190a72aef5c1c91a9aa | status=completed
+2026-04-15 14:05:26 | INFO | assessment.batch_download | polling batch | batch_id=batch_69dfde4e896c8190ad72bc118e480cf2
+2026-04-15 14:05:26 | INFO | assessment.batch_download | batch status | batch_id=batch_69dfde4e896c8190ad72bc118e480cf2 | status=completed
+2026-04-15 14:05:26 | INFO | assessment.batch_download | downloaded output file | batch_id=batch_69dfde4e896c8190ad72bc118e480cf2
+2026-04-15 14:05:31 | INFO | assessment.batch_download | download finished | scenario=s3_gpt5_multi

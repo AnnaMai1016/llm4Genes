@@ -1,0 +1,1795 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.9724,
+                    "bbox": [
+                        45,
+                        59,
+                        383,
+                        91
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                60,
+                                381,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        60,
+                                        381,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "Investigation of SWEET family sugar transporter genes",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                77,
+                                286,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        77,
+                                        286,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "and their role in arbuscular mycorrhiza",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 1
+                },
+                {
+                    "score": 0.9221,
+                    "bbox": [
+                        45,
+                        99,
+                        365,
+                        112
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                100,
+                                363,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        100,
+                                        363,
+                                        112
+                                    ],
+                                    "type": "text",
+                                    "content": "Kryukov A.A.<sup>1</sup>*, Gorbunova A.O.<sup>1,</sup> <sup>2</sup>, Mikhaylova Yu.V.<sup>3</sup>, Yurkov A.P.<sup>1</sup>",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.882,
+                    "bbox": [
+                        46,
+                        112,
+                        355,
+                        123
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                113,
+                                353,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        113,
+                                        353,
+                                        123
+                                    ],
+                                    "type": "text",
+                                    "content": "<sup>1</sup> All-Russia Research Institute for Agricultural Microbiology, St. Petersburg, Russia",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8829,
+                    "bbox": [
+                        46,
+                        123,
+                        250,
+                        133
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                123,
+                                248,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        123,
+                                        248,
+                                        133
+                                    ],
+                                    "type": "text",
+                                    "content": "<sup>2</sup> St. Petersburg State University, St. Petersburg, Russia",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8927,
+                    "bbox": [
+                        46,
+                        133,
+                        242,
+                        144
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                46,
+                                133,
+                                239,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        133,
+                                        239,
+                                        143
+                                    ],
+                                    "type": "text",
+                                    "content": "<sup>3</sup> Komarov Botanical Institute, St. Petersburg, Russia",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8751,
+                    "bbox": [
+                        46,
+                        144,
+                        160,
+                        154
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                144,
+                                158,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        144,
+                                        158,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "* email: rainniar@rambler.ru",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9891,
+                    "bbox": [
+                        45,
+                        163,
+                        436,
+                        481
+                    ],
+                    "index": 8,
+                    "type": "abstract",
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                165,
+                                434,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        165,
+                                        434,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "Arbuscular mycorrhiza fungi (AMF) form a symbiosis with most of terrestrial plants and",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                46,
+                                178,
+                                434,
+                                189
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        178,
+                                        434,
+                                        189
+                                    ],
+                                    "type": "text",
+                                    "content": "hence enhance plant nutrition, increase adaptation to drought and salinity. We have",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                46,
+                                191,
+                                434,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        191,
+                                        434,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "previously developed a unique model system \"plant-host - AMF\". The system includes",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                204,
+                                434,
+                                214
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        204,
+                                        434,
+                                        214
+                                    ],
+                                    "type": "text",
+                                    "content": "the highly responsive to inoculation with AMF an obligatory mycotrophic plant",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                216,
+                                433,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        216,
+                                        433,
+                                        226
+                                    ],
+                                    "type": "text",
+                                    "content": "Medicago lupulina line MlS-1, and the highly effective AMF strain Rhizophagus",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                229,
+                                434,
+                                239
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        229,
+                                        434,
+                                        239
+                                    ],
+                                    "type": "text",
+                                    "content": "irregularis RCAM00320. We studied the expression of 10 genes from the SWEET",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                242,
+                                434,
+                                252
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        242,
+                                        434,
+                                        252
+                                    ],
+                                    "type": "text",
+                                    "content": "family during the formation of symbiosis between M. lupulina and R. irregularis, as well",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                254,
+                                434,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        254,
+                                        434,
+                                        264
+                                    ],
+                                    "type": "text",
+                                    "content": "as mycorrhization, symbiotic efficiency and plant productivity. We accessed gene",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                267,
+                                434,
+                                277
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        267,
+                                        434,
+                                        277
+                                    ],
+                                    "type": "text",
+                                    "content": "expression at different developmental phases of host plant under low phosphorus level",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                280,
+                                434,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        280,
+                                        434,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "in a substrate. Primer for genes were developed using M. lupulina transcriptome. The",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                292,
+                                434,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        292,
+                                        434,
+                                        302
+                                    ],
+                                    "type": "text",
+                                    "content": "occurrence of mycorrhizal infection, intensity of mycorrhization, and the abundance of",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                305,
+                                434,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        305,
+                                        434,
+                                        315
+                                    ],
+                                    "type": "text",
+                                    "content": "arbuscules in roots increased during plant development up to the inflorescence phase. A",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                317,
+                                434,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        317,
+                                        434,
+                                        327
+                                    ],
+                                    "type": "text",
+                                    "content": "slight decrease in the abundance of arbuscules was observed on days 27 and 33 after",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                330,
+                                435,
+                                341
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        330,
+                                        435,
+                                        341
+                                    ],
+                                    "type": "text",
+                                    "content": "planting, followed by an increase starting from a day 47. The roots/shoots ratio of",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                343,
+                                434,
+                                353
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        343,
+                                        434,
+                                        353
+                                    ],
+                                    "type": "text",
+                                    "content": "M. lupulina was lower in mycorrhized plants than in plants without mycorrhiza. An",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                356,
+                                434,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        356,
+                                        434,
+                                        366
+                                    ],
+                                    "type": "text",
+                                    "content": "inoculation of M. lupulina with the AMF increased the productivity of aboveground",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                368,
+                                434,
+                                379
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        368,
+                                        434,
+                                        379
+                                    ],
+                                    "type": "text",
+                                    "content": "biomass and accelerated plant development under low phosphorus level. Gene",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                381,
+                                434,
+                                391
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        381,
+                                        434,
+                                        391
+                                    ],
+                                    "type": "text",
+                                    "content": "expression analysis suggests that genes MlSWEET1a and MlSWEET1b are candidates",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                393,
+                                434,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        393,
+                                        434,
+                                        403
+                                    ],
+                                    "type": "text",
+                                    "content": "for specific expression in the leaves of the mycorrhized host plant, MlSWEET1a and",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                46,
+                                405,
+                                434,
+                                416
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        405,
+                                        434,
+                                        416
+                                    ],
+                                    "type": "text",
+                                    "content": "MlSWEET2c are candidate genes for specific expression in the roots. Further",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                419,
+                                434,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        419,
+                                        434,
+                                        429
+                                    ],
+                                    "type": "text",
+                                    "content": "experiments under medium and high phosphorus levels can confirm or reject this",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                46,
+                                432,
+                                434,
+                                442
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        432,
+                                        434,
+                                        442
+                                    ],
+                                    "type": "text",
+                                    "content": "hypothesis (with an increase in minerals available for nutrition in the soil, in particular",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                444,
+                                434,
+                                455
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        444,
+                                        434,
+                                        455
+                                    ],
+                                    "type": "text",
+                                    "content": "phosphorus, the expression of specific genes may decrease). The study of plant-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                457,
+                                434,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        457,
+                                        434,
+                                        467
+                                    ],
+                                    "type": "text",
+                                    "content": "microbial systems will contribute to their practical implementation in the agriculture of",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                470,
+                                151,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        470,
+                                        151,
+                                        479
+                                    ],
+                                    "type": "text",
+                                    "content": "the Russian Federation.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9615,
+                    "bbox": [
+                        45,
+                        480,
+                        435,
+                        506
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                482,
+                                433,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        482,
+                                        433,
+                                        493
+                                    ],
+                                    "type": "text",
+                                    "content": "Acknowledgements: This work was supported by the RFBR 20-016-00245 and partially",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                495,
+                                107,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        495,
+                                        107,
+                                        505
+                                    ],
+                                    "type": "text",
+                                    "content": "19-29-05275.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                481,
+                737
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.7645,
+                    "bbox": [
+                        46,
+                        47,
+                        172,
+                        58
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                49,
+                                170,
+                                58
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        49,
+                                        170,
+                                        58
+                                    ],
+                                    "type": "text",
+                                    "content": "DOI 10.18699/PlantGen2021-113",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9197,
+                    "bbox": [
+                        369,
+                        682,
+                        416,
+                        692
+                    ],
+                    "index": 10,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                369,
+                                684,
+                                415,
+                                691
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        369,
+                                        684,
+                                        415,
+                                        691
+                                    ],
+                                    "type": "text",
+                                    "content": "PlantGen2021",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8764,
+                    "bbox": [
+                        418,
+                        681,
+                        434,
+                        691
+                    ],
+                    "index": 11,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                418,
+                                682,
+                                435,
+                                694
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        418,
+                                        682,
+                                        435,
+                                        694
+                                    ],
+                                    "type": "text",
+                                    "content": "129",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.9724,
+                    "bbox": [
+                        45,
+                        59,
+                        383,
+                        91
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                60,
+                                381,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        60,
+                                        381,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "Investigation of SWEET family sugar transporter genes",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                77,
+                                286,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        77,
+                                        286,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "and their role in arbuscular mycorrhiza",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 1
+                },
+                {
+                    "score": 0.9221,
+                    "bbox": [
+                        45,
+                        99,
+                        365,
+                        112
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                100,
+                                363,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        100,
+                                        363,
+                                        112
+                                    ],
+                                    "type": "text",
+                                    "content": "Kryukov A.A.<sup>1</sup>*, Gorbunova A.O.<sup>1,</sup> <sup>2</sup>, Mikhaylova Yu.V.<sup>3</sup>, Yurkov A.P.<sup>1</sup>",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        47,
+                        100,
+                        363,
+                        112
+                    ]
+                },
+                {
+                    "score": 0.882,
+                    "bbox": [
+                        46,
+                        112,
+                        355,
+                        123
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                113,
+                                353,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        113,
+                                        353,
+                                        123
+                                    ],
+                                    "type": "text",
+                                    "content": "<sup>1</sup> All-Russia Research Institute for Agricultural Microbiology, St. Petersburg, Russia",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        47,
+                        113,
+                        353,
+                        123
+                    ]
+                },
+                {
+                    "score": 0.8829,
+                    "bbox": [
+                        46,
+                        123,
+                        250,
+                        133
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                123,
+                                248,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        123,
+                                        248,
+                                        133
+                                    ],
+                                    "type": "text",
+                                    "content": "<sup>2</sup> St. Petersburg State University, St. Petersburg, Russia",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        47,
+                        123,
+                        248,
+                        133
+                    ]
+                },
+                {
+                    "score": 0.8927,
+                    "bbox": [
+                        46,
+                        133,
+                        242,
+                        144
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                46,
+                                133,
+                                239,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        133,
+                                        239,
+                                        143
+                                    ],
+                                    "type": "text",
+                                    "content": "<sup>3</sup> Komarov Botanical Institute, St. Petersburg, Russia",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        46,
+                        133,
+                        239,
+                        143
+                    ]
+                },
+                {
+                    "score": 0.8751,
+                    "bbox": [
+                        46,
+                        144,
+                        160,
+                        154
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                144,
+                                158,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        144,
+                                        158,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "* email: rainniar@rambler.ru",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        47,
+                        144,
+                        158,
+                        153
+                    ]
+                },
+                {
+                    "score": 0.9891,
+                    "bbox": [
+                        45,
+                        163,
+                        436,
+                        481
+                    ],
+                    "index": 8,
+                    "type": "abstract",
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                165,
+                                434,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        165,
+                                        434,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "Arbuscular mycorrhiza fungi (AMF) form a symbiosis with most of terrestrial plants and",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                46,
+                                178,
+                                434,
+                                189
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        178,
+                                        434,
+                                        189
+                                    ],
+                                    "type": "text",
+                                    "content": "hence enhance plant nutrition, increase adaptation to drought and salinity. We have",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                46,
+                                191,
+                                434,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        191,
+                                        434,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "previously developed a unique model system \"plant-host - AMF\". The system includes",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                204,
+                                434,
+                                214
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        204,
+                                        434,
+                                        214
+                                    ],
+                                    "type": "text",
+                                    "content": "the highly responsive to inoculation with AMF an obligatory mycotrophic plant",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                216,
+                                433,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        216,
+                                        433,
+                                        226
+                                    ],
+                                    "type": "text",
+                                    "content": "Medicago lupulina line MlS-1, and the highly effective AMF strain Rhizophagus",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                229,
+                                434,
+                                239
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        229,
+                                        434,
+                                        239
+                                    ],
+                                    "type": "text",
+                                    "content": "irregularis RCAM00320. We studied the expression of 10 genes from the SWEET",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                242,
+                                434,
+                                252
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        242,
+                                        434,
+                                        252
+                                    ],
+                                    "type": "text",
+                                    "content": "family during the formation of symbiosis between M. lupulina and R. irregularis, as well",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                254,
+                                434,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        254,
+                                        434,
+                                        264
+                                    ],
+                                    "type": "text",
+                                    "content": "as mycorrhization, symbiotic efficiency and plant productivity. We accessed gene",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                267,
+                                434,
+                                277
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        267,
+                                        434,
+                                        277
+                                    ],
+                                    "type": "text",
+                                    "content": "expression at different developmental phases of host plant under low phosphorus level",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                280,
+                                434,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        280,
+                                        434,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "in a substrate. Primer for genes were developed using M. lupulina transcriptome. The",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                292,
+                                434,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        292,
+                                        434,
+                                        302
+                                    ],
+                                    "type": "text",
+                                    "content": "occurrence of mycorrhizal infection, intensity of mycorrhization, and the abundance of",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                305,
+                                434,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        305,
+                                        434,
+                                        315
+                                    ],
+                                    "type": "text",
+                                    "content": "arbuscules in roots increased during plant development up to the inflorescence phase. A",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                317,
+                                434,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        317,
+                                        434,
+                                        327
+                                    ],
+                                    "type": "text",
+                                    "content": "slight decrease in the abundance of arbuscules was observed on days 27 and 33 after",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                330,
+                                435,
+                                341
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        330,
+                                        435,
+                                        341
+                                    ],
+                                    "type": "text",
+                                    "content": "planting, followed by an increase starting from a day 47. The roots/shoots ratio of",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                343,
+                                434,
+                                353
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        343,
+                                        434,
+                                        353
+                                    ],
+                                    "type": "text",
+                                    "content": "M. lupulina was lower in mycorrhized plants than in plants without mycorrhiza. An",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                356,
+                                434,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        356,
+                                        434,
+                                        366
+                                    ],
+                                    "type": "text",
+                                    "content": "inoculation of M. lupulina with the AMF increased the productivity of aboveground",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                368,
+                                434,
+                                379
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        368,
+                                        434,
+                                        379
+                                    ],
+                                    "type": "text",
+                                    "content": "biomass and accelerated plant development under low phosphorus level. Gene",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                381,
+                                434,
+                                391
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        381,
+                                        434,
+                                        391
+                                    ],
+                                    "type": "text",
+                                    "content": "expression analysis suggests that genes MlSWEET1a and MlSWEET1b are candidates",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                393,
+                                434,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        393,
+                                        434,
+                                        403
+                                    ],
+                                    "type": "text",
+                                    "content": "for specific expression in the leaves of the mycorrhized host plant, MlSWEET1a and",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                46,
+                                405,
+                                434,
+                                416
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        405,
+                                        434,
+                                        416
+                                    ],
+                                    "type": "text",
+                                    "content": "MlSWEET2c are candidate genes for specific expression in the roots. Further",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                419,
+                                434,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        419,
+                                        434,
+                                        429
+                                    ],
+                                    "type": "text",
+                                    "content": "experiments under medium and high phosphorus levels can confirm or reject this",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                46,
+                                432,
+                                434,
+                                442
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        432,
+                                        434,
+                                        442
+                                    ],
+                                    "type": "text",
+                                    "content": "hypothesis (with an increase in minerals available for nutrition in the soil, in particular",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                444,
+                                434,
+                                455
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        444,
+                                        434,
+                                        455
+                                    ],
+                                    "type": "text",
+                                    "content": "phosphorus, the expression of specific genes may decrease). The study of plant-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                457,
+                                434,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        457,
+                                        434,
+                                        467
+                                    ],
+                                    "type": "text",
+                                    "content": "microbial systems will contribute to their practical implementation in the agriculture of",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                470,
+                                151,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        470,
+                                        151,
+                                        479
+                                    ],
+                                    "type": "text",
+                                    "content": "the Russian Federation.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9615,
+                    "bbox": [
+                        45,
+                        480,
+                        435,
+                        506
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                482,
+                                433,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        482,
+                                        433,
+                                        493
+                                    ],
+                                    "type": "text",
+                                    "content": "Acknowledgements: This work was supported by the RFBR 20-016-00245 and partially",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                495,
+                                107,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        495,
+                                        107,
+                                        505
+                                    ],
+                                    "type": "text",
+                                    "content": "19-29-05275.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        47,
+                        482,
+                        433,
+                        505
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

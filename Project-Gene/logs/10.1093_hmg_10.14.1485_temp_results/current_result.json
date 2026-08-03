@@ -1,0 +1,126 @@
+{
+  "saved_at_utc": "2026-08-01T02:03:48.635247+00:00",
+  "result": {
+    "metadata": {
+      "title": "Mutations in the diastrophic dysplasia sulfate transporter (DTDST) gene: correlation between sulfate transport activity and chondrodysplasia phenotype",
+      "organism": [
+        "Homo sapiens",
+        "Xenopus laevis"
+      ]
+    },
+    "entities": [
+      {
+        "local_id": "gene_1",
+        "name": "DTDST",
+        "type": "Gene",
+        "organism": "Homo sapiens",
+        "synonyms": [
+          "diastrophic dysplasia sulfate transporter"
+        ],
+        "expression_location": [
+          "chondrocytes"
+        ],
+        "transported_substrate": [
+          "Other_Sugar"
+        ],
+        "description": "Encodes a transmembrane sulfate transporter; mutations are responsible for recessively inherited chondrodysplasias.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_1",
+        "name": "chondrodysplasias",
+        "type": "Phenotype_Trait",
+        "organism": null,
+        "synonyms": [
+          "diastrophic dysplasia",
+          "multiple epiphyseal dysplasia",
+          "atelosteogenesis type 2",
+          "achondrogenesis 1B",
+          "ACG-1B",
+          "AO-II",
+          "DTD",
+          "MED"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Group of recessively inherited skeletal disorders associated with DTDST mutations.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_2",
+        "name": "sulfate transport deficiency",
+        "type": "Phenotype_Trait",
+        "organism": null,
+        "synonyms": [
+          "abnormal sulfate transport",
+          "reduced sulfate transport"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Reduced sulfate transport associated with DTDST mutations and under-sulfation of proteoglycans.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_3",
+        "name": "under-sulfation of proteoglycans",
+        "type": "Phenotype_Trait",
+        "organism": null,
+        "synonyms": [
+          "under-sulfated proteoglycans"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Proteoglycan under-sulfation resulting from reduced sulfate transport in chondrocytes.",
+        "extraction_FLAG": true
+      }
+    ],
+    "relations": [
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_2",
+        "relation_type": "causes",
+        "mechanism": "Mutations in DTDST reduce sulfate transport into chondrocytes.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Biochemical_Assay",
+        "effect_direction": "negative",
+        "quantitative_effect": null,
+        "evidence": "The DTDST gene encodes a sulfate transporter that also accepts chloride and possibly bicarbonate as substrates... Reduced sulfate transport in chondrocytes of individuals with DTDST mutations results in the under-sulfation of proteoglycans.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_3",
+        "relation_type": "causes",
+        "mechanism": "Reduced sulfate transport in chondrocytes results in under-sulfation of proteoglycans.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Biochemical_Assay",
+        "effect_direction": "negative",
+        "quantitative_effect": null,
+        "evidence": "Reduced sulfate transport in chondrocytes of individuals with DTDST mutations results in the under-sulfation of proteoglycans, which in turn leads to abnormal cartilage formation.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "Mutations in DTDST are responsible for four recessively inherited chondrodysplasias.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Biochemical_Assay",
+        "effect_direction": "negative",
+        "quantitative_effect": null,
+        "evidence": "Mutations in this gene are responsible for four recessively inherited chondrodysplasias that include diastrophic dysplasia, multiple epiphyseal dysplasia, atelosteogenesis type 2 and achondrogenesis 1B (ACG-1B).",
+        "extraction_FLAG": true
+      }
+    ],
+    "patch_set": null
+  }
+}

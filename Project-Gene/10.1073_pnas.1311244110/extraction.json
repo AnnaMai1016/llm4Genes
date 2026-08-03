@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "title": "Functional role of oligomerization for bacterial and plant SWEET sugar transporter family",
+    "organism": [
+      "Arabidopsis thaliana",
+      "Bradyrhizobium japonicum",
+      "Synechococcus elongatus PCC 7942",
+      "Nicotiana benthamiana",
+      "Saccharomyces cerevisiae",
+      "HEK293T cells"
+    ]
+  },
+  "entities": [
+    {
+      "local_id": "gene_1",
+      "name": "BjSemiSWEET1",
+      "type": "Gene",
+      "organism": "Bradyrhizobium japonicum",
+      "synonyms": [
+        "SemiSWEET1"
+      ],
+      "transported_substrate": [
+        "Sucrose"
+      ],
+      "description": "A prokaryotic PQ-loop/SemiSWEET homolog from Bradyrhizobium japonicum that mediates sucrose transport.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_2",
+      "name": "AtSWEET11",
+      "type": "Gene",
+      "organism": "Arabidopsis thaliana",
+      "synonyms": [
+        "SWEET11"
+      ],
+      "transported_substrate": [
+        "Sucrose"
+      ],
+      "description": "Arabidopsis SWEET sucrose transporter used as a plant comparator and positive control for sucrose transport and efflux.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_3",
+      "name": "AtSWEET1",
+      "type": "Gene",
+      "organism": "Arabidopsis thaliana",
+      "synonyms": [
+        "SWEET1"
+      ],
+      "transported_substrate": [
+        "Glucose"
+      ],
+      "description": "Arabidopsis SWEET transporter analyzed for split-domain reconstitution, oligomerization, and negative dominance.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_4",
+      "name": "AtSWEET4",
+      "type": "Gene",
+      "organism": "Arabidopsis thaliana",
+      "synonyms": [
+        "SWEET4"
+      ],
+      "description": "An Arabidopsis SWEET family member shown to homooligomerize in planta in the split GFP assay.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_5",
+      "name": "AtSWEET6",
+      "type": "Gene",
+      "organism": "Arabidopsis thaliana",
+      "synonyms": [
+        "SWEET6"
+      ],
+      "description": "An Arabidopsis SWEET family member tested in oligomerization assays; homooligomerization was not observed in the split GFP assay.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_6",
+      "name": "AtSWEET8",
+      "type": "Gene",
+      "organism": "Arabidopsis thaliana",
+      "synonyms": [
+        "SWEET8"
+      ],
+      "description": "An Arabidopsis SWEET family member that homooligomerizes in yeast and in planta.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_7",
+      "name": "AtSWEET11",
+      "type": "Gene",
+      "organism": "Arabidopsis thaliana",
+      "synonyms": [
+        "SWEET11"
+      ],
+      "description": "An Arabidopsis SWEET family member that homooligomerizes in planta and in yeast.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_8",
+      "name": "Swt-1",
+      "type": "Gene",
+      "organism": "Caenorhabditis elegans",
+      "synonyms": [],
+      "transported_substrate": [
+        "Glucose",
+        "Fructose",
+        "Other_Sugar"
+      ],
+      "description": "A C. elegans SWEET homolog reported to mediate glucose and trehalose transport.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_1",
+      "name": "loss of glucose transport activity",
+      "type": "Phenotype_Trait",
+      "description": "Loss of AtSWEET1-mediated glucose transport in yeast.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_2",
+      "name": "inhibited glucose transport",
+      "type": "Phenotype_Trait",
+      "description": "Reduced glucose transport activity caused by coexpression of defective AtSWEET1 mutants with functional AtSWEET1.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_3",
+      "name": "sucrose transport activity",
+      "type": "Phenotype_Trait",
+      "description": "Ability to mediate sucrose uptake and efflux.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "tissue_1",
+      "name": "plasma membrane",
+      "type": "Tissue_CellType",
+      "description": "Membrane location where many SWEET interactions were observed and where AtSWEET1-GFP localized in yeast.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "tissue_2",
+      "name": "endoplasmic reticulum",
+      "type": "Tissue_CellType",
+      "synonyms": [
+        "ER"
+      ],
+      "description": "Cellular compartment where AtSWEET1 interactions were observed in yeast.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "tissue_3",
+      "name": "vesicular compartments",
+      "type": "Tissue_CellType",
+      "description": "Intracellular compartments where AtSWEET1 interactions were observed in yeast.",
+      "extraction_FLAG": true
+    }
+  ],
+  "relations": [
+    {
+      "subject_id": "gene_1",
+      "object_id": "phenotype_3",
+      "relation_type": "transports",
+      "mechanism": "BjSemiSWEET1 mediates sucrose uptake and efflux.",
+      "evidence_type": "Biochemical_Assay",
+      "effect_direction": "positive",
+      "evidence": "BjSemiSWEET1 from B. japonicum USDA 110 ... sucrose uptake activity was detected ... Together, the data from two different expression systems show that Bradyrhizobium BjSemiSWEET1 ... can mediate cellular sucrose uptake and efflux.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_2",
+      "object_id": "phenotype_3",
+      "relation_type": "transports",
+      "mechanism": "AtSWEET11 functions as a sucrose effluxer.",
+      "evidence_type": "Biochemical_Assay",
+      "effect_direction": "positive",
+      "evidence": "The results show that BjSemiSWEET1 and AtSWEET11 function as sucrose effluxers.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_3",
+      "object_id": "phenotype_1",
+      "relation_type": "causes",
+      "mechanism": "Mutation of conserved residues in AtSWEET1 can abolish glucose transport activity.",
+      "evidence_type": "Knockout_Knockdown",
+      "effect_direction": "negative",
+      "evidence": "Four mutations (P23T, Y57A, G58D, and G180D) abolished glucose transport activity.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_4",
+      "object_id": "phenotype_2",
+      "relation_type": "negatively_regulates",
+      "mechanism": "Coexpression of defective AtSWEET1 mutants with wild type AtSWEET1 inhibits glucose transport activity.",
+      "evidence_type": "Transgenic",
+      "effect_direction": "negative",
+      "evidence": "SWEET1-Y57A and -G58D dramatically inhibited wild type SWEET1 activity ... Coexpression of mutant SWEET1 proteins together with WT inhibited SWEET1 glucose transport activity at different levels.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_5",
+      "object_id": "gene_5",
+      "relation_type": "is_homolog_of",
+      "mechanism": "All eukaryotic SWEETs are described as having a conserved 3-TM repeat structure; the paper treats these Arabidopsis SWEETs as family members in interaction analyses.",
+      "evidence_type": "Computational_Prediction",
+      "evidence": "All 17 Arabidopsis SWEETs ... were fused ...; at least eight of the SWEETs can form homooligomers; also, we observed 47 heterooligomers.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_3",
+      "object_id": "tissue_1",
+      "relation_type": "associated_with",
+      "mechanism": "AtSWEET1 interactions/localization were observed at the plasma membrane in yeast and in planta under transient expression conditions.",
+      "evidence_type": "Expression_Profiling",
+      "evidence": "All interactions seemed to occur at the plasma membrane except for AtSWEET1, for which interactions were observed in the endoplasmic reticulum (ER) and vesicular compartments.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_3",
+      "object_id": "tissue_2",
+      "relation_type": "associated_with",
+      "mechanism": "AtSWEET1 interactions were observed in the endoplasmic reticulum.",
+      "evidence_type": "Expression_Profiling",
+      "evidence": "For AtSWEET1, interactions were observed in the endoplasmic reticulum (ER) and vesicular compartments.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_3",
+      "object_id": "tissue_3",
+      "relation_type": "associated_with",
+      "mechanism": "AtSWEET1 interactions were observed in vesicular compartments.",
+      "evidence_type": "Expression_Profiling",
+      "evidence": "For AtSWEET1, interactions were observed in the endoplasmic reticulum (ER) and vesicular compartments.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_3",
+      "object_id": "phenotype_3",
+      "relation_type": "transports",
+      "mechanism": "The two separately expressed halves of AtSWEET1 reconstituted glucose transport activity when coexpressed.",
+      "evidence_type": "Transgenic",
+      "effect_direction": "positive",
+      "evidence": "Transport activity was reconstituted when the two halves were coexpressed, indicating a functional interaction between the two separately expressed domains.",
+      "extraction_FLAG": true
+    }
+  ]
+}

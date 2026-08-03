@@ -1,0 +1,1099 @@
+[
+  {
+    "canonical_id": "Gene_IbLAX1",
+    "type": "Gene",
+    "name": "IbLAX1",
+    "organism": "Ipomoea batatas",
+    "aliases": [
+      "IbLAX"
+    ],
+    "source_dois": [
+      "10.21203/rs.3.rs-2616315/v1"
+    ]
+  },
+  {
+    "canonical_id": "Gene_IbPIN13",
+    "type": "Gene",
+    "name": "IbPIN13",
+    "organism": "Ipomoea batatas",
+    "aliases": [
+      "IbPIN"
+    ],
+    "source_dois": [
+      "10.21203/rs.3.rs-2616315/v1"
+    ]
+  },
+  {
+    "canonical_id": "Gene_IbPILS7",
+    "type": "Gene",
+    "name": "IbPILS7",
+    "organism": "Ipomoea batatas",
+    "aliases": [
+      "IbPILS"
+    ],
+    "source_dois": [
+      "10.21203/rs.3.rs-2616315/v1"
+    ]
+  },
+  {
+    "canonical_id": "Gene_IbABCB1",
+    "type": "Gene",
+    "name": "IbABCB1",
+    "organism": "Ipomoea batatas",
+    "aliases": [
+      "IbABCB",
+      "IbABCB14"
+    ],
+    "source_dois": [
+      "10.21203/rs.3.rs-2616315/v1"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_storage root initiation",
+    "type": "Phenotype_Trait",
+    "name": "storage root initiation",
+    "organism": "Ipomoea batatas",
+    "aliases": [
+      "tuber initiation"
+    ],
+    "source_dois": [
+      "10.21203/rs.3.rs-2616315/v1"
+    ]
+  },
+  {
+    "canonical_id": "Gene_SLC6A3",
+    "type": "Gene",
+    "name": "SLC6A3",
+    "organism": "Human",
+    "aliases": [
+      "DAT",
+      "SLC6A3*10R",
+      "SLC6A3*9R",
+      "solute carrier family 6, member 3"
+    ],
+    "source_dois": [
+      "10.1016/s0893-133x(00)00216-5"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_amphetamine-induced dopamine release",
+    "type": "Phenotype_Trait",
+    "name": "amphetamine-induced dopamine release",
+    "organism": null,
+    "aliases": [
+      "amphetamine-induced increase in synaptic dopamine",
+      "decrease in [123I]IBZM binding potential after amphetamine"
+    ],
+    "source_dois": [
+      "10.1016/s0893-133x(00)00216-5"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_DAT expression",
+    "type": "Phenotype_Trait",
+    "name": "DAT expression",
+    "organism": null,
+    "aliases": [
+      "DAT density",
+      "DAT protein availability",
+      "[123I]b-CIT binding"
+    ],
+    "source_dois": [
+      "10.1016/s0893-133x(00)00216-5"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_schizophrenia",
+    "type": "Phenotype_Trait",
+    "name": "schizophrenia",
+    "organism": null,
+    "aliases": [
+      "patients with schizophrenia"
+    ],
+    "source_dois": [
+      "10.1016/s0893-133x(00)00216-5"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_healthy controls",
+    "type": "Phenotype_Trait",
+    "name": "healthy controls",
+    "organism": null,
+    "aliases": [
+      "controls",
+      "normal control group"
+    ],
+    "source_dois": [
+      "10.1016/s0893-133x(00)00216-5"
+    ]
+  },
+  {
+    "canonical_id": "Gene_DTDST",
+    "type": "Gene",
+    "name": "DTDST",
+    "organism": "Homo sapiens",
+    "aliases": [
+      "diastrophic dysplasia sulfate transporter"
+    ],
+    "source_dois": [
+      "10.1093/hmg/10.14.1485"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_chondrodysplasias",
+    "type": "Phenotype_Trait",
+    "name": "chondrodysplasias",
+    "organism": null,
+    "aliases": [
+      "ACG-1B",
+      "AO-II",
+      "DTD",
+      "MED",
+      "achondrogenesis 1B",
+      "atelosteogenesis type 2",
+      "diastrophic dysplasia",
+      "multiple epiphyseal dysplasia"
+    ],
+    "source_dois": [
+      "10.1093/hmg/10.14.1485"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_sulfate transport deficiency",
+    "type": "Phenotype_Trait",
+    "name": "sulfate transport deficiency",
+    "organism": null,
+    "aliases": [
+      "abnormal sulfate transport",
+      "reduced sulfate transport"
+    ],
+    "source_dois": [
+      "10.1093/hmg/10.14.1485"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_under-sulfation of proteoglycans",
+    "type": "Phenotype_Trait",
+    "name": "under-sulfation of proteoglycans",
+    "organism": null,
+    "aliases": [
+      "under-sulfated proteoglycans"
+    ],
+    "source_dois": [
+      "10.1093/hmg/10.14.1485"
+    ]
+  },
+  {
+    "canonical_id": "Gene_AsSWEET1a",
+    "type": "Gene",
+    "name": "AsSWEET1a",
+    "organism": "Avena sativa",
+    "aliases": [
+      "AsSWEET11",
+      "AsSWEET12",
+      "AsSWEET13",
+      "AsSWEET16",
+      "AsSWEET17",
+      "AsSWEET1b",
+      "AsSWEET2a",
+      "AsSWEET2b",
+      "AsSWEET3a"
+    ],
+    "source_dois": [
+      "10.1186/s12864-024-10933-8"
+    ]
+  },
+  {
+    "canonical_id": "Gene_AsSWEET4",
+    "type": "Gene",
+    "name": "AsSWEET4",
+    "organism": "Avena sativa",
+    "aliases": [
+      "AsSWEET15",
+      "AsSWEET5"
+    ],
+    "source_dois": [
+      "10.1186/s12864-024-10933-8"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_powdery mildew resistance",
+    "type": "Phenotype_Trait",
+    "name": "powdery mildew resistance",
+    "organism": "Avena sativa",
+    "aliases": [],
+    "source_dois": [
+      "10.1186/s12864-024-10933-8"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_leaf spot resistance",
+    "type": "Phenotype_Trait",
+    "name": "leaf spot resistance",
+    "organism": "Avena sativa",
+    "aliases": [],
+    "source_dois": [
+      "10.1186/s12864-024-10933-8"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_more susceptible to powdery mildew",
+    "type": "Phenotype_Trait",
+    "name": "more susceptible to powdery mildew",
+    "organism": "Avena sativa",
+    "aliases": [],
+    "source_dois": [
+      "10.1186/s12864-024-10933-8"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_leaf spot was more severe",
+    "type": "Phenotype_Trait",
+    "name": "leaf spot was more severe",
+    "organism": "Avena sativa",
+    "aliases": [],
+    "source_dois": [
+      "10.1186/s12864-024-10933-8"
+    ]
+  },
+  {
+    "canonical_id": "Gene_ZmSWEET1a",
+    "type": "Gene",
+    "name": "ZmSWEET1a",
+    "organism": "Zea mays",
+    "aliases": [
+      "Zm00001d000222",
+      "Zm00001d007365",
+      "Zm00001d009071",
+      "Zm00001d010440",
+      "Zm00001d011299",
+      "Zm00001d015905",
+      "Zm00001d015912",
+      "Zm00001d015914",
+      "Zm00001d016590",
+      "Zm00001d021064",
+      "Zm00001d023673",
+      "Zm00001d023677",
+      "Zm00001d029098",
+      "Zm00001d029135",
+      "Zm00001d031647",
+      "Zm00001d038226",
+      "Zm00001d039347",
+      "Zm00001d040656",
+      "Zm00001d041067",
+      "Zm00001d044421",
+      "Zm00001d047487",
+      "Zm00001d049252",
+      "Zm00001d050577",
+      "ZmSWEET11a",
+      "ZmSWEET11b",
+      "ZmSWEET12a",
+      "ZmSWEET12b",
+      "ZmSWEET13a",
+      "ZmSWEET13b",
+      "ZmSWEET13c",
+      "ZmSWEET14a",
+      "ZmSWEET14b",
+      "ZmSWEET15a",
+      "ZmSWEET15b",
+      "ZmSWEET16",
+      "ZmSWEET17a",
+      "ZmSWEET17b",
+      "ZmSWEET1b",
+      "ZmSWEET3a",
+      "ZmSWEET3b",
+      "ZmSWEET4a",
+      "ZmSWEET4b",
+      "ZmSWEET4c",
+      "ZmSWEET6a",
+      "ZmSWEET6b"
+    ],
+    "source_dois": [
+      "10.3390/genes13101682"
+    ]
+  },
+  {
+    "canonical_id": "Gene_ZmSWEETb-2",
+    "type": "Gene",
+    "name": "ZmSWEETb-2",
+    "organism": "Zea mays",
+    "aliases": [
+      "Zm00001d043735",
+      "bidirectional sugar transporter SWEET2"
+    ],
+    "source_dois": [
+      "10.3390/genes13101682"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_severe stunting",
+    "type": "Phenotype_Trait",
+    "name": "severe stunting",
+    "organism": "Zea mays",
+    "aliases": [],
+    "source_dois": [
+      "10.3390/genes13101682"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_small grain and semidwarf phenotype",
+    "type": "Phenotype_Trait",
+    "name": "small grain and semidwarf phenotype",
+    "organism": "Oryza sativa",
+    "aliases": [],
+    "source_dois": [
+      "10.3390/genes13101682"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_severe crumpling of the kernel",
+    "type": "Phenotype_Trait",
+    "name": "severe crumpling of the kernel",
+    "organism": "Zea mays",
+    "aliases": [],
+    "source_dois": [
+      "10.3390/genes13101682"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_reduced yield",
+    "type": "Phenotype_Trait",
+    "name": "reduced yield",
+    "organism": "Zea mays",
+    "aliases": [],
+    "source_dois": [
+      "10.3390/genes13101682"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_greater salt tolerance",
+    "type": "Phenotype_Trait",
+    "name": "greater salt tolerance",
+    "organism": "Arabidopsis thaliana",
+    "aliases": [],
+    "source_dois": [
+      "10.3390/genes13101682"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_more sensitive to salt stress",
+    "type": "Phenotype_Trait",
+    "name": "more sensitive to salt stress",
+    "organism": "Arabidopsis thaliana",
+    "aliases": [],
+    "source_dois": [
+      "10.3390/genes13101682"
+    ]
+  },
+  {
+    "canonical_id": "Gene_MlSWEET1a",
+    "type": "Gene",
+    "name": "MlSWEET1a",
+    "organism": "Medicago lupulina",
+    "aliases": [
+      "MlSWEET1b"
+    ],
+    "source_dois": [
+      "10.18699/plantgen2021-113"
+    ]
+  },
+  {
+    "canonical_id": "Gene_MlSWEET2c",
+    "type": "Gene",
+    "name": "MlSWEET2c",
+    "organism": "Medicago lupulina",
+    "aliases": [],
+    "source_dois": [
+      "10.18699/plantgen2021-113"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_increased productivity of aboveground biomass",
+    "type": "Phenotype_Trait",
+    "name": "increased productivity of aboveground biomass",
+    "organism": "Medicago lupulina",
+    "aliases": [],
+    "source_dois": [
+      "10.18699/plantgen2021-113"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_accelerated plant development",
+    "type": "Phenotype_Trait",
+    "name": "accelerated plant development",
+    "organism": "Medicago lupulina",
+    "aliases": [],
+    "source_dois": [
+      "10.18699/plantgen2021-113"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_lower roots_shoots ratio",
+    "type": "Phenotype_Trait",
+    "name": "lower roots/shoots ratio",
+    "organism": "Medicago lupulina",
+    "aliases": [],
+    "source_dois": [
+      "10.18699/plantgen2021-113"
+    ]
+  },
+  {
+    "canonical_id": "Gene_StSWEET2c",
+    "type": "Gene",
+    "name": "StSWEET2c",
+    "organism": "Solanum tuberosum",
+    "aliases": [
+      "SWEET10c",
+      "SWEET12c",
+      "SWEET2b",
+      "SWEET2c",
+      "SWEET5b",
+      "StSWEET10c",
+      "StSWEET12c",
+      "StSWEET2b",
+      "StSWEET5b"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Gene_StSWEET7a",
+    "type": "Gene",
+    "name": "StSWEET7a",
+    "organism": "Solanum tuberosum",
+    "aliases": [
+      "SWEET17a",
+      "SWEET7a",
+      "StSWEET17a"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Gene_StSWEET12a",
+    "type": "Gene",
+    "name": "StSWEET12a",
+    "organism": "Solanum tuberosum",
+    "aliases": [
+      "SWEET10a",
+      "SWEET11a",
+      "SWEET12a",
+      "SWEET1a",
+      "StSWEET10a",
+      "StSWEET11a",
+      "StSWEET1a"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Gene_SWEET1b",
+    "type": "Gene",
+    "name": "SWEET1b",
+    "organism": "Solanum tuberosum",
+    "aliases": [
+      "SWEET10b",
+      "SWEET12e",
+      "SWEET12f",
+      "SWEET17b",
+      "SWEET17c",
+      "SWEET1e",
+      "SWEET1g",
+      "StSWEET10b",
+      "StSWEET12e",
+      "StSWEET12f",
+      "StSWEET17b",
+      "StSWEET17c",
+      "StSWEET1b",
+      "StSWEET1e",
+      "StSWEET1g"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Gene_SWEET3",
+    "type": "Gene",
+    "name": "SWEET3",
+    "organism": "Solanum tuberosum",
+    "aliases": [
+      "StSWEET3"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Gene_SWEET10d",
+    "type": "Gene",
+    "name": "SWEET10d",
+    "organism": "Solanum tuberosum",
+    "aliases": [
+      "StSWEET10d"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_mycorrhiza symbiosis",
+    "type": "Phenotype_Trait",
+    "name": "mycorrhiza symbiosis",
+    "organism": "Solanum tuberosum",
+    "aliases": [
+      "AM symbiosis",
+      "arbuscular mycorrhiza symbiosis"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_major transcriptional reprogramming of the SWEET family in roots",
+    "type": "Phenotype_Trait",
+    "name": "major transcriptional reprogramming of the SWEET family in roots",
+    "organism": "Solanum tuberosum",
+    "aliases": [],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Tissue_CellType_arbuscule-containing cells",
+    "type": "Tissue_CellType",
+    "name": "arbuscule-containing cells",
+    "organism": "Solanum tuberosum",
+    "aliases": [
+      "arbuscule-containing cell"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Tissue_CellType_root cortex",
+    "type": "Tissue_CellType",
+    "name": "root cortex",
+    "organism": "Solanum tuberosum",
+    "aliases": [
+      "cortex"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Tissue_CellType_root tip",
+    "type": "Tissue_CellType",
+    "name": "root tip",
+    "organism": "Solanum tuberosum",
+    "aliases": [
+      "root tips"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Metabolite_Substrate_sucrose",
+    "type": "Metabolite_Substrate",
+    "name": "sucrose",
+    "organism": null,
+    "aliases": [
+      "Suc"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Metabolite_Substrate_glucose",
+    "type": "Metabolite_Substrate",
+    "name": "glucose",
+    "organism": null,
+    "aliases": [
+      "Glc"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Metabolite_Substrate_fructose",
+    "type": "Metabolite_Substrate",
+    "name": "fructose",
+    "organism": null,
+    "aliases": [
+      "Fru"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Gene_RiMST2",
+    "type": "Gene",
+    "name": "RiMST2",
+    "organism": "Rhizophagus irregularis",
+    "aliases": [
+      "MST2"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Gene_InvCD141",
+    "type": "Gene",
+    "name": "InvCD141",
+    "organism": "Solanum tuberosum",
+    "aliases": [
+      "cell wall-bound invertase"
+    ],
+    "source_dois": [
+      "10.3389/fpls.2016.00487"
+    ]
+  },
+  {
+    "canonical_id": "Gene_SWEET11",
+    "type": "Gene",
+    "name": "SWEET11",
+    "organism": "Oryza sativa",
+    "aliases": [
+      "SWEET14",
+      "Xa13",
+      "xa13"
+    ],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Gene_xa5",
+    "type": "Gene",
+    "name": "xa5",
+    "organism": "Oryza sativa",
+    "aliases": [
+      "Xa5"
+    ],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Gene_Xa21",
+    "type": "Gene",
+    "name": "Xa21",
+    "organism": "Oryza sativa",
+    "aliases": [],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Protein_TFIIAγ5",
+    "type": "Protein",
+    "name": "TFIIAγ5",
+    "organism": "Oryza sativa",
+    "aliases": [
+      "TFIIA gamma 1",
+      "TFIIA gamma 5",
+      "TFIIAγ1"
+    ],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Protein_PthXo1",
+    "type": "Protein",
+    "name": "PthXo1",
+    "organism": "Xanthomonas oryzae pv. oryzae",
+    "aliases": [],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Protein_PthXo2",
+    "type": "Protein",
+    "name": "PthXo2",
+    "organism": "Xanthomonas oryzae pv. oryzae",
+    "aliases": [],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Protein_PthXo3",
+    "type": "Protein",
+    "name": "PthXo3",
+    "organism": "Xanthomonas oryzae pv. oryzae",
+    "aliases": [],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Protein_TalC",
+    "type": "Protein",
+    "name": "TalC",
+    "organism": "Xanthomonas oryzae pv. oryzae",
+    "aliases": [
+      "Tal5"
+    ],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Protein_TalF",
+    "type": "Protein",
+    "name": "TalF",
+    "organism": "Xanthomonas oryzae pv. oryzae",
+    "aliases": [],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Protein_Tal1c",
+    "type": "Protein",
+    "name": "Tal1c",
+    "organism": "Xanthomonas oryzae pv. oryzae",
+    "aliases": [],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Protein_AvrXa7",
+    "type": "Protein",
+    "name": "AvrXa7",
+    "organism": "Xanthomonas oryzae pv. oryzae",
+    "aliases": [],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Gene_SNP marker XooE6",
+    "type": "Gene",
+    "name": "SNP marker XooE6",
+    "organism": "Xanthomonas oryzae pv. oryzae",
+    "aliases": [
+      "SNP marker XooE8",
+      "XooE6",
+      "XooE8"
+    ],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_bacterial blight disease",
+    "type": "Phenotype_Trait",
+    "name": "bacterial blight disease",
+    "organism": "Oryza sativa",
+    "aliases": [
+      "BB disease"
+    ],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_xa5-mediated resistance breaking",
+    "type": "Phenotype_Trait",
+    "name": "xa5-mediated resistance breaking",
+    "organism": "Oryza sativa",
+    "aliases": [
+      "IRBB5-compatible"
+    ],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_compatibility with IRBB5",
+    "type": "Phenotype_Trait",
+    "name": "compatibility with IRBB5",
+    "organism": "Oryza sativa",
+    "aliases": [
+      "IRBB13-compatible",
+      "IRBB5-compatible",
+      "compatibility with IRBB13"
+    ],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_partial resistance",
+    "type": "Phenotype_Trait",
+    "name": "partial resistance",
+    "organism": "Oryza sativa",
+    "aliases": [],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_high resistance",
+    "type": "Phenotype_Trait",
+    "name": "high resistance",
+    "organism": "Oryza sativa",
+    "aliases": [
+      "R"
+    ],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_moderate resistance",
+    "type": "Phenotype_Trait",
+    "name": "moderate resistance",
+    "organism": "Oryza sativa",
+    "aliases": [
+      "MR"
+    ],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_moderate susceptibility",
+    "type": "Phenotype_Trait",
+    "name": "moderate susceptibility",
+    "organism": "Oryza sativa",
+    "aliases": [
+      "MS"
+    ],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_susceptibility",
+    "type": "Phenotype_Trait",
+    "name": "susceptibility",
+    "organism": "Oryza sativa",
+    "aliases": [
+      "S"
+    ],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_high susceptibility",
+    "type": "Phenotype_Trait",
+    "name": "high susceptibility",
+    "organism": "Oryza sativa",
+    "aliases": [
+      "HS"
+    ],
+    "source_dois": [
+      "10.5423/PPJ.OA.04.2024.0070"
+    ]
+  },
+  {
+    "canonical_id": "Gene_OsSWEET1b",
+    "type": "Gene",
+    "name": "OsSWEET1b",
+    "organism": "Oryza sativa",
+    "aliases": [
+      "LOC_Os05g35140",
+      "OsWEET1b"
+    ],
+    "source_dois": [
+      "10.1007/s00299-023-03125-3"
+    ]
+  },
+  {
+    "canonical_id": "Protein_OsSWEET1b protein",
+    "type": "Protein",
+    "name": "OsSWEET1b protein",
+    "organism": "Oryza sativa",
+    "aliases": [
+      "OsSWEET1b"
+    ],
+    "source_dois": [
+      "10.1007/s00299-023-03125-3"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_reduced sugar content in leaves",
+    "type": "Phenotype_Trait",
+    "name": "reduced sugar content in leaves",
+    "organism": null,
+    "aliases": [
+      "reduced sucrose, glucose, fructose, starch and galactose contents"
+    ],
+    "source_dois": [
+      "10.1007/s00299-023-03125-3"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_premature leaf senescence phenotype",
+    "type": "Phenotype_Trait",
+    "name": "premature leaf senescence phenotype",
+    "organism": null,
+    "aliases": [
+      "accelerating leaf senescence",
+      "leaf premature senescence"
+    ],
+    "source_dois": [
+      "10.1007/s00299-023-03125-3"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_reduced photosynthetic capacity",
+    "type": "Phenotype_Trait",
+    "name": "reduced photosynthetic capacity",
+    "organism": null,
+    "aliases": [
+      "decreased chlorophyll content",
+      "reduced net photosynthetic rate",
+      "reduced stomatal conductance"
+    ],
+    "source_dois": [
+      "10.1007/s00299-023-03125-3"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_reduced rice yield",
+    "type": "Phenotype_Trait",
+    "name": "reduced rice yield",
+    "organism": null,
+    "aliases": [
+      "decreased seed setting",
+      "reduced grain weight",
+      "reduced yield per plant"
+    ],
+    "source_dois": [
+      "10.1007/s00299-023-03125-3"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_carbon starvation in leaves",
+    "type": "Phenotype_Trait",
+    "name": "carbon starvation in leaves",
+    "organism": null,
+    "aliases": [
+      "sugar starvation"
+    ],
+    "source_dois": [
+      "10.1007/s00299-023-03125-3"
+    ]
+  },
+  {
+    "canonical_id": "Gene_BjSemiSWEET1",
+    "type": "Gene",
+    "name": "BjSemiSWEET1",
+    "organism": "Bradyrhizobium japonicum",
+    "aliases": [
+      "SemiSWEET1"
+    ],
+    "source_dois": [
+      "10.1073/pnas.1311244110"
+    ]
+  },
+  {
+    "canonical_id": "Gene_AtSWEET11",
+    "type": "Gene",
+    "name": "AtSWEET11",
+    "organism": "Arabidopsis thaliana",
+    "aliases": [
+      "AtSWEET1",
+      "AtSWEET4",
+      "AtSWEET6",
+      "AtSWEET8",
+      "SWEET1",
+      "SWEET11",
+      "SWEET4",
+      "SWEET6",
+      "SWEET8"
+    ],
+    "source_dois": [
+      "10.1073/pnas.1311244110"
+    ]
+  },
+  {
+    "canonical_id": "Gene_Swt-1",
+    "type": "Gene",
+    "name": "Swt-1",
+    "organism": "Caenorhabditis elegans",
+    "aliases": [],
+    "source_dois": [
+      "10.1073/pnas.1311244110"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_loss of glucose transport activity",
+    "type": "Phenotype_Trait",
+    "name": "loss of glucose transport activity",
+    "organism": null,
+    "aliases": [],
+    "source_dois": [
+      "10.1073/pnas.1311244110"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_inhibited glucose transport",
+    "type": "Phenotype_Trait",
+    "name": "inhibited glucose transport",
+    "organism": null,
+    "aliases": [],
+    "source_dois": [
+      "10.1073/pnas.1311244110"
+    ]
+  },
+  {
+    "canonical_id": "Phenotype_Trait_sucrose transport activity",
+    "type": "Phenotype_Trait",
+    "name": "sucrose transport activity",
+    "organism": null,
+    "aliases": [],
+    "source_dois": [
+      "10.1073/pnas.1311244110"
+    ]
+  },
+  {
+    "canonical_id": "Tissue_CellType_plasma membrane",
+    "type": "Tissue_CellType",
+    "name": "plasma membrane",
+    "organism": null,
+    "aliases": [],
+    "source_dois": [
+      "10.1073/pnas.1311244110"
+    ]
+  },
+  {
+    "canonical_id": "Tissue_CellType_endoplasmic reticulum",
+    "type": "Tissue_CellType",
+    "name": "endoplasmic reticulum",
+    "organism": null,
+    "aliases": [
+      "ER"
+    ],
+    "source_dois": [
+      "10.1073/pnas.1311244110"
+    ]
+  },
+  {
+    "canonical_id": "Tissue_CellType_vesicular compartments",
+    "type": "Tissue_CellType",
+    "name": "vesicular compartments",
+    "organism": null,
+    "aliases": [],
+    "source_dois": [
+      "10.1073/pnas.1311244110"
+    ]
+  }
+]

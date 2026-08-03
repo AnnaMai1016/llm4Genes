@@ -1,0 +1,851 @@
+{
+  "metadata": {
+    "title": "Arbuscular mycorrhiza Symbiosis Induces a Major Transcriptional Reprogramming of the Potato SWEET Sugar Transporter Family",
+    "organism": [
+      "Solanum tuberosum",
+      "Medicago truncatula"
+    ]
+  },
+  "entities": [
+    {
+      "local_id": "gene_1",
+      "name": "StSWEET2c",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "SWEET2c"
+      ],
+      "expression_location": [
+        "root tip",
+        "cortex",
+        "arbuscule-containing cells"
+      ],
+      "description": "Potato SWEET gene whose promoter activity increased upon mycorrhiza colonization and was relocalized mainly to arbuscule-containing cells.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_2",
+      "name": "StSWEET7a",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "SWEET7a"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene with high expression in roots under non-mycorrhizal conditions and stronger promoter activity in arbuscule-containing cells during symbiosis.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_3",
+      "name": "StSWEET12a",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "SWEET12a"
+      ],
+      "expression_location": [
+        "root tip",
+        "cortex",
+        "arbuscule-containing cells"
+      ],
+      "description": "Potato SWEET gene induced during mycorrhiza colonization with promoter activity focused in arbuscule-containing cells.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_4",
+      "name": "SWEET1b",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET1b"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene induced during symbiosis at 6 and 8 weeks post inoculation.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_5",
+      "name": "SWEET7a",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET7a"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene induced by Rhizophagus irregularis at both time-points analyzed.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_6",
+      "name": "SWEET1a",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET1a"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene induced in response to fungal colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_7",
+      "name": "SWEET1e",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET1e"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene expressed at low level in control roots and induced in response to fungal colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_8",
+      "name": "SWEET2b",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET2b"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene induced at least in one time point during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_9",
+      "name": "SWEET2c",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET2c"
+      ],
+      "expression_location": [
+        "root tip",
+        "cortex",
+        "arbuscule-containing cells"
+      ],
+      "description": "Potato SWEET gene with promoter activity increased and relocalized mainly to arbuscule-containing cells during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_10",
+      "name": "SWEET3",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET3"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene induced at least in one time point during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_11",
+      "name": "SWEET5b",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET5b"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene expressed at low level in control roots and induced in response to fungal colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_12",
+      "name": "SWEET12a",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET12a"
+      ],
+      "expression_location": [
+        "root tip",
+        "cortex",
+        "arbuscule-containing cells"
+      ],
+      "description": "Potato SWEET gene from clade III induced during mycorrhiza colonization and showing strong promoter activity in arbuscule-containing cells.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_13",
+      "name": "SWEET12e",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET12e"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene induced at least in one time point during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_14",
+      "name": "SWEET17a",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET17a"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene expressed in control roots and induced in response to fungal colonization, mainly at 6 weeks post inoculation.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_15",
+      "name": "SWEET17b",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET17b"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene induced at least in one time point during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_16",
+      "name": "SWEET10d",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET10d"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene repressed at both time-points during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_17",
+      "name": "SWEET12c",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET12c"
+      ],
+      "expression_location": [
+        "stem"
+      ],
+      "description": "Potato SWEET gene repressed at both time-points during mycorrhiza colonization and shown in RT-PCR as stem-specific.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_18",
+      "name": "SWEET1g",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET1g"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_19",
+      "name": "SWEET10a",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET10a"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene root-specific by RT-PCR and repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_20",
+      "name": "SWEET10b",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET10b"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_21",
+      "name": "SWEET10c",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET10c"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_22",
+      "name": "SWEET11a",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET11a"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_23",
+      "name": "SWEET12f",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET12f"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_24",
+      "name": "SWEET17c",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "StSWEET17c"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato SWEET gene repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_1",
+      "name": "mycorrhiza symbiosis",
+      "type": "Phenotype_Trait",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "arbuscular mycorrhiza symbiosis",
+        "AM symbiosis"
+      ],
+      "description": "Symbiotic interaction between potato roots and Rhizophagus irregularis associated with major transcriptional reprogramming of SWEET genes.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_2",
+      "name": "major transcriptional reprogramming of the SWEET family in roots",
+      "type": "Phenotype_Trait",
+      "organism": "Solanum tuberosum",
+      "description": "Extensive change in root SWEET gene expression during AM fungal colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_3",
+      "name": "arbuscule-containing cells",
+      "type": "Tissue_CellType",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "arbuscule-containing cell"
+      ],
+      "description": "Root cortical cells containing arbuscules that showed promoter activity for induced SWEET genes.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_4",
+      "name": "root cortex",
+      "type": "Tissue_CellType",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "cortex"
+      ],
+      "description": "Root tissue region where SWEET promoter activity was detected during mycorrhiza colonization.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_5",
+      "name": "root tip",
+      "type": "Tissue_CellType",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "root tips"
+      ],
+      "description": "Root tissue where some SWEET promoters were active under non-mycorrhizal conditions.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "metabolite_1",
+      "name": "sucrose",
+      "type": "Metabolite_Substrate",
+      "synonyms": [
+        "Suc"
+      ],
+      "description": "Sugar discussed as being exported directly or cleaved in the apoplast during mycorrhizal symbiosis.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "metabolite_2",
+      "name": "glucose",
+      "type": "Metabolite_Substrate",
+      "synonyms": [
+        "Glc"
+      ],
+      "description": "Sugar discussed as the main monosaccharide taken up by the fungus and as a product of sucrose cleavage.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "metabolite_3",
+      "name": "fructose",
+      "type": "Metabolite_Substrate",
+      "synonyms": [
+        "Fru"
+      ],
+      "description": "Sugar mentioned as a product of sucrose cleavage and as a substrate transported across the tonoplast by clade IV SWEETs.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_25",
+      "name": "RiMST2",
+      "type": "Gene",
+      "organism": "Rhizophagus irregularis",
+      "synonyms": [
+        "MST2"
+      ],
+      "expression_location": [
+        "arbuscule-containing cells",
+        "intercellular hyphae"
+      ],
+      "transported_substrate": [
+        "Hexose_Unspecified"
+      ],
+      "description": "Fungal monosaccharide transporter from Rhizophagus irregularis that has the greatest affinity for glucose and is expressed in symbiosis.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_26",
+      "name": "InvCD141",
+      "type": "Gene",
+      "organism": "Solanum tuberosum",
+      "synonyms": [
+        "cell wall-bound invertase"
+      ],
+      "expression_location": [
+        "root"
+      ],
+      "description": "Potato cell wall-bound invertase gene used as a symbiosis indicator and reported to increase upon fungal colonization.",
+      "extraction_FLAG": true
+    }
+  ],
+  "relations": [
+    {
+      "subject_id": "gene_1",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Its promoter activity increased upon mycorrhiza colonization and was relocalized mainly to arbuscule-containing cells.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "6 and 8 weeks post inoculation",
+      "evidence_type": "Transgenic",
+      "effect_direction": "positive",
+      "evidence": "The promoter of SWEET2c ... showed activity in non-colonized roots mainly at the root tip ... Upon fungal colonization, expression level was increased and relocalized mainly to arbuscule-containing cells.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_2",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Promoter activity was increased in arbuscule-containing cells during symbiosis.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "during mycorrhiza colonization",
+      "evidence_type": "Transgenic",
+      "effect_direction": "positive",
+      "evidence": "Promoter-reporter activity for SWEET7a ... symbiosis induces its expression and this is largely occurring in arbuscule-containing cells that show a much stronger GUS activity than non-colonized cortical cells.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_3",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Its transcript was induced and promoter activity became strong in arbuscule-containing cells.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "8 weeks post inoculation",
+      "evidence_type": "Transgenic",
+      "effect_direction": "positive",
+      "evidence": "One of them is SWEET12a, whose transcript was induced at 8 wpi ... in mycorrhizal roots SWEET12a had a strong promoter activity in the cortex, particularly in arbuscule-containing cells.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_4",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Induced during symbiosis at 6 and 8 weeks post inoculation.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "6 and 8 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "SWEETs 1b and 7a ... were clearly induced during symbiosis at 6 and 8 wpi",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_5",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Induced by Rhizophagus irregularis at both time-points analyzed and promoter activity was strongest in arbuscule-containing cells.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "6 and 8 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "SWEET7a was also expressed in control roots, and induced even further by R. irregularis at both time-points ... symbiosis induces its expression and this is largely occurring in arbuscule-containing cells.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_6",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Induced in response to fungal colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "during mycorrhiza colonization",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "10 were induced at least in one time point (SWEETs 1a, 1e, 2b, 2c, 3, 5b, 12a, 12e, 17a, and 17b).",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_7",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Expressed at low level in control roots and induced in response to fungal colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "mainly at 6 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "SWEET1e, 5b, and 17a showed expression, albeit low, in control roots and were induced in response to fungal colonization",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_8",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Induced at least in one time point during mycorrhiza colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "during mycorrhiza colonization",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "10 were induced at least in one time point (SWEETs 1a, 1e, 2b, 2c, 3, 5b, 12a, 12e, 17a, and 17b).",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_9",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Promoter activity increased and relocalized mainly to arbuscule-containing cells.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "during mycorrhiza colonization",
+      "evidence_type": "Transgenic",
+      "effect_direction": "positive",
+      "evidence": "Upon fungal colonization, expression level was increased and relocalized mainly to arbuscule-containing cells.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_10",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Induced at least in one time point during mycorrhiza colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "during mycorrhiza colonization",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "10 were induced at least in one time point (SWEETs 1a, 1e, 2b, 2c, 3, 5b, 12a, 12e, 17a, and 17b).",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_11",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Expressed at low level in control roots and induced in response to fungal colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "mainly at 6 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "SWEET1e, 5b, and 17a showed expression, albeit low, in control roots and were induced in response to fungal colonization",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_12",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Transcript was induced and promoter activity was strong in arbuscule-containing cells.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "8 weeks post inoculation",
+      "evidence_type": "Transgenic",
+      "effect_direction": "positive",
+      "evidence": "One of them is SWEET12a, whose transcript was induced at 8 wpi ... SWEET12a had a strong promoter activity in the cortex, particularly in arbuscule-containing cells.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_13",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Induced at least in one time point during mycorrhiza colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "during mycorrhiza colonization",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "10 were induced at least in one time point (SWEETs 1a, 1e, 2b, 2c, 3, 5b, 12a, 12e, 17a, and 17b).",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_14",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Expressed in control roots and induced in response to fungal colonization, mainly at 6 weeks post inoculation.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "6 and 8 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "SWEET17a showed expression, albeit low, in control roots and were induced in response to fungal colonization, mainly at 6 wpi",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_15",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Induced at least in one time point during mycorrhiza colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "during mycorrhiza colonization",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "10 were induced at least in one time point (SWEETs 1a, 1e, 2b, 2c, 3, 5b, 12a, 12e, 17a, and 17b).",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_16",
+      "object_id": "phenotype_1",
+      "relation_type": "negatively_regulates",
+      "mechanism": "Expression was repressed at both time-points during mycorrhiza colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "6 and 8 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "negative",
+      "evidence": "the expression of two of them (SWEETs 10d and 12c) was repressed at both time-points",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_17",
+      "object_id": "phenotype_1",
+      "relation_type": "negatively_regulates",
+      "mechanism": "Expression was repressed at both time-points during mycorrhiza colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "6 and 8 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "negative",
+      "evidence": "the expression of two of them (SWEETs 10d and 12c) was repressed at both time-points",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_18",
+      "object_id": "phenotype_1",
+      "relation_type": "negatively_regulates",
+      "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "6 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "negative",
+      "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_19",
+      "object_id": "phenotype_1",
+      "relation_type": "negatively_regulates",
+      "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "6 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "negative",
+      "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_20",
+      "object_id": "phenotype_1",
+      "relation_type": "negatively_regulates",
+      "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "6 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "negative",
+      "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_21",
+      "object_id": "phenotype_1",
+      "relation_type": "negatively_regulates",
+      "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "6 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "negative",
+      "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_22",
+      "object_id": "phenotype_1",
+      "relation_type": "negatively_regulates",
+      "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "6 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "negative",
+      "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_23",
+      "object_id": "phenotype_1",
+      "relation_type": "negatively_regulates",
+      "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "6 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "negative",
+      "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_24",
+      "object_id": "phenotype_1",
+      "relation_type": "negatively_regulates",
+      "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "6 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "negative",
+      "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_25",
+      "object_id": "metabolite_2",
+      "relation_type": "transports",
+      "mechanism": "The fungal monosaccharide transporter can transport several monosaccharides and has the greatest affinity for glucose.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "symbiosis",
+      "evidence_type": "Biochemical_Assay",
+      "effect_direction": "positive",
+      "evidence": "MST2 can transport several monosaccharides, including some pentoses, but it has the greatest affinity for glucose.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_26",
+      "object_id": "phenotype_1",
+      "relation_type": "positively_regulates",
+      "mechanism": "Expression of the potato cell wall-bound invertase increased when fungal colonization raised apoplastic sucrose.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "during mycorrhiza symbiosis",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "While StPT4, RiTEF, and RiMST2 were almost exclusively expressed in mycorrhizal samples as expected, the CW invertase showed also expression in non-colonized roots, although fungal colonization significantly raised its expression levels.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "phenotype_1",
+      "object_id": "phenotype_2",
+      "relation_type": "associated_with",
+      "mechanism": "Colonization of potato roots by the AM fungus caused major transcriptional rewiring of the SWEET family in roots.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "growth_stage_detail": "4, 6, and 8 weeks post inoculation",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "quantitative_effect": "changes in 22 of the 35 members",
+      "evidence": "Colonization of potato roots by the AM fungus Rhizophagus irregularis imposes major transcriptional rewiring of the SWEET family involving, only in roots, changes in 22 of the 35 members.",
+      "extraction_FLAG": true
+    }
+  ]
+}

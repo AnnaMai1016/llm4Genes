@@ -1,0 +1,192 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Investigation of SWEET family sugar transporter genes and their role in arbuscular mycorrhiza"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                93,
+                80,
+                796,
+                123
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Kryukov A.A.<sup>1</sup>*, Gorbunova A.O.<sup>1,</sup> <sup>2</sup>, Mikhaylova Yu.V.<sup>3</sup>, Yurkov A.P.<sup>1</sup>"
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                134,
+                758,
+                151
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>1</sup> All-Russia Research Institute for Agricultural Microbiology, St. Petersburg, Russia"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                151,
+                738,
+                166
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>2</sup> St. Petersburg State University, St. Petersburg, Russia"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                166,
+                519,
+                180
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>3</sup> Komarov Botanical Institute, St. Petersburg, Russia"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                180,
+                503,
+                195
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "* email: rainniar@rambler.ru"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                195,
+                332,
+                208
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Arbuscular mycorrhiza fungi (AMF) form a symbiosis with most of terrestrial plants and hence enhance plant nutrition, increase adaptation to drought and salinity. We have previously developed a unique model system \"plant-host - AMF\". The system includes the highly responsive to inoculation with AMF an obligatory mycotrophic plant Medicago lupulina line MlS-1, and the highly effective AMF strain Rhizophagus irregularis RCAM00320. We studied the expression of 10 genes from the SWEET family during the formation of symbiosis between M. lupulina and R. irregularis, as well as mycorrhization, symbiotic efficiency and plant productivity. We accessed gene expression at different developmental phases of host plant under low phosphorus level in a substrate. Primer for genes were developed using M. lupulina transcriptome. The occurrence of mycorrhizal infection, intensity of mycorrhization, and the abundance of arbuscules in roots increased during plant development up to the inflorescence phase. A slight decrease in the abundance of arbuscules was observed on days 27 and 33 after planting, followed by an increase starting from a day 47. The roots/shoots ratio of M. lupulina was lower in mycorrhized plants than in plants without mycorrhiza. An inoculation of M. lupulina with the AMF increased the productivity of aboveground biomass and accelerated plant development under low phosphorus level. Gene expression analysis suggests that genes MlSWEET1a and MlSWEET1b are candidates for specific expression in the leaves of the mycorrhized host plant, MlSWEET1a and MlSWEET2c are candidate genes for specific expression in the roots. Further experiments under medium and high phosphorus levels can confirm or reject this hypothesis (with an increase in minerals available for nutrition in the soil, in particular phosphorus, the expression of specific genes may decrease). The study of plantmicrobial systems will contribute to their practical implementation in the agriculture of the Russian Federation."
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                221,
+                906,
+                652
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements: This work was supported by the RFBR 20-016-00245 and partially 19-29-05275."
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                651,
+                904,
+                686
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI 10.18699/PlantGen2021-113"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                63,
+                357,
+                78
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PlantGen2021"
+                    }
+                ]
+            },
+            "bbox": [
+                767,
+                925,
+                864,
+                938
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "129"
+                    }
+                ]
+            },
+            "bbox": [
+                869,
+                924,
+                902,
+                937
+            ]
+        }
+    ]
+]

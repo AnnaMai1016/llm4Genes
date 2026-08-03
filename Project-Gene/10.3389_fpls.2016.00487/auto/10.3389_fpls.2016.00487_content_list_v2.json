@@ -1,0 +1,4380 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5ea47163b49c095e5b27ed5fc38281aee58eb42ed3bc1b385fbf4badc26f4b2e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                877,
+                89,
+                926,
+                130
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Arbuscular mycorrhiza Symbiosis Induces a Major Transcriptional Reprogramming of the Potato SWEET Sugar Transporter Family"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                292,
+                166,
+                862,
+                286
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jasmin Manck-Götzenberger and Natalia Requena*"
+                    }
+                ]
+            },
+            "bbox": [
+                292,
+                301,
+                662,
+                315
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Molecular Phytopathology, Botanical Institute, Karlsruhe Institute of Technology, Karlsruhe, Germany"
+                    }
+                ]
+            },
+            "bbox": [
+                292,
+                326,
+                803,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "OPEN ACCESS"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                395,
+                272,
+                410
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Edited by: Ralph Panstruga, Rheinisch-Westfälische Technische Hochschule (RWTH) Aachen, Germany"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                422,
+                272,
+                486
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Reviewed by: Pierre-Marc Delaux,"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Centre National de la Recherche Scientifique, France Andrea Genre, University of Turin, Italy Pere Mestre,"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Institut National de la Recherche Agronomique, France"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                492,
+                272,
+                607
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "*Correspondence: Natalia Requena natalia.requena@kit.edu"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                612,
+                272,
+                650
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Specialty section: This article was submitted to Plant Biotic Interactions, a section of the journal Frontiers in Plant Science"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                667,
+                272,
+                731
+            ]
+        },
+        {
+            "type": "index",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Received: 12 February 2016"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Accepted: 25 March 2016"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Published: 14 April 2016"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                735,
+                272,
+                775
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Citation: Manck-Götzenberger J and Requena N (2016) Arbuscular"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "mycorrhiza Symbiosis Induces a Major"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Transcriptional Reprogramming of the Potato SWEET Sugar Transporter Family. Front. Plant Sci. 7:487. doi: 10.3389/fpls.2016.00487"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                779,
+                272,
+                883
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Biotrophic microbes feeding on plants must obtain carbon from their hosts without killing the cells. The symbiotic Arbuscular mycorrhizal (AM) fungi colonizing plant roots do so by inducing major transcriptional changes in the host that ultimately also reprogram the whole carbon partitioning of the plant. AM fungi obtain carbohydrates from the root cortex apoplast, in particular from the periarbuscular space that surrounds arbuscules. However, the mechanisms by which cortical cells export sugars into the apoplast for fungal nutrition are unknown. Recently a novel type of sugar transporter, the SWEET, able to perform not only uptake but also efflux from cells was identified. Plant SWEETs have been shown to be involved in the feeding of pathogenic microbes and are, therefore, good candidates to play a similar role in symbiotic associations. Here we have carried out the first phylogenetic and expression analyses of the potato SWEET family and investigated its role during mycorrhiza symbiosis. The potato genome contains 35 SWEETs that cluster into the same four clades defined in Arabidopsis. Colonization of potato roots by the AM fungus Rhizophagus irregularis imposes major transcriptional rewiring of the SWEET family involving, only in roots, changes in 22 of the 35 members. None of the SWEETs showed mycorrhiza-exclusive induction and most of the 12 induced genes belong to the putative hexose transporters of clade I and II, while only two are putative sucrose transporters from clade III. In contrast, most of the repressed transcripts (10) corresponded to clade III SWEETs. Promoter-reporter assays for three of the induced genes, each from one cluster, showed re-localization of expression to arbuscule-containing cells, supporting a role for SWEETs in the supply of sugars at biotrophic interfaces. The complex transcriptional regulation of SWEETs in roots in response to AM fungal colonization supports a model in which symplastic sucrose in cortical cells could be cleaved in the cytoplasm by sucrose synthases or cytoplasmic invertases and effluxed as glucose, but also directly exported as sucrose and then converted into glucose and fructose by cell wall-bound invertases. Precise biochemical, physiological and molecular analyses are now required to profile the role of each potato SWEET in the arbuscular mycorrhizal symbiosis."
+                    }
+                ]
+            },
+            "bbox": [
+                290,
+                358,
+                931,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: SWEET transporters, potato, Arbuscular mycorrhiza, root, sugar transport, plants, symbiosis"
+                    }
+                ]
+            },
+            "bbox": [
+                292,
+                869,
+                878,
+                883
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "frontiers in Plant Science"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                30,
+                270,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL RESEARCH published: 14 April 2016 doi: 10.3389/fpls.2016.00487"
+                    }
+                ]
+            },
+            "bbox": [
+                769,
+                42,
+                927,
+                75
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                948,
+                310,
+                962
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                949,
+                504,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                948,
+                926,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "INTRODUCTION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                70,
+                74,
+                233,
+                92
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Plants are the major factories of reduced carbon on the earth and therefore most of the other living organisms are absolutely dependent on them. This statement is particularly true for obligate biotrophic microorganisms that feed on living plants and are, thus, committed to modify the plant cell program toward the release of sugars into the extracellular space. It is not long ago that the molecular mechanisms of how plants release sugars to the extracellular space were unknown, and thus, the identification of SWEET transporters as key players in this process represented a landmark (Chen et al., 2010)."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                103,
+                490,
+                251
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SWEET transporters are integral membrane proteins with seven transmembrane domains that cannot only catalyze the eflux of carbohydrates but also their uptake (Chen et al., 2010; Chen, 2014). SWEETs were discovered in a screening using FRET glucose or sucrose sensors to identify pH independent sugar transporters in Arabidopsis (Chen et al., 2010, 2012; Lin et al., 2014). They are though very conserved throughout the plant kingdom, and Angiosperms contain a large number of SWEET genes, in average 20 according to Eom et al. (2015), but up to 52 in soybean (Patil et al., 2015). Phylogenetic analyses in several plants have shown that SWEETs can be grouped in 4 clades that were first defined in Arabidopsis (Chen et al., 2010; Chong et al., 2014; Wei et al., 2014; Feng et al., 2015; Patil et al., 2015). Assignment to one clade seems to correlate with the substrate transported rather than with the physiological function exerted by the SWEETs (Eom et al., 2015). Thus, from the functional analyses mainly carried out in A. thaliana and rice, it appears that SWEETs in clades I and II preferentially transport hexoses, while the characterized SWEETs from clade III are sucrose transporters (Chen et al., 2010, 2012; Lin et al., 2014). Clade IV contains less SWEET genes than the other clades and they have been shown to be vacuolar transporters controlling the flux of fructose across the tonoplast (Chen et al., 2010; Chardon et al., 2013; Guo et al., 2014)."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                251,
+                490,
+                604
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SWEETs serve many diferent functions in plants, including the export from the phloem parenchyma cells in source tissues previous to phloem loading by SUT/SUC importers, pollen nutrition by the tapetum, embryo development or nectar secretion (Ge et al., 2000; Chen et al., 2010, 2012, 2015b; Lin et al., 2014). Therefore, it is not surprising that if the eflux of sugars from cells requires the participation of SWEET transporters, microbes feeding on living plant cells manipulate their expression to increase sugar release. And indeed, several rice SWEET promoters have been shown to be the target of several TAL (transcriptional activator-like) efectors from the pathogenic bacteria Xanthomonas oryzae pv. oryzae (Chu et al., 2006; Yang et al., 2006; Antony et al., 2010; Chen et al., 2010; Streubel et al., 2013). The responsible TAL efectors delivered into the plant cytoplasm by means of the type III secretion system reach the nucleus to induce the expression of specific SWEETs, guaranteeing sucrose delivery into the apoplast of colonized cells. Although, so far no other examples of the mechanisms of ectopic SWEET induction by microbes have been elucidated, it is known that many microorganisms including symbiotic bacteria, fungi and oomycetes induce SWEET expression during plant colonization (Gamas et al., 1996; Yu et al., 2010; Chong et al., 2014; Chen et al., 2015a). Thus, it is tempting to speculate that convergent evolution might have made the promoter of SWEETs a very attractive target for biotrophic organisms. This is supported by the findings of Streubel et al. (2013) who proved that the promoter of the rice OsSWEET14 contains binding sites for at least four diferent TAL efectors. But also by the results of Cohn et al. (2014) showing that not only in rice, but also in the dicot cassava, SWEET promoters are the target of TAL efectors from X. axonopodis pv. manihotis."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                604,
+                492,
+                916
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                77,
+                929,
+                224
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The symbiotic AM fungi are well known for their beneficial efects on plants (Smith and Smith, 2011). These soil fungi from the phylum Glomeromycota colonize the cortex of plant roots and establish a mycelial network in the soil that allows plants to access scarce mineral nutrients such as phosphorous. In turn, mycorrhizal plants provide AM fungi with carbon, as they are obligate biotrophs and can only complete their life cycle in symbiosis (Smith and Smith, 2012). Soil phosphate is transported along the mycelial network into the inner cortex of the root, where it is delivered at specialized fungal structures called arbuscules that also serve for the sugar uptake from the plant. Arbuscules are tree-like structures formed by profuse dichotomous hyphal branching in the lumen of cortical cells surrounded by a plant derived plasma membrane called the periarbuscular membrane (PAM). The PAM is very special as it has a diferent protein composition from the rest of the plasma membrane, hosting the transporters that will be key in the nutrient exchange with the fungal partner (Pumplin and Harrison, 2009; Zhang et al., 2015). Plants forming AM symbiosis have a dramatically diferent physiology, as they are not only better provided with mineral nutrients but also have an increased sink strength toward the root that imposes a carbon partitioning reallocation (Wright et al., 1998; Graham, 2000; Boldt et al., 2011). The form in which carbon is provided from the host plant to the AM fungus is still under debate, although most of the experimental evidence suggests that glucose is the main form taken up by the fungus (Shachar-Hill et al., 1995; Solaiman and Saito, 1997; Pfefer et al., 1999). However, the finding that AM fungi lack the enzyme for de novo fatty acid biosynthesis, the type I FAS, (Tisserant et al., 2013; Salvioli et al., 2016; Tang et al., 2016) led to the hypothesis that, in addition to sugars, plants might be providing lipids as a source of carbon to their symbionts (Wewer et al., 2014). Currently, however, there is no experimenta evidence on the mechanisms of how fatty acids could be released into the periarbuscular space or taken up into the fungus. In contrast, molecular support for sugar import into the fungus from the apoplastic space was obtained with the identification of the high afinity monosaccharide transporter MST2 from the AM fungus Rhizophagus irregularis, only expressed in symbiosis at arbuscule containing cells and intercellular hyphae (Helber et al., 2011). MST2 can transport several monosaccharides, including some pentoses, but it has the greatest afinity for glucose. Its inactivation by HIGS (host induced gene silencing) severely impaired arbuscule formation suggesting that this transporter is critical for the symbiosis (Helber et al., 2011)."
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                224,
+                931,
+                887
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The key questions are, however, how does glucose reach the apoplastic space in colonized cells? And, how does the plant regulate the release of sugars into the apoplast? Enzymatic and promoter-reporter assays have clearly shown that mycorrhizal roots have a significant increase in cell wall-bound (CW) invertase activity (Wright et al., 1998; Schaarschmidt et al., 2006). Furthermore, CW invertase activity is located in the apoplast surrounding arbuscule-containing cells and intercellular hyphae, suggesting that apoplastic sucrose is cleaved prior uptake by the fungus (Schaarschmidt et al., 2006). Sucrose is the main form in which sugars are transported toward sink tissues including the root. However, after leaving the vascular tissue at the root, sucrose has to go through the endodermis to reach the cortical cells. Because sucrose is then expected to move symplastically to overcome the casparian strip (Kaiser et al., 2014), the involvement of SWEET exporters in cortical cells containing arbuscules is anticipated. In order to test this hypothesis, we decided to characterize the SWEET family of transporters in the mycorrhizal plant Solanum tuberosum (hereafter potato)."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                887,
+                929,
+                917
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Manck-Götzenberger and Requena"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                34,
+                257,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Role of Potato SWEETs in Arbuscular mycorrhiza"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                34,
+                926,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                949,
+                310,
+                962
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                949,
+                505,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                948,
+                926,
+                962
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                68,
+                77,
+                490,
+                327
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Here we show that potato contains a large SWEET family with 35 members, and that mycorrhiza colonization imposes a major transcriptional regulation of SWEETs in roots. The promoter activity of three up-regulated SWEETs during mycorrhiza colonization was analyzed using the GUS reporter gene and showed highest induction in arbusculecontaining cells. Altogether, our results point toward an important role for SWEET transporters during the mycorrhiza symbiosis."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                327,
+                490,
+                462
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MATERIALS AND METHODS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                477,
+                349,
+                494
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Material and Growth Conditions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                501,
+                438,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Solanum tuberosum cv. Desiree was propagated as cuttings axenically in plastic containers with Murashige and Skoog medium with vitamins and 25 g/l sucrose (Murashige and Skoog, 1962) solidified with 1 g/l Phytagel (P8169, Sigma-Aldrich, Germany; http://www.sigmaaldrich.com/germany.html) at 21<sup>◦</sup>C and 16/8 h day/night rhythm."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                519,
+                490,
+                607
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For the tissue analysis, 2 week old cuttings were transferred to 9 cm/500 ml pots with a sand:gravel (1:4) mixture. The plants were fertilized once a week with 50 ml half strength Long Ashton nutrient solution with high phosphate content (665 µM; Hewitt, 1966). After 3 weeks at 23<sup>◦</sup>C and 16/8 h day/night rhythm, roots, stems and leaves were harvested separately for RNA extraction. Five plants from independent pots were pooled to form one biological replicate, three biological replicates were used. For the harvest of tubers, plants were grown until tuberisation."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                607,
+                490,
+                740
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For mycorrhiza colonization, potato cuttings were transferred to pots as described above and adapted for 1 week to those conditions (23<sup>◦</sup>C). After that, they were inoculated by mixing the substrate with 2 months old Daucus carota hairy root cultures grown monoxenically in association with Rhizophagus irregularis DAOM 197,198 (Schenck and Smith, 1982; Krüger et al., 2012) on M-medium with sucrose at 27<sup>◦</sup>C in darkness (Bécard and Fortin, 1988). One Petri dish of carrot roots was used to inoculate a 500 ml pot. Plants were fertilized with half strength Long Ashton nutrient solution with 5 µM phosphate. Non-mycorrhizal controls were treated the same. Roots were harvested 4, 6, and 8 wpi (weeks post inoculation) for RNA extraction. Three plants from independent pots were pooled to form one biological replicate. Three biological replicates per treatment were used."
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                739,
+                492,
+                917
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                77,
+                927,
+                121
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Medicago truncatula Jemalong A17 was transformed as described using Agrobacterium rhizogenes ARquaI (Kuhn et al., 2010). Five weeks after transformation, wild type roots were cut and the plants were propagated one additional week on medium supplied with 400 mg/l Augmentin (AmoxiClav, Hikma Farmaceutical, Portugal; http://www.hikma.com/). After that, the composite plants were transferred to 50 ml growth tubes (Stuewe & Sons, Inc., USA; https://www.stuewe.com/) with the same substrate described above which was directly inoculated with mycorrhizal carrot roots (1/4 Petri dish per 50 ml tube). They were fertilized with 5 ml half strength Long Ashton nutrient solution (low phosphate, 20 µM) once a week and harvested at 5 wpi."
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                121,
+                929,
+                314
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Identification of SWEET Genes, Phylogeny, and Synteny Analysis"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                505,
+                328,
+                926,
+                364
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SWEET genes were identified via BLASTP search in the National Center for Biotechnology Information (NCBI; http://www.ncbi.nlm.nih.gov/) and the Solanaceae Genomics Network database (SGN; Bombarely et al., 2011; http://solgenomics.net/). The 35 SWEET genes identified were named S. tuberosum SWEET1 to SWEET17. Numbers were given according to their closest homolog of Arabidopsis thaliana (Chen et al., 2010). For numbers that were present more than once small letters from a to g were assigned according to their positions in the genome (Supplementary Table 1)."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                364,
+                929,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Phylogenetic analyses were conducted using Clustal Omega (Sievers et al., 2011, https://www.ebi.ac.uk/Tools/msa/clustalo/) for protein sequence alignment and Mega 6 (Tamura et al., 2013, http://www.megasoftware.net/) for the phylogenetic tree construction. The Neighbor-joining method with the p-distance substitution model was applied, performing Bootstrapping with 1000 replicates and missing data was deleted pairwise. The clades were classified according to Chen et al. (2010). The accession numbers of the sequences used can be found in Supplementary Table 1 and were obtained from NCBI, the Arabidopsis Information Resource (TAIR; Lamesch et al., 2012; https://www.Arabidopsis.org) or from the SGN. For synteny analysis, the genome positions of the potato SWEETs (Supplementary Table 1) and the positions of the corresponding tomato homologs were used (Feng et al., 2015)."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                512,
+                931,
+                734
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Topology Prediction and Manual Annotation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                505,
+                748,
+                823,
+                783
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The transmembrane helices of all SWEETs were predicted by TMHMM Server v.2.0 (http://www.cbs.dtu.dk/services/TMHMM/). For those not showing the typical seven transmembrane domain structure, a manual annotation was carried out using BLASTX in NCBI as well as by using cDNA analyses. The number of transmembrane helices of the final predicted proteins can be found in Supplementary Table 1. All the potato sequences used in this paper were sent to NCBI and are available with GenBank accession numbers KU686963 to KU686997 (Supplementary Table 1)."
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                783,
+                931,
+                917
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Manck-Götzenberger and Requena"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                34,
+                257,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Role of Potato SWEETs in Arbuscular mycorrhiza"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                34,
+                927,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                948,
+                926,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                949,
+                310,
+                962
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                949,
+                505,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                68,
+                77,
+                489,
+                109
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Expression Data and Quantitative Real-Time Expression Analyses"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                124,
+                396,
+                160
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Expression data of RNA-seq experiments from the Potato Genome Sequencing Consortium was shown as fragments per kilobase of transcript per million mapped reads (FPKM). Values were obtained from the Spud DB Solanaceae Genomics resource (Hirsch et al., 2014; http://solanaceae.plantbiology.msu.edu/) for those SWEETs having a potato genome annotation. Nine of the 35 potato SWEET genes are currently not annotated in the potato genome and therefore, their expression was analyzed by RT-PCR with 40 cycles (see primer list Supplementary Table 2). Total RNA was extracted using the innuPREP RNA Kit (Analytik Jena AG, http://www.analytik-jena.de/), quantified by the NanoDrop ND-100 spectrophotometer (http://www.nanodrop.com/). cDNA was synthesized as described elsewhere (Kuhn et al., 2010) with the reverse transcriptase SuperScript II (Invitrogen, USA; https://www.lifetechnologies.com/de/de/home.html)."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                160,
+                490,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Real time expression analyses were carried out using an iCycler MyIQ (Bio-Rad, USA; http://www.bio-rad.com/) and MESA Green 231qPCR Master Mix Plus (Eurogentec, Germany; http://www.eurogentec.com/eu-home.html) with three technical replicates per reaction and three independent biological replicates. Expression of the translation elongation factor 1-alpha (Stef1; AJ536671) was used for normalization. StPT4 (AY793559), StInvCD141 (Z22645), RiTEF (DQ282611), and RiMST2 (HM143864) served as indicators of symbiosis status. Primers used can be found in Supplementary Table 2."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                395,
+                490,
+                544
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Promoter Analysis"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                560,
+                253,
+                577
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Promoter elements were searched in the 2 kb region upstream of the ATG for each SWEET gene from potato and from tomato (see Supplementary Table 3 for sequence details). For StSWEET7d, StSWEET12c, StSWEET12e, SlSWEET3, and SlSWEET12a, only smaller fragments could be obtained from the databases (1491, 1207, 1900, 1235, and 863 bp, respectively)."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                577,
+                490,
+                666
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For promoter-reporter assays, 2 kb fragments of the SWEET2c, SWEET7a, and SWEET12a promoters were cloned into the Gateway binary vector pPGFPGUS-RR, containing the reporter genes GFP (green fluorescent protein) and GUS (β- Glucuronidase) as well as a red root cassette (RR, constitutively expressed DsRed) for root transformation control (Kuhn et al., 2010). A. rhizogenes-mediated transformation of M. truncatula and mycorrhizal inoculation with R. irregularis was carried out as described above. GUS staining was performed as described elsewhere (Kuhn et al., 2010) with the following modifications: the staining was fixed with 50% EtOH for 2 h. After that, the roots were cleared in 10% KOH for 30–45 min at 95<sup>◦</sup>C and fungal cell walls were stained with WGA-FITC (wheat germ agglutinine-fluorescein isothiocyanate, Sigma Aldrich) according to Rech et al. (2013). For each construct, at least 10 independently transformed roots were analyzed."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                666,
+                492,
+                916
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Microscopy and Image Processing"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                507,
+                75,
+                847,
+                92
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Roots expressing GUS were microscoped using a Leica TCS SP5 (DM5000) equipped with the digital color camera DFC295. Objectives used were HC PL FLUOTAR "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 . 0 ~ \\times ~ 0 . 0 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "DRY, HCX PL APO "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C S } \\ 2 0 . 0 \\ \\times \\ 0 . 7 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "DRY UV, and HCX APO lambda blue 63.0 × 1.20 WATER UV CORR (Leica, Wetzlar, Germany; http://www.leica-microsystems.com/de/) at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 1 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Diferential interference contrast (DIC) pictures were obtained using appropriate DIC prisms for the three objectives and FITC fluorescence was recorded using filter cube L5. Images were collected using LASAF v2.6 and ImageJ 1.48p (http://fiji.sc/Fiji)."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                93,
+                929,
+                255
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Statistical Analyses"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                507,
+                264,
+                702,
+                281
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Expression analysis data were statistically tested for diferences between non-mycorrhizal and mycorrhizal roots (three biological replicates, respectively) using the Student’s t-Test with a two-tailed distribution and homoscedasticity. Diferences were considered as significant with a value of p < 0.05 (marked with ∗) and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ p } < 0 . 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(marked with ∗∗)."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                281,
+                929,
+                372
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "RESULTS AND DISCUSSION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                507,
+                385,
+                786,
+                403
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Identification and Phylogenetic Analysis of the SWEET Family in Potato"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                505,
+                409,
+                922,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to get insights into the mechanisms ofsugar homeostasis in roots during mycorrhiza formation and in particular into the role of SWEETs, we first carried out in silico sequence analyses in the genome of potato (S. tuberosum group Phureja). Following the comprehensive phylogenetic analysis that was carried out in the model plant Arabidopsis thaliana (Chen et al., 2010), we identified 35 gene sequences coding for putative SWEETs using BLASTP searches in NCBI as well as in the SGN (Sol Genomics Network) databases (Figure 1). This number is much higher than the average number of SWEETs for angiosperms (ca. 20) (Eom et al., 2015) perhaps reflecting the genome triplications and gene tandem duplications observed in the Solanum lineage (Xu et al, 2011; Sato et al., 2012). We named the potato SWEETs following the A. thaliana nomenclature (Chen et al., 2010). Protein alignment of the 35 potato SWEETs with 29 sequences from tomato, 17 from A. thaliana, and 21 from rice allowed the construction of a phylogenetic tree. All 35 potato SWEETs cluster into the four clades defined by Chen et al. (2010). Most of the SWEETs from potato belong to clade III (15), followed by SWEETs from clades I and II (11 and 6, respectively). In addition, potato has also three SWEETs in the clade IV, whose members have been shown to transport fructose across the tonoplast (Chen et al., 2010; Chardon et al., 2013; Guo et al., 2014)."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                445,
+                929,
+                798
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Interestingly, in tomato only 29 SWEET transporters have been identified (Feng et al., 2015). This reduction is homogenously distributed among the clades. The overall identity of all potato SWEETs is ca. 41%, while the overall identity of all SWEETs depicted in the phylogenetic tree of Figure 1 is 39%, indicating a high degree of conservation among SWEET proteins. Pairwise comparison of potato and tomato SWEETs revealed that some members are up to 97% identical, being the overall identity between tomato and potato of ca. 42%, mirroring the overall similarity between the two genomes (Sato et al., 2012; Supplementary Table 4)."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                798,
+                929,
+                917
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Manck-Götzenberger and Requena"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                34,
+                257,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Role of Potato SWEETs in Arbuscular mycorrhiza"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                34,
+                926,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                949,
+                926,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                949,
+                310,
+                962
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                949,
+                505,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d70365baa82e36a0385fe5546979cbdc329d9a946168e3431eff4642bd27b54a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 1 | Phylogenetic tree of potato, tomato, rice, M. truncatula, and A. thaliana SWEETs. The unrooted tree was generated based on an amino acid alignment using Clustal Omega. The phylogenetic tree was constructed using the neighbor-joining method and the p-distance model using MEGA 6. Scale ba represents evolutionary distance in number of amino acid differences per site. Bootstrapping was performed with 1000 replicates and values are displayed on branches in %. Colored circles represent regulation by mycorrhization in the same color code as in Figure 5. Gene names and accession numbers can be found in Supplementary Table 1."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                194,
+                86,
+                810,
+                596
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                68,
+                704,
+                489,
+                748
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The organization of genes encoding SWEETs in the potato genome showed that they are widely distributed among 11 from the 12 chromosomes (Figure 2). Chromosome 3 encodes the highest number of SWEETs (13 members), while chromosome 10 contains no SWEET genes. The expansion of SWEETs in chromosome 3 seems to be Solanaceae specific as they are absent in Arabidopsis, rice and Medicago. In support of a specific function in Solanaceae, expression data in tomato have shown a common regulation for six of those genes (Feng et al., 2015). One partial SWEET gene (XM_006368013) was not ascribed to any chromosome, however it is likely located on chromosome 5 because manual annotation and expression analyses showed that together with the partial SWEET gene XM_006359017 located on chromosome 5, both comprise one single gene (see topology predictions below). Our synteny analysis shows that all potato SWEET genes having an ortholog in tomato are located in the same chromosome in both species (Figure 2), consistent with the global synteny observed between the two genomes (Sato et al., 2012). Seven potato SWEET genes do not have orthologs in tomato, while only one tomato gene misses an ortholog in potato. The synteny analysis showed that most potato SWEET genes are located in the same arrangement as in the tomato chromosomes, with only two inversions observed in chromosome 6 (Figure 2). All SWEET genes encoding transporters from clade IV are located in chromosome 1 in tandem, whereas members of the other clades are not specifically associated to any particular chromosome."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                748,
+                490,
+                912
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                504,
+                704,
+                929,
+                912
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Manck-Götzenberger and Requena"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                34,
+                257,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Role of Potato SWEETs in Arbuscular mycorrhiza"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                34,
+                926,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                948,
+                310,
+                962
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                949,
+                505,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                948,
+                926,
+                962
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/f6ce5904e3753642a03e4c20b9aad8dfd566de7931919609f47c245f91c412c7.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 2 | Synteny analyses of SWEET genes in potato and tomato. SWEET genes are present in almost all chromosomes with the exception of chromosome 10 in potato and 10 and 11 in tomato. The distribution of the genes in both genomes is almost identical, with only two inversions in chromosome 6, mirroring the general high degree of synteny between both genomes."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                83,
+                423,
+                741
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                68,
+                857,
+                489,
+                887
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The discovery of SWEETs as sugar transporters was seminal because thus far only proteins with 12 transmembrane domains (TMs) or 14 TMs had been shown to be able to transport monosaccharides and disaccharides across membranes (Chen et al., 2010). In contrast, plant SWEETs were shown to contain only seven TMs and to form a structure with two tandem triple helix bundles (TM1-3) and (TM5-7) separated by a linker region including a less conserved TM (TM4). This structure allows the formation of two pseudosymmetrical halves that permits sugar passage through the membrane (Tao et al., 2015). Interestingly, bacterial SemiSWEETs contain only three TMs and are thought to achieve sugar transport by oligomerizing with other SemiSWEETs and are, therefore, considered ancestor proteins of eukaryotic SWEETs (Xuan et al., 2013; Wang et al., 2014; Xu et al., 2014; Tao et al., 2015). Surprisingly topology predictions for the potato SWEETs using TMHMM revealed that although most of them belong to the seven TM groups, several exceptions existed and 12 potato SWEETs did not conform to this pattern according to the annotations from NCBI and SGN (Supplementary Figure 1). However, a closer look to their sequences and expression analyses (data not shown) revealed that in most cases those genes and their proteins were wrongly annotated. Only one protein seems not to conform to the seven TMs pattern (SWEET7c), that only contains the first four TM domains. However SWEET7c seems to be a pseudogene because downstream of the domain coding for the fourth TMs another gene is located coding for an F-box protein (XM_006356285.2, F-box protein At2g32560-like). A putative correct annotation for all potato SWEET genes has been submitted to the NCBI database (Accessions KU686963 to KU686997)."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                887,
+                490,
+                916
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                78,
+                931,
+                505
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Tissue Expression Analyses of Potato SWEETs"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                507,
+                527,
+                873,
+                562
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We next analyzed in silico the transcriptional profile of potato SWEET genes using the Spud DB, comparing several tissues (Xu et al, 2011; Hirsch et al., 2014), mainly focusing on the expression profiles in roots. Nine from the 35 SWEET genes are not present in the SGN database and are therefore missing from the Spud DB. We analyzed those using RT-PCR in leaf, stem, root and tuber tissues from the potato cultivar Desiree. Results from the RNA-seq data in Spud DB showed that some ofthe SWEET genes were almost not detectable in most of the tissues analyzed such as SWEET1f, a few others were only expressed in one or two tissues. Thus, SWEET7a and 7d are almost exclusively expressed in fruit, SWEET1e and 5b mainly in flower, and SWEET12a and 5a in fruit and flower (Figure 3A, Supplementary Table 5). The only SWEET gene expressed almost exclusively in root is, according to Spud DB, SWEET12d. However, FPKM values are in general relatively low, and thus care must be taken when interpreting their meaning. From the 8 SWEET genes analyzed by RT-PCR, only SWEET10a and 12c appeared as root specific, whereas SWEET7c and 11d showed stem-specific expression (Figure 3B). However, we did not analyze tissues such as flower or stolons and therefore, more in depth expression analysis should be required. In general, the highest expression levels were found in leaf tissue, while mature tuber showed very low levels of expression for all SWEET genes, with the exception of SWEET1b. The two most expressed genes are SWEET11b in leaf and SWEET1b in petals, followed by SWEET10b in one of the root samples. These results show that although some SWEETs have been shown to have a specific function in some tissues, the high level of conservation in sequence and in expression anticipates a large degree of functional redundancy in potato."
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                562,
+                931,
+                919
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Manck-Götzenberger and Requena"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                34,
+                257,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Role of Potato SWEETs in Arbuscular mycorrhiza"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                34,
+                927,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                949,
+                310,
+                962
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                949,
+                505,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                949,
+                926,
+                962
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7642d5eb33f960897a8b31ee959d66309b4b3b8cb9a71246145ede2ef0477275.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 3 | Expression analyses of potato SWEET genes. (A) In silico expression analysis of 26 of the 35 potato SWEET genes in several tissues, including flower, leaf, stem, root, stolon, and tuber from either RH89-039-16 (RH) or DM3-1 (DM), according to the RNA-seq data from the Spud DB expressed as FPKM values (fragments per kilobase of transcript per million mapped reads). Two independent root expression data sets are available for DM root (DM ROOT1, DM ROOT2). Since SWEET12e was not correctly annotated prior to this work, two transcripts can be found corresponding to this gene. The color code indicates level of expression in logarithmic scale from dark purple to bright yellow. (B) RT-PCR expression analyses in leaf, stem, root, and tuber for the nine potato SWEET genes not annotated in the SGN database. The house keeping gene elongation factor 1α (Stef1) was used as control. Forty cycles were used for the PCR."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                213,
+                87,
+                786,
+                439
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                68,
+                546,
+                490,
+                636
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Transcriptional Regulation of Potato SWEET Genes during Mycorrhiza Symbiosis"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                655,
+                421,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To investigate the possibility that SWEETs are involved in sugar downloading processes during AM symbiosis, transcriptional changes in the expression of all potato SWEETs were analyzed in colonized roots. Potato plants were inoculated with the fungus R. irregularis and harvested at three time-points (4, 6, and 8 weeks post inoculation, wpi). To assess the development of the symbiosis, we first measured the expression of StPT4 (an arbuscule-specific plant phosphate transporter) and of RiTEF (R. irregularis Translation elongation factor 1a). The level of RiTEF indicates the level of fungal colonization within the roots, while the plant phosphate transporter StPT4 is only located in functional arbuscular branches and therefore it is a good indicator of active symbiosis (Harrison et al., 2002). Furthermore, we also analyzed the expression of the InvCD141 gene, encoding a CW invertase whose ortholog in tomato is induced during AM symbiosis around arbuscules and intercellular hyphae (Schaarschmidt et al., 2006). In addition, we analyzed the expression of the fungal monosaccharide transporter MST2 from R. irregularis (RiMST2) induced during symbiosis (Helber et al., 2011). While StPT4, RiTEF, and RiMST2 were almost exclusively expressed in mycorrhizal samples as expected, the CW invertase showed also expression in non-colonized roots, although fungal colonization significantly raised its expression levels (Figure 4A). This result suggests that root colonization by R. irregularis caused an increase in apoplastic sucrose, contributing to increase the sink strength of mycorrhizal roots. The expression of all genes was highest at 6 wpi indicating that this was likely the time-point at which the symbionts were more active at nutrient exchange (Figure 4A)."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                709,
+                492,
+                917
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                546,
+                929,
+                768
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We then analyzed the expression of all SWEET genes at 6 and 8 wpi. No transcript, or only barely measurable expression, was observed for three of the genes analyzed (SWEETs 1f, 7d, and 12b), in general in accordance with the data from Spud DB (Figure 4B, Supplementary Table 5). In contrast, we could measure expression for 4 SWEET genes that had not been previously detected or only at very low levels in the Spud DB. Thus, SWEET1e, 5b, and 17a showed expression, albeit low, in control roots and were induced in response to fungal colonization, mainly at 6 wpi, coinciding with the highest symbiotic activity (Figures 4A,B). Similarly, SWEET7a was also expressed in control roots, and induced even further by R. irregularis at both time-points (Figure 4B)."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                767,
+                929,
+                917
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Manck-Götzenberger and Requena"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                34,
+                257,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Role of Potato SWEETs in Arbuscular mycorrhiza"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                34,
+                926,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                949,
+                310,
+                962
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                949,
+                505,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                948,
+                926,
+                962
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/62aae1947d9179ef05f79dcf7a125199b26f1749dfba08d3a60e99efaf650af8.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "A"
+                    },
+                    {
+                        "type": "text",
+                        "content": "B"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                144,
+                107,
+                263,
+                251
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/65b3be64d373791b58997c60a373c99b63efeacb60dc8b00a218515b546e2e14.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                265,
+                110,
+                381,
+                251
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/639b48bf4291341b0b8d3088e14e43e3512a1e566cf5c761d9b2e5f6652959a7.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                381,
+                109,
+                500,
+                251
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/fcf4e0816d32b8935b500bf54df4b1aec358559a4591ad226c950784d7383d22.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": [
+                    {
+                        "type": "text",
+                        "content": "mycorrhiza upregulated at two time points mycorrhiza upregulated at one time point mycorrhiza downregulated at two time points mycorrhiza downregulated at one time point not mycorrhiza regulated not expressed"
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                109,
+                616,
+                251
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/6ffa6b57a68a244eccdf1d3dade5a92367c2d6571d017d69160d5c4656b18b93.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                142,
+                256,
+                252,
+                360
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/70242cf3c4d39c03c548d75818616217b2b624b37fd145f205bd4dacfac61824.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                253,
+                258,
+                357,
+                362
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/b87c792b4862692246c731ac5aa9b70678c4946acfaa9532d8abc2a22ffbab29.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                364,
+                258,
+                465,
+                359
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/e0cfee3b3e4269baa8a3a2e5ef49525040e9441206bc66141635bdf437d7d042.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                470,
+                258,
+                569,
+                359
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/bf7c254aa7c7cd000538c99f7ab0892d292fa17e2a4c36f50f849c74627c9826.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                574,
+                258,
+                680,
+                358
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/b88ed83b3dce6bac3da76ec889f839007e1596f67a33cf4018053c36673b28f1.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                682,
+                258,
+                788,
+                358
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/622f9436d773c94bc173f13c4da0c085933a4001a0c082a2a83378115920e939.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                791,
+                258,
+                892,
+                359
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/d87d8d55fb60ccc56f44304846afe47f97075059f6b88f3558135dccd9efcaec.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                152,
+                367,
+                250,
+                469
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/53a4da7d243a4c5b027f6a936808286d9debc04449fbf248db0b77385c82af35.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                265,
+                368,
+                359,
+                469
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/b8c4f61284c603759e5817f8d6ab2a4cc2bc54f8a6147870809fd3c771efbf25.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                369,
+                368,
+                463,
+                467
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/7a72dc47081c1053f4c1fa566fffedf4f588f4be6ad5573c31bb4a993470fa3c.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                468,
+                367,
+                571,
+                468
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/3eacf89035fdb3741951ecb8bb85b5f12bdf0e074ef9fcd001a7d1f6e9f92bcb.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                574,
+                368,
+                678,
+                469
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/1fb46f6a39c7506e59ea02dd185d693f9841c6b9ddbf062d1f67297e2668eee5.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                685,
+                368,
+                788,
+                469
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/d6af9f6e865d2a0d01c4a2a67956188ec49f2fe89c18b10bdc68ef470d82fabd.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                793,
+                368,
+                892,
+                468
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/fd5203e3af952d54f8696ff62a288b5cc13d9471d7a1feb5dd0d7cb63030d3ba.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                144,
+                476,
+                250,
+                578
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/b4b0dde04649a8538f663915b16ebd9aac2836af6251ee965bbe26cad7236996.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                257,
+                477,
+                357,
+                577
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/b16f2a72a1dd3acdf580ec89cc605fe2bd0c1d8adbd7afd27ea75a315d8b0e18.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                364,
+                477,
+                465,
+                577
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/de6d235cff90b99f762258e076f1407bb1be6dcbc177bb809e1a893d413d9019.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                482,
+                478,
+                571,
+                577
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/eb6c42b11e5286cecd476d51828a5671ca6824821aeea660aa41862635be1863.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                588,
+                480,
+                677,
+                577
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/cd254ece34b03cd18ce2c83e6c05999cbaa3554199cdc596366c232721ae379e.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                692,
+                478,
+                784,
+                577
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/8ca42b0750a7f0d61d4e9751639762b63d8ace3ad3d447563e8a5da82d1d2a2c.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                793,
+                477,
+                892,
+                577
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/09be84de0bbef8ab612f28ae3e69bda603a55f288553b456261908238304a6df.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                144,
+                585,
+                250,
+                685
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/08ccd3d59bc3819e65dfd62a99e4350051b8883993edd83384dfc6b75e0bc9bf.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                257,
+                586,
+                356,
+                686
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/3ecd6896d246440246c7d1e75b282366baca21c87480e4c4b55b62e600eccc01.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                359,
+                586,
+                463,
+                686
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/2c799a1a66950713cce60e187c295d339033c322f60cad53f617036b7be1cfd3.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                470,
+                586,
+                571,
+                686
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/788a6e164b693181f1550595f46d87732cb687fa91e5306f3bcbe8caa839206c.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                583,
+                586,
+                677,
+                686
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/fd601597e755b9f389fea95e8bec5ebdfb9e3e2980143989207e654aebd58824.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                695,
+                586,
+                783,
+                685
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/080b04c7edf4f0a3bfb7ab2dc8a05d2a323edf9bcf9a86ed3a5d3814113c5209.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                793,
+                586,
+                894,
+                689
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/6836781296366c543868524a7e27948cebd61544af2aa97508a49fb4020f00f5.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                144,
+                694,
+                250,
+                829
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/ee29604f170d239cd936ce903824fd571eff393932fb97ec3357242c111cee4c.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                252,
+                694,
+                357,
+                815
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/6d020fee99898252c31401881eb9b08b01d48bdc45cd7f4c100ad71018df34a8.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                359,
+                694,
+                465,
+                812
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/b277ea122bf702d02af508c2a4f148adeed32e26ff0e7aeb1b0b39b5942485d6.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                473,
+                694,
+                573,
+                829
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/1feb00f473ce0ecb2cc963958bbc446e0ff975d7409563236318d12676014011.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                576,
+                694,
+                684,
+                829
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/50599efdfa310addf87fed19a4ffacc57eda000967fd9979fe904007fdcd9fce.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                692,
+                694,
+                788,
+                824
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/f47207ef8f8cfd6421cd4bcc1f887599854fe70b23df23e18ec6b7535e50d5f2.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 4 | Expression analysis of all potato SWEETs in roots in response to colonization by the Arbuscular mycorrhizal fungus R. irregularis. (A) The expression of the phosphate transporter PT4 and the cell wall-bound invertase InvCD141 from potato, as well as the fungal translation elongation factor 1a RiTEF and the monosaccharide transporter gene RiMST2 were analyzed at 4, 6, and 8 weeks post inoculation (wpi). (B) Expression of potato SWEETs was measured at 6 and 8wpi. Expression is shown as relative expression to potato elongation factor 1α (Stef1) or to RiTEF for RiMST2. Error bars represent standard error of the mean. Non colonized samples are indicated by minus (−) and colonized samples by plus (+), per treatment the average expression of three biological replicates is shown. Student’s t-test was used to calculate significance of mycorrhized compared to non mycorrhized samples in the same time point "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( ^ { \\star \\star } p < 0 . 0 1 , ^ { \\star } p < 0 . 0 5 )"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                796,
+                697,
+                895,
+                830
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Manck-Götzenberger and Requena"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                34,
+                257,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Role of Potato SWEETs in Arbuscular mycorrhiza"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                34,
+                926,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                949,
+                310,
+                962
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                949,
+                505,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                949,
+                926,
+                962
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                68,
+                77,
+                489,
+                121
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Remarkably, from all 35 potato SWEET genes, none of them showed a mycorrhiza-restricted induction, although two of them were clearly induced during symbiosis at 6 and 8 wpi (SWEETs 1b and 7a), and 10 were induced at least in one time point (SWEETs 1a, 1e, 2b, 2c, 3, 5b, 12a, 12e, 17a, and 17b). Interestingly analysis of expression data in the MtGEA (http://mtgea.noble.org/v3/) showed that several SWEETs were also induced during mycorrhiza symbiosis in Medicago truncatula. Thus, MtSWEET1b, MtSWEET6, and MtSWEET9b showed highest expression in arbuscule-containing cells, coincident with their putative potato relatives (StSWEET1a, 1b, 7a, and 12a). In rice, analyses of expression in mycorrhizal roots only showed a clear induction for OsSWEET3b (Fiorilli et al., 2015), that also matches with the mycorrhizal induction of StSWEET3. These results suggest that several SWEETs might have been recruited for mycorrhiza symbiosis early in plant evolution."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                121,
+                492,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Arbuscular mycorrhizal colonization also led to downregulation of some of the transporters. Thus, the expression of two of them (SWEETs 10d and 12c) was repressed at both time-points, while 7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi (Figure 4B). Data from the MtGEA only showed a clear downregulation in arbusculecontaining cells for MtSWEET16 that cluster within the clade IV of tonoplast transporters. In contrast, RNA-seq data from rice only showed downregulation of SWEET16 when comparing large lateral roots, which become colonized by mycorrhiza, vs. fine lateral roots that are not (Fiorilli et al., 2015)."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                372,
+                490,
+                534
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Remarkably, 7 of the 10 repressed potato SWEETs belong to what appears to be a Solanum-specific subclade within clade III. Interestingly, the orthologs of five from them in tomato were shown to be repressed in roots in response to diferent stresses including sugars, temperature and salt, while at the same time induced by the same stresses in leaves (Feng et al., 2015). These results suggest that such group of genes plays a role in the carbon allocation between roots and shoots in tomato in response to external stimuli. In analogy, AM fungal colonization appears to be perceived as a stress for the roots of potato and could be then afecting the sugar partitioning between root and shoot. More biochemical and physiological data would be required to ascertain how the downregulation of such genes afects the sugar allocation to roots."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                534,
+                490,
+                753
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Eight of the 12 mycorrhiza-induced SWEET genes encode proteins from clade I or II that likely transport hexoses (Figures 1, 4B), while most of the repressed genes encode for proteins of clade III, presumed sucrose transporters (Figures 1, 4B). This could be interpreted as an increase in hexoses vs. sucrose being transported across root plant membranes in response to colonization that could serve for fungal nutrition. However, given that SWEETs are bi-directional transporters and that the precise root tissue and subcellular location of each SWEET is not determinable on its sequence basis, more experimental evidence is required. In this sense it is interesting that all five SWEET transporters induced by Xanthomonas TAL efectors in rice belong to the clade III (Streubel et al., 2013) and thus presumed sucrose transporters. Eom et al. (2015) suggest that this might be explained by the fact that, in contrast to sucrose, the hexose pools in the cytoplasm are limited and thus, they might be not suficient to maintain pathogenic growth."
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                753,
+                492,
+                917
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                504,
+                77,
+                927,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although, transcriptional inductions and repressions were modest in most cases, it should be taken into account that they were measured in whole root systems, and thus ifonly happening in colonized areas, a large dilution efect is expected. In general, the extensive transcriptional reprogramming observed involving 22 of the 35 transporters highlights a complex carbohydrate reorganization that roots undergo during mycorrhizal symbiosis. And it also suggests that a large degree of functional redundancy might exist."
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                181,
+                929,
+                314
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Promoter Analysis of Potato SWEET Transporters"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                505,
+                336,
+                860,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A putative role for the carboxy terminal domain of SWEETs in the posttranslational regulation of their activity has been postulated (Niittylae et al., 2007). However, several lines of evidence have shown that transcriptional regulation might be suficient to control SWEET activity. Thus, for instance, TAL-mediated SWEET expression induction by pathogens, or overexpression of specific SWEETs is enough to produce significant phenotypic diferences (reviewed in Eom et al., 2015). Therefore, and assuming that SWEET genes could be targets for mycorrhiza induction, we next analyzed the promoter of potato SWEETs for mycorrhiza-specific motifs (Supplementary Table 3). In particular we searched for the CTTC motif, that has been previously shown to be suficient for expression in cells containing arbuscules and that is often associated to the phosphate starvation motif P1BS, GnATATnC (Rubio et al., 2001), both in close vicinity to the ATG (Karandashov et al., 2004; Chen et al., 2011; Lota et al., 2013). The core motif of the CTTC element is TCTTGTTC, however, shorter versions lacking the 3<sup>′</sup>C (TCTTGTT), versions where G is exchanged to C, and a version with both modifications have also been found in mycorrhiza inducible promoters (Lota et al., 2013). Therefore, we also searched for such modifications in the promoter of all potato SWEET genes."
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                370,
+                931,
+                725
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The complete CTTC consensus sequence was only found in the promoters of SWEET7c, 10a, and 17a, although only SWEET17a was induced by R. irregularis at 6 wpi, and in none of the three promoters the P1BS motif was present. Modified versions of the CTTC consensus sequence could be identified in promoters of 28 of the 35 SWEET genes, with the exception of SWEET1c, 1d, 1f, 1g, 2a, 2b, and 12f. The P1BS motif was present in 12 SWEET promoters, however it was never in the 30 bp region upstream of the CTTC motif as described (Chen et al., 2011; Lota et al., 2013). We could not identify a clear correlation between the presence of the CTTC motif and a mycorrhiza-induced expression (Supplementary Table 3) and therefore, future deletion experiments will be necessary to determine its importance or not for the mycorrhiza induction of SWEET genes."
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                724,
+                931,
+                917
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Manck-Götzenberger and Requena"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                34,
+                257,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Role of Potato SWEETs in Arbuscular mycorrhiza"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                34,
+                927,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                949,
+                310,
+                962
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                949,
+                505,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                949,
+                926,
+                962
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ae1c6e2b00b879e9ee8912d8092226ff4bef2eae608cfc795fab9378b482ffef.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 5 | Promoter-reporter assays of three SWEET promoters during AM symbiosis. 2kb fragments upstream of the ATG of potato SWEETs 2c, 7a, and 12a were cloned in front of the GUS reporter gene and transformed in M. truncatula. Composite plants were inoculated with R. irregularis and harvested 5 wpi (weeks post inoculation). β-Glucuronidase staining and WGA-FITC (wheat germ agglutinin-fluorescein isothiocyanate) counterstaining of fungal cell walls was carried out in mycorrhizal and non-mycorrhizal control roots. (A) Empty vector control roots. (B) Non-mycorrhizal and mycorrhizal promoter-reporter roots. Scale bars represent 100 µm. DIC: differential interference contrast, WGA-FITC signal is shown in green."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                228,
+                86,
+                776,
+                626
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                68,
+                736,
+                490,
+                766
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to gather information on the spatial expression pattern of mycorrhiza-induced SWEETs in roots, promoterreporter assays using the GUS gene were carried out in a heterologous system, in M. truncatula transformed with Agrobacterium rhizogenes. To that end, three mycorrhizainduced genes, one from each clade, were selected. The promoter of SWEET2c (clade I) showed activity in non-colonized roots mainly at the root tip, as well as faint expression in the cortex. Upon fungal colonization, expression level was increased and relocalized mainly to arbuscule-containing cells (Figure 5). This is in agreement with the presence ofseveral CTTC motifs, two short and one short with a G to C exchange (Supplementary Table 3). Recently, the putative ortholog of SWEET2c from Arabidopsis, one of the three highest expressed SWEETs in Arabidopsis roots, has been functionally characterized (Chen et al., 2015a). Surprisingly, although it belongs to the clade I, AtSWEET2 localizes at the tonoplast and most likely performs as glucose importer. Because AtSWEET2 is mainly localized in root tips, its function has been associated to prevent losses of carbon into the rhizosphere, and consistently, its deletion not only increases glucose eflux but also the plant susceptibility to the pathogenic oomycete Pythium irregulare (Chen et al., 2015a)."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                766,
+                490,
+                915
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                504,
+                736,
+                929,
+                915
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Manck-Götzenberger and Requena"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                34,
+                257,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Role of Potato SWEETs in Arbuscular mycorrhiza"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                34,
+                926,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                949,
+                310,
+                962
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                949,
+                509,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                948,
+                926,
+                962
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/94d06a369b69783be04cfb9712979125325bf1af1db9b3890062c071bea547f5.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 6 | Model of sugar partitioning during arbuscular mycorrhiza symbiosis. Sucrose (Suc) is delivered to arbuscule containing cells symplastically from the endodermis to overcome the casparian strip (in red). In the cytoplasm, Suc can be cleaved by sucrose synthase (SUSY) or cytoplasmic invertase (cINV) to glucose (Glc) and fructose (Fru). To maintain the favorable concentration gradient, hexoses could be translocated into the vacuole via tonoplast located SWEETs or other transporters. Alternatively, hexoses could be exported into the apoplast with the help of SWEET7a. Direct export of sucrose into the apoplast or the periarbuscular space could be achieved by sucrose efflux transporters from clade III such as SWEET12a. In the apoplast and periarbuscular space sucrose is cleaved by cel wall-bound invertase (CWI). The sugars in the apoplast are either taken up by the fungus via monosaccharide transporters such as RiMST2 or by the plant cell via monosaccharide transporters such as MST1 (shown in M. truncatula) and via sucrose transporters such as SUT2 (shown for S. lycopersicum). Neighbor cells might also contribute to the nutrition of the arbuscule containing cell by providing sugars symplastically. Black arrows on SWEETs: sugar transport direction as described above. Red arrows on SWEETs: alternative sugar transport direction."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                196,
+                87,
+                808,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Vitis vinifera putative ortholog, VvSWEET2a, is also induced in leaves upon inoculation with Plasmopara viticola or with Botrytis cinerea (Chong et al., 2014), suggesting that this SWEET gene might be a common target of diferent microorganisms. However, in order to infer if the mycorrhizal induction and relocalization of potato SWEET2c to arbuscule-containing cells would also serve as a mechanism to control sugar eflux toward the AM fungus preventing a parasitic behavior, localization and inactivation studies should be carried out. An alternative hypothesis is that SWEET2c could contribute to maintain the concentration gradient of sucrose in cortical cells by sequestering glucose derived from the activity of cytoplasmic invertases or sucrose synthases. In support of this second scenario, Baier et al. (2010) demonstrated that sucrose synthase was induced in arbuscule containing cells and that its inactivation severely impaired arbuscule development."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                603,
+                490,
+                839
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Promoter-reporter activity for SWEET7a, from clade II, confirmed that although this gene is ubiquitously and highly expressed in the root under non-mycorrhizal conditions (Figure 5), symbiosis induces its expression and this is largely occurring in arbuscule-containing cells that show a much stronger GUS activity than non-colonized cortical cells. This is consistent with the presence of several modified CTTC motifs (Supplementary Table 3). Potato SWEET7a does not have an ortholog in tomato, indicating that if it plays a mycorrhiza important role, this function might be redundant with another potato SWEET. This is likely, given that most of the up-regulated SWEETs during mycorrhiza symbiosis, such as SWEET7a, belong to the clades I and II that presumably transport hexoses."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                838,
+                490,
+                913
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                603,
+                927,
+                735
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In contrast, only two genes from clade III were induced during AM symbiosis (Figures 1, 4). One of them is SWEET12a, whose transcript was induced at 8 wpi, although it was also highly expressed at 6 wpi. GUS activity showed that while in control roots promoter activity was restricted to the root tip, in mycorrhizal roots SWEET12a had a strong promoter activity in the cortex, particularly in arbuscule-containing cells (Figure 5). This result is consistent with the presence of two CTTC short motifs in the promoter (Supplementary Table 3). Experiments in progress to delete these motifs will show whether they are required or not for the expression of potato SWEET12a in arbuscule-containing cells."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                735,
+                929,
+                913
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Manck-Götzenberger and Requena"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                34,
+                257,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Role of Potato SWEETs in Arbuscular mycorrhiza"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                34,
+                926,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                949,
+                310,
+                962
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                949,
+                507,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                949,
+                926,
+                962
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The fact that all three of these promoter-reporter constructs from SWEETs induced during mycorrhiza colonization in potato also showed this pattern in the heterologous plant M. truncatula supports the idea that the promoter elements and transcription factors driving mycorrhiza and/or arbuscule expression of SWEETs must be conserved in both plants. More detailed analyses are now required to identify whether these would be promoter elements only specific to SWEET genes or conserved in other mycorrhiza-induced genes. The results of the promoterreporter analyses also showed that the induction of SWEETs expression was not widely distributed but focused in arbusculeenriched areas, indicating a redirection of the carbon sink toward colonized cortical cells."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                78,
+                490,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In conclusion, our work here ofers the first overview of the SWEET family in potato, and particularly suggests a putative involvement for some SWEETs during mycorrrhiza symbiosis. The results show that the transport of hexoses across the plant plasma membrane, assuming this is the main role for SWEETs in clade I and II, is highly induced during mycorrhiza formation (eight induced genes), while most repressed genes belong to the clade III (eight genes) and only two induced. If an export activity for SWEET hexose transporters such as SWEET7a would be assumed, these findings would be consistent with the fact that R. irregularis induces its monosaccharide transporter MST2 with highest afinity for glucose (Helber et al., 2011). However, the fact that the CW invertase is always expressed in cells containing arbuscules and in cells in contact with intercellular hyphae, suggests that sucrose export into the apoplast is also enhanced during colonization (Schaarschmidt et al., 2006 and our results here). Although, increases in invertase activity in the root do not result in changes in colonization, inhibition of root invertase activity does, suggesting that hexose concentration in the apoplast is not the limiting factor for the symbiosis but that sucrose cleavage in the apoplast is key for the symbiosis (Schaarschmidt et al., 2007a). Altogether, this would be in support for a role of the two induced SWEETs from clade III, putative sucrose exporters, during AM symbiosis. Because the cellular localization of all three SWEETs analyzed in mycorrhizal roots points toward an induction in arbuscules, we think that the supply of carbohydrates to the fungus is a complex process involving many diferent transport processes. As depicted in our model (Figure 6), sucrose reaches the cortex symplastically and it could be directly exported to the periarbuscular space (PAS) and to the apoplast of cells in contact with the fungus with the help of SWEET transporters from clade III, such as SWEET12a, induced by the fungus in arbuscule containing cells. Sucrose in the PAS could then be cleaved with help of the CW invertase, and glucose would be taken up into the fungal cell by the fungal monosaccharide transporter MST2. But which function would then have the induced SWEETs from clade I and II? One possibility is that sucrose could be cleaved in the cytoplasm by sucrose synthase and/or cytoplasmic invertase. Both activities have been shown in arbuscule containing cells and they could help to maintain the concentration gradient. Glucose could then be further exported in the PAS by some of the induced SWEETs from clade I and II. Vacuolar SWEETs such as the induced SWEET2c could also contribute to maintain the favorable sucrose gradient in arbuscule containing cells by sequestering glucose and/or fructose in the vacuole."
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                269,
+                492,
+                889
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                77,
+                927,
+                136
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Alternatively, mycorrhiza induced SWEETs from clade I and II might be functioning not as exporters but rather as importers, competing with the fungus at the apoplast for the re-import of the sugar into the plant cytoplasm to support the high metabolic activity of the colonized cells or to avoid defense responses elicited by high amount of hexoses (Schaarschmidt et al., 2007b). In support of that, other transporters have been identified featuring in arbuscule containing cells to reimport sugar from the apoplast, including a monosaccharide transporter in M. truncatula and a sucrose transporter in tomato (Harrison, 1996; Bitterlich et al., 2014). More studies, in particular regarding the biochemistry, subcellular localization, and physiology of the potato SWEETs regulated during symbiosis are required to be able to draw a more precise model of their role in sugar partitioning during mycorrhizal symbiosis."
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                136,
+                929,
+                373
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "AUTHOR CONTRIBUTIONS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                507,
+                386,
+                776,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "NR, JM planned the experiments and wrote the manuscript, JM carried out the experiments."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                415,
+                927,
+                446
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ACKNOWLEDGMENTS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                507,
+                460,
+                734,
+                477
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We thank Dr. Stahl and Dr. Temme from KWS SAAT AG for their gift of potato axenic cultures. We thank Carolin Heck for comments on the manuscript. JM holds a fellowship from the Baden-Württemberg Landesgraduiertenförderung."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                490,
+                929,
+                551
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SUPPLEMENTARY MATERIAL"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                507,
+                564,
+                798,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Supplementary Material for this article can be found online at: http://journal.frontiersin.org/article/10.3389/fpls.2016. 00487"
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                594,
+                927,
+                637
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplementary Figure 1 | Topology analysis of potato SWEETs. The upper panel shows the predicted domain structure of potato SWEETs in the NCBI database that were predicted to have more or less than 7 TM domains. Manual annotation and expression data (here not shown) revealed that almost all of them were wrongly annotated. Only SWEET7c that is possibly a pseudogene contains only 4 TM domains."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                641,
+                921,
+                716
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplementary Table 1 | Accession numbers of sequences used in this study and genome positions and transmembrane domain prediction for potato SWEETs."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                721,
+                912,
+                758
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplementary Table 2 | Primers used in this study."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                768,
+                798,
+                783
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplementary Table 3 | Promoter element analysis of potato and tomato SWEETs."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                793,
+                922,
+                817
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplementary Table 4 | Identity matrices among potato and between potato and tomato SWEETs."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                826,
+                902,
+                852
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplementary Table 5 | RNA-seq data for annotated potato SWEETs from the Spud DB."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                862,
+                927,
+                887
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Manck-Götzenberger and Requena"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                34,
+                257,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Role of Potato SWEETs in Arbuscular mycorrhiza"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                34,
+                926,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                949,
+                926,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                949,
+                310,
+                962
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                949,
+                509,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                70,
+                77,
+                213,
+                93
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Antony, G., Zhou, J., Huang, S., Li, T., Liu, B., White, F., et al. (2010). Rice xa13 recessive resistance to bacterial blight is defeated by induction of the disease susceptibility gene Os-11N3. Plant Cell 22, 3864–3876. doi: 10.1105/tpc.110.078964"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Baier, M. C., Keck, M., Gödde, V., Niehaus, K., Küster, H., and Hohnjec, N. (2010). Knockdown of the symbiotic sucrose synthase MtSucS1 afects arbuscule maturation and maintenance in mycorrhizal roots of Medicago truncatula. Plant Physiol. 152, 1000–1014. doi: 10.1104/pp.109.149898"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bécard, G., and Fortin, J. A. (1988). Early events of vesicular–arbuscular mycorrhiza formation on Ri T-DNA transformed roots. New Phytol. 108, 211–218. doi: 10.1111/j.1469-8137.1988.tb03698.x"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bitterlich, M., Krügel, U., Boldt-Burisch, K., Franken, P., and Kühn, C. (2014). The sucrose transporter SlSUT2 from tomato interacts with brassinosteroid functioning and afects Arbuscular mycorrhiza formation. Plant J. 78, 877–889. doi: 10.1111/tpj.12515"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Boldt, K., Pörs, Y., Haupt, B., Bitterlich, M., Kühn, C., Grimm, B., et al. (2011). Photochemical processes, carbon assimilation and RNA accumulation of sucrose transporter genes in tomato Arbuscular mycorrhiza. J. Plant Physiol. 168, 1256–1263. doi: 10.1016/j.jplph.2011.01.026"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bombarely, A., Menda, N., Tecle, I. Y., Buels, R. M., Strickler, S., Fischer-York, T., et al. (2011). The Sol Genomics Network (solgenomics.net): growing tomatoes using Perl. Nucleic Acids Res. 39, D1149–D1155. doi: 10.1093/nar/gkq866"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chardon, F., Bedu, M., Calenge, F., Klemens, P. A., Spinner, L., Clement, G., et al. (2013). Leaf fructose content is controlled by the vacuolar transporter SWEET17 in Arabidopsis. Curr. Biol. 23, 697–702. doi: 10.1016/j.cub.2013.03.021"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chen, A., Gu, M., Sun, S., Zhu, L., Hong, S., and Xu, G. (2011). Identification of two conserved cis- acting elements, MYCS and P1BS, involved in the regulation of mycorrhiza-activated phosphate transporters in eudicot species. New Phytol. 189, 1157–1169. doi: 10.1111/j.1469-8137.2010.03556.x"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chen, H. Y., Huh, J. H., Yu, Y. C., Ho, L. H., Chen, L. Q., Tholl, D., et al. (2015a). The Arabidopsis vacuolar sugar transporter SWEET2 limits carbon sequestration from roots and restricts Pythium infection. Plant J. 83, 1046–1058. doi: 10.1111/tpj.12948"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chen, L. Q. (2014). SWEET sugar transporters for phloem transport and pathogen nutrition. New Phytol. 201, 1150–1155. doi: 10.1111/nph.12445"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chen, L. Q., Hou, B. H., Lalonde, S., Takanaga, H., Hartung, M. L., Qu, X. Q., et al. (2010). Sugar transporters for intercellular exchange and nutrition of pathogens. Nature 468, 527–532. doi: 10.1038/nature09606"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chen, L. Q., Lin, I. W., Qu, X. Q., Sosso, D., McFarlane, H. E., Londoño, A., et al. (2015b). A cascade of sequentially expressed sucrose transporters in the seed coat and endosperm provides nutrition for the Arabidopsis embryo. Plant Cell 27, 607–619. doi: 10.1105/tpc.114.134585"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chen, L. Q., Qu, X. Q., Hou, B. H., Sosso, D., Osorio, S., Fernie, A. R., et al. (2012). Sucrose eflux mediated by SWEET proteins as a key step for phloem transport. Science 335, 207–211. doi: 10.1126/science.1213351"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chong, J., Piron, M. C., Meyer, S., Merdinoglu, D., Bertsch, C., and Mestre, P. (2014). The SWEET family of sugar transporters in grapevine: VvSWEET4 is involved in the interaction with Botrytis cinerea. J. Exp. Bot. 65, 6589–6601. doi: 10.1093/jxb/eru375"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chu, Z., Fu, B., Yang, H., Xu, C., Li, Z., Sanchez, A., et al. (2006). Targeting xa13, a recessive gene for bacterial blight resistance in rice. Theor. Appl. Genet. 112, 455–461. doi: 10.1007/s00122-005-0145-6"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Cohn, M., Bart, R. S., Shybut, M., Dahlbeck, D., Gomez, M., Morbitzer, R., et al. (2014). Xanthomonas axonopodis virulence is promoted by a transcription activator-like efector-mediated induction of a SWEET sugar transporter in cassava. Mol. Plant Microbe Interact. 27, 1186–1198. doi: 10.1094/MPMI-06- 14-0161-R"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Eom, J. S., Chen, L. Q., Sosso, D., Julius, B. T., Lin, I. W., Qu, X. Q., et al. (2015). SWEETs, transporters for intracellular and intercellular sugar translocation. Curr. Opin. Plant Biol. 25, 53–62. doi: 10.1016/j.pbi.2015.04.005"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Feng, C. Y., Han, J. X., Han, X. X., and Jiang, J. (2015). Genome-wide identification, phylogeny, and expression analysis of the SWEET gene family in tomato. Gene 573, 261–272. doi: 10.1016/j.gene.2015.07.055"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Fiorilli, V., Vallino, M., Biselli, C., Faccio, A., Bagnaresi, P., and Bonfante, P. (2015). Host and non-host roots in rice: cellular and molecular approaches reveal"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "diferential responses to arbuscular mycorrhizal fungi. Front. Plant Sci. 6:636. doi: 10.3389/fpls.2015.00636"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gamas, P., Niebel Fde C., Lescure, N., and Cullimore, J. (1996). Use ofa subtractive hybridization approach to identify new Medicago truncatula genes induced during root nodule development. Mol. Plant Microbe Interact. 9, 233–242. doi: 10.1094/MPMI-9-0233"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ge, Y. X., Angenent, G. C., Wittich, P. E., Peters, J., Franken, J., Busscher, M., et al. (2000). NEC1, a novel gene, highly expressed in nectary tissue of Petunia hybrida. Plant J. 24, 725–734. doi: 10.1046/j.1365-313x.2000.00926.x"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Graham, J. H. (2000) “Assessing costs of arbuscular mycorrhizal symbiosis agroecosystems fungi,” in Current Advances in Mycorrhizae Research, eds G. K. Podila and D. D. Jr. Douds (St. Paul, MN: APS Press), 127–140."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Guo, W. J., Nagy, R., Chen, H. Y., Pfrunder, S., Yu, Y. C., Santelia, D., et al. (2014). SWEET17, a facilitative transporter, mediates fructose transport across the tonoplast of Arabidopsis roots and leaves. Plant Physiol. 164, 777–789. doi: 10.1104/pp.113.232751"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Harrison, M. J. (1996). A sugar transporter from Medicago truncatula: altered expression pattern in roots during vesicular-arbuscular (VA) mycorrhizal associations. Plant J. 9, 491–503. doi: 10.1046/j.1365-313X.1996.09040491.x"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Harrison, M. J., Dewbre, G. R., and Liu, J. (2002). A phosphate transporter from Medicago truncatula involved in the acquisition of phosphate released by arbuscular mycorrhizal fungi. Plant Cell 14, 2413–2429. doi: 10.1105/tpc.004861"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Helber, N., Wippel, K., Sauer, N., Schaarschmidt, S., Hause, B., and Requena, N. (2011). A versatile monosaccharide transporter that operates in the arbuscular mycorrhizal fungus Glomus sp. is crucial for the symbiotic relationship with plants. Plant Cell 23, 3812–3823. doi: 10.1105/tpc.111.089813"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hewitt, E. J. (1966). Sand and Water Culture Methods Used in the Study of Plant Nutrition. Technical Communication No. 22. Commonwealth Bureau, London."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hirsch, C. D., Hamilton, J. P., Childs, K. L., Cepela, J., Crisovan, E., Vaillancourt, B., et al. (2014). Spud DB: a resource for mining sequences, genotypes, and phenotypes to accelerate potato breeding. Plant Genome 7, 1–12. doi: 10.3835/plantgenome2013.12.0042"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kaiser, C., Kilburn, M. R., Clode, P. L., Fuchslueger, L., Koranda, M., Clif, J. B., et al. (2014). Exploring the transfer of recent plant photosynthates to soil microbes: mycorrhizal pathway vs direct root exudation. New Phytol. 205, 1537–1551. doi: 10.1111/nph.13138"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Karandashov, V., Nagy, R., Wegmüller, S., Amrhein, N., and Bucher, M. (2004). Evolutionary conservation of phosphate transport in the Arbuscular mycorrhizal symbiosis. Proc. Natl Acad. Sci. U.S.A. 101, 6285–6290. doi: 10.1073/pnas.0306074101"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Krüger, M., Krüger, C., Walker, C., Stockinger, H., and Schüssler, A. (2012). Phylogenetic reference data for systematics and phylotaxonomy of arbuscular mycorrhizal fungi from phylum to species level. New Phytol. 193, 970–984. doi: 10.1111/j.1469-8137.2011.03962.x"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kuhn, H., Küster, H., and Requena, N. (2010). Membrane steroid-binding protein 1 induced by a difusible fungal signal is critical for mycorrhization in Medicago truncatula. New Phytol. 185, 716–733. doi: 10.1111/j.1469-8137.2009. 03116.x"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lamesch, P., Berardini, T. Z., Li, D., Swarbreck, D., Wilks, C., Sasidharan, R., et al. (2012). The Arabidopsis Information Resource (TAIR): improved gene annotation and new tools. Nucleic Acids Res. 40, D1202–D1210. doi: 10.1093/nar/gkr1090"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lin, I. W., Sosso, D., Chen, L. Q., Gase, K., Kim, S. G., Kessler, D., et al. (2014). Nectar secretion requires sucrose phosphate synthases and the sugar transporter SWEET9. Nature 508, 546–549. doi: 10.1038/nature13082"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lota, F., Wegmüller, S., Buer, B., Sato, S., Bräutigam, A., Hanf, B., et al. (2013). The cis- acting CTTC-P1BS module is indicative for gene function of LjVTI12, a Qb-SNARE protein gene that is required for arbuscule formation in Lotus japonicus. Plant J. 74, 280–293. doi: 10.1111/tpj.12120"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Murashige, T., and Skoog, F. (1962). A revised medium for rapid growth and bio-assays with tobacco tissue cultures. Physiol. Plant 15, 473–497. doi: 10.1111/j.1399-3054.1962.tb08052.x"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Niittylae, T., Fuglsang, A. T., Palmgren, M. G., Frommer, W. B., and Schulze, W. X. (2007). Temporal analysis of sucrose-induced phosphorylation changes in plasma membrane proteins of Arabidopsis. Mol. Cell Proteomics 6, 1711–1726. doi: 10.1074/mcp.M700164-MCP200"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                105,
+                489,
+                154
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Manck-Götzenberger and Requena"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                35,
+                257,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Role of Potato SWEETs in Arbuscular mycorrhiza"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                35,
+                926,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                951,
+                310,
+                962
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                951,
+                509,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                951,
+                926,
+                962
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Patil, G., Valliyodan, B., Deshmukh, R., Prince, S., Nicander, B., Zhao, M., et al. (2015). Soybean (Glycine max) SWEET gene family: insights through comparative genomics, transcriptome profiling and whole genome re-sequence analysis. BMC Genomics 16:520. doi: 10.1186/s12864-015-1730-y"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pfefer, P. E., Douds, D. D., Bécard, G., and Shachar-Hill, Y. (1999). Carbon uptake and the metabolism and transport of lipids in an arbuscular mycorrhiza. Plant Physiol. 120, 587–598. doi: 10.1104/pp.120.2.587"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pumplin, N., and Harrison, M. J. (2009). Live-cell imaging reveals periarbuscular membrane domains and organelle location in Medicago truncatula roots during arbuscular mycorrhizal symbiosis. Plant Physiol. 151, 809–819. doi: 10.1104/pp.109.141879"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Rech, S. S., Heidt, S., and Requena, N. (2013). A tandem Kunitz protease inhibitor (KPI106)–serine carboxypeptidase (SCP1) controls mycorrhiza establishment and arbuscule development in Medicago truncatula. Plant J. 75, 711–725. doi: 10.1111/tpj.12242"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Rubio, V., Linhares, F., Solano, R., Martín, A. C., Iglesias, J., Leyva, A., et al. (2001). A conserved MYB transcription factor involved in phosphate starvation signaling both in vascular plants and in unicellular algae. Genes Dev. 15, 2122–2133. doi: 10.1101/gad.204401"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Salvioli, A., Ghignone, S., Novero, M., Navazio, L., Bagnaresi, P., and Bonfante, P. (2016). Symbiosis with an endobacterium increases the fitness of a mycorrhizal fungus, raising its bioenergetic potential. ISME J. 10, 130–144. doi: 10.1038/ismej.2015.91"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sato, S. Tabata, S., Hirakawa, H., Asamizu, E., Shirasawa, K., Isobe, S. (The Tomato Genome Consortium) (2012). The tomato genome sequence provides insights into fleshy fruit evolution. Nature 485, 635–641. doi: 10.1038/nature11119"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Schaarschmidt, S., Gonzalez, M. C., Roitsch, T., Strack, D., Sonnewald, U., and Hause, B. (2007a). Regulation of arbuscular mycorrhization by carbon. The symbiotic interaction cannot be improved by increased carbon availability accomplished by root-specifically enhanced invertase activity. Plant Physiol. 143, 1827–1840. doi: 10.1104/pp.107.096446"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Schaarschmidt, S., Kopka, J., Ludwig-Müller, J., and Hause, B. (2007b). Regulation of arbuscular mycorrhization by apoplastic invertases: enhanced invertase activity in the leaf apoplast afects the symbiotic interaction. Plant J. 51, 390–405. doi: 10.1111/j.1365-313X.2007.03150.x"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Schaarschmidt, S., Roitsch, T., and Hause, B. (2006). Arbuscular mycorrhiza induces gene expression of the apoplastic invertase LIN6 in tomato (Lycopersicon esculentum) roots. J. Exp. Bot. 57, 4015–4023. doi: 10.1093/jxb/erl172"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Schenck, N. C., and Smith, G. S. (1982). Additional new and unreported species of mycorrhizal fungi (Endogonaceae) from Florida. Mycologia 74, 77–92. doi: 10.2307/3792631"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Shachar-Hill, Y., Pfefer, P. E., Douds, D., Osman, S. F., Doner, L. W., and Ratclife, R. G. (1995). Partitioning of intermediary carbon metabolism in vesicular-arbuscular mycorrhizal leek. Plant Physiol. 108, 7–15."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sievers, F., Wilm, A., Dineen, D., Gibson, T. J., Karplus, K., Li, W., et al. (2011). Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega. Mol. Syst. Biol. 7:539. doi: 10.1038/msb.2011.75"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Smith, S. E., and Smith, F. A. (2011). Roles of arbuscular mycorrhizas in plant nutrition and growth: new paradigms from cellular to ecosystem scales. Annu. Rev. Plant Biol. 62, 227–250. doi: 10.1146/annurev-arplant-042110- 103846"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Smith, S. E., and Smith, F. A. (2012). Fresh perspectives on the roles of arbuscular mycorrhizal fungi in plant nutrition and growth. Mycologia 104, 1–13. doi: 10.3852/11-229"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Solaiman, M. D. Z., and Saito, M. (1997). Use of sugars by intraradical hyphae of arbuscular mycorrhizal fungi revealed by radiorespirometry. New Phytol. 136, 533–538. doi: 10.1046/j.1469-8137.1997.00757.x"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Streubel, J., Pesce, C., Hutin, M., Koebnik, R., Boch, J., and Szurek, B. (2013). Five phylogenetically close rice SWEET genes confer TAL efector-mediated"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "susceptibility to Xanthomonas oryzae pv. oryzae. New Phytol. 200, 808–819. doi: 10.1111/nph.12411"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tamura, K., Stecher, G., Peterson, D., Filipski, A., and Kumar, S. (2013). MEGA6: Molecular Evolutionary Genetics Analysis version 6.0. Mol. Biol. Evol. 30, 2725–2729. doi: 10.1093/molbev/mst197"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tang, N., San Clemente, H., Roy, S., Bécard, G., Zhao, B., and Roux, C. (2016). A survey of the gene repertoire of Gigaspora rosea unravels conserved features among Glomeromycota for obligate biotrophy. Front. Microbiol. 7:233. doi: 10.3389/fmicb.2016.00233"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tao, Y., Cheung, L. S., Li, S., Eom, J. S., Chen, L. Q., Xu, Y., et al. (2015). Structure of a eukaryotic SWEET transporter in a homotrimeric complex. Nature 527, 259–263. doi: 10.1038/nature15391"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tisserant, E., Malbreil, M., Kuo, A., Kohler, A., Symeonidi, A., Balestrini, R., et al. (2013). Genome of an arbuscular mycorrhizal fungus provides insight into the oldest plant symbiosis. Proc. Natl Acad. Sci. U.S.A. 110, 20117–20122. doi: 10.1073/pnas.1313452110"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wang, J., Yan, C., Li, Y., Hirata, K., Yamamoto, M., Yan, N., et al. (2014). Crystal structure of a bacterial homologue of SWEET transporters. Cell Res. 24, 1486. doi: 10.1038/cr.2014.144"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wei, X., Liu, F., Chen, C., Ma, F., and Li, M. (2014). The Malus domestica sugar transporter gene family: identifications based on genome and expression profiling related to the accumulation of fruit sugars. Front. Plant Sci. 5:569. doi: 10.3389/fpls.2014.00569"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wewer, V., Brands, M., and Dörmann, P. (2014). Fatty acid synthesis and lipid metabolism in the obligate biotrophic fungus Rhizophagus irregularis during mycorrhization of Lotus japonicus. Plant J. 79, 398–412. doi: 10.1111/tpj.12566"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wright, D. P., Read, D. J., and Scholes, J. D. (1998). Mycorrhizal sink strength influences whole plant carbon balance ofTrifolium repens L. Plant Cell Environ. 21, 881–891. doi: 10.1046/j.1365-3040.1998.00351.x"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Xu, Y., Tao, Y., Cheung, L. S., Fan, C., Chen, L. Q., Xu, S., et al. (2014). Structures of bacterial homologues of SWEET transporters in two distinct conformations. Nature 515, 448–452. doi: 10.1038/nature13670"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Xu, X., Pan, S., Cheng, S., Zhang, B., Mu, D., Ni, P. (The Potato Genome Sequencing Consortium) (2011). Genome sequence and analysis of the tuber crop potato. Nature 475, 189-195. doi: 10.1038/nature10158"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Xuan, Y. H., Hu, Y. B., Chen, L. Q., Sosso, D., Ducat, D. C., Hou, B. H., et al. (2013). Functional role of oligomerization for bacterial and plant SWEET sugar transporter family. Proc. Natl Acad. Sci. U.S.A. 110, E3685–E3694. doi: 10.1073/pnas.1311244110"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Yang, B., Sugio, A., and White, F. F. (2006). Os8N3 is a host disease-susceptibility gene for bacterial blight of rice. Proc. Natl Acad. Sci. U.S.A. 103, 10503–10508. doi: 10.1073/pnas.0604088103"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Yu, X., Wang, X., Wang, C., Chen, X., Qu, Z., Yu, X., et al. (2010). Wheat defense genes in fungal (Puccinia striiformis) infection. Funct. Integr. Genomics 10, 227–239. doi: 10.1007/s10142-010-0161-8"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Zhang, X., Pumplin, N., Ivanov, S., and Harrison, M. J. (2015). EXO70I is required for development of a sub-domain of the periarbuscular membrane during arbuscular mycorrhizal symbiosis. Curr. Biol. 25, 2189–2195. doi: 10.1016/j.cub.2015.06.075"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                79,
+                489,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Conflict of Interest Statement: The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                686,
+                927,
+                725
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Copyright © 2016 Manck-Götzenberger and Requena. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                735,
+                927,
+                810
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Manck-Götzenberger and Requena"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                35,
+                257,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Role of Potato SWEETs in Arbuscular mycorrhiza"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                35,
+                926,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "April 2016 | Volume 7 | Article 487"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                949,
+                926,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Frontiers in Plant Science | www.frontiersin.org"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                949,
+                310,
+                961
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                951,
+                509,
+                961
+            ]
+        }
+    ]
+]

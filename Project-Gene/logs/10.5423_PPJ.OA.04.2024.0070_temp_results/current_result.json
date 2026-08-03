@@ -1,0 +1,549 @@
+{
+  "saved_at_utc": "2026-08-01T02:05:18.464669+00:00",
+  "result": {
+    "metadata": {
+      "title": "Development and Validation of an SNP Marker for Identifying Xanthomonas oryzae pv. oryzae Thai Isolates That Break xa5-Mediated Bacterial Blight Resistance in Rice",
+      "organism": [
+        "Oryza sativa",
+        "Xanthomonas oryzae pv. oryzae"
+      ]
+    },
+    "entities": [
+      {
+        "local_id": "gene_1",
+        "name": "SWEET11",
+        "type": "Gene",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "Xa13"
+        ],
+        "expression_location": [
+          "rice"
+        ],
+        "transported_substrate": null,
+        "description": "Rice SWEET susceptibility gene whose expression was induced by Xoo isolates in this study.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_2",
+        "name": "SWEET14",
+        "type": "Gene",
+        "organism": "Oryza sativa",
+        "synonyms": null,
+        "expression_location": [
+          "rice"
+        ],
+        "transported_substrate": null,
+        "description": "Rice SWEET susceptibility gene whose expression was suppressed by XooE6-positive isolates and induced by the XooE6-negative isolate in this study.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_3",
+        "name": "xa5",
+        "type": "Gene",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "Xa5"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Recessive rice BB resistance gene studied in IRBB5 and related resistance-breaking Xoo isolates.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_4",
+        "name": "xa13",
+        "type": "Gene",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "Xa13"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Rice BB resistance allele associated with the mutated SWEET11 promoter in IRBB13.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_5",
+        "name": "Xa21",
+        "type": "Gene",
+        "organism": "Oryza sativa",
+        "synonyms": null,
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Rice BB resistance gene carried by IRBB21.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_6",
+        "name": "TFIIAγ5",
+        "type": "Protein",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "TFIIA gamma 5"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Transcription factor gamma subunit encoded by xa5; the paper states xa5 encodes TFIIAγ5 and disrupts interaction with TALEs.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_7",
+        "name": "TFIIAγ1",
+        "type": "Protein",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "TFIIA gamma 1"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Basal TF gamma subunit mentioned as interacting with TALE proteins to activate SWEET14.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_8",
+        "name": "PthXo1",
+        "type": "Protein",
+        "organism": "Xanthomonas oryzae pv. oryzae",
+        "synonyms": null,
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Xoo TALE reported to bind the SWEET11 promoter EBE and induce SWEET11 expression.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_9",
+        "name": "PthXo2",
+        "type": "Protein",
+        "organism": "Xanthomonas oryzae pv. oryzae",
+        "synonyms": null,
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Xoo TALE reported to induce SWEET13 expression.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_10",
+        "name": "PthXo3",
+        "type": "Protein",
+        "organism": "Xanthomonas oryzae pv. oryzae",
+        "synonyms": null,
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Xoo TALE reported to mediate activation of SWEET14.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_11",
+        "name": "TalC",
+        "type": "Protein",
+        "organism": "Xanthomonas oryzae pv. oryzae",
+        "synonyms": [
+          "Tal5"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Xoo TALE reported to activate SWEET14; the discussion also mentions TalC or Tal5 produced in African and most Asian Xoo strains.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_12",
+        "name": "TalF",
+        "type": "Protein",
+        "organism": "Xanthomonas oryzae pv. oryzae",
+        "synonyms": null,
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Xoo TALE reported to mediate activation of SWEET14.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_13",
+        "name": "Tal1c",
+        "type": "Protein",
+        "organism": "Xanthomonas oryzae pv. oryzae",
+        "synonyms": null,
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "TALE effector in Xoo strain SK2-3 predicted to target SWEET11 and induce strong SWEET11 expression.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_14",
+        "name": "AvrXa7",
+        "type": "Protein",
+        "organism": "Xanthomonas oryzae pv. oryzae",
+        "synonyms": null,
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Xoo TALE reported to mediate activation of SWEET14.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_15",
+        "name": "SNP marker XooE6",
+        "type": "Gene",
+        "organism": "Xanthomonas oryzae pv. oryzae",
+        "synonyms": [
+          "XooE6"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "PCR-based SNP marker specific to IRBB5-compatible, xa5-mediated resistance-breaking Xoo isolates.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_16",
+        "name": "SNP marker XooE8",
+        "type": "Gene",
+        "organism": "Xanthomonas oryzae pv. oryzae",
+        "synonyms": [
+          "XooE8"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "PCR-based SNP marker designed from Xoo16PK002 but not used for validation because of limited specificity.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_1",
+        "name": "bacterial blight disease",
+        "type": "Phenotype_Trait",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "BB disease"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Rice bacterial blight disease caused by Xanthomonas oryzae pv. oryzae.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_2",
+        "name": "xa5-mediated resistance breaking",
+        "type": "Phenotype_Trait",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "IRBB5-compatible"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Xoo virulence phenotype able to overcome xa5-mediated resistance in rice.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_3",
+        "name": "compatibility with IRBB5",
+        "type": "Phenotype_Trait",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "IRBB5-compatible"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Bacterial compatibility phenotype on rice variety IRBB5.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_4",
+        "name": "compatibility with IRBB13",
+        "type": "Phenotype_Trait",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "IRBB13-compatible"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Bacterial compatibility phenotype on rice variety IRBB13.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_5",
+        "name": "partial resistance",
+        "type": "Phenotype_Trait",
+        "organism": "Oryza sativa",
+        "synonyms": null,
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Intermediate resistance response reported for IRBB21 against both XooE6-positive and -negative strains.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_6",
+        "name": "high resistance",
+        "type": "Phenotype_Trait",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "R"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Resistance score category defined by lesion length 0-5 cm.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_7",
+        "name": "moderate resistance",
+        "type": "Phenotype_Trait",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "MR"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Resistance score category defined by lesion length > 5-10 cm.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_8",
+        "name": "moderate susceptibility",
+        "type": "Phenotype_Trait",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "MS"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Resistance score category defined by lesion length > 10-15 cm.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_9",
+        "name": "susceptibility",
+        "type": "Phenotype_Trait",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "S"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Resistance score category defined by lesion length > 15-20 cm.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_10",
+        "name": "high susceptibility",
+        "type": "Phenotype_Trait",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "HS"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Resistance score category defined by lesion length > 20 cm.",
+        "extraction_FLAG": true
+      }
+    ],
+    "relations": [
+      {
+        "subject_id": "gene_15",
+        "object_id": "phenotype_2",
+        "relation_type": "is_required_for",
+        "mechanism": "The marker was developed to identify Xoo strains that break xa5-mediated resistance.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Computational_Prediction",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "This study aimed to develop a single nucleotide polymorphism (SNP) marker for precise identification of xa5-mediated resistance-breaking Xoo.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_13",
+        "object_id": "gene_1",
+        "relation_type": "positively_regulates",
+        "mechanism": "The Tal1c effector was predicted to target the SWEET11 EBE and induce strong SWEET11 expression.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "7 DAI after Xoo inoculation",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "positive",
+        "quantitative_effect": "strong expression of SWEET11",
+        "evidence": "the Tal1c effector in the Xoo strain SK2-3 identified recently was predicted to target the EBE of SWEET11, subsequently inducing a strong expression of SWEET11 in rice variety IRBB5",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_8",
+        "object_id": "gene_1",
+        "relation_type": "positively_regulates",
+        "mechanism": "PthXo1 binds the EBE on the SWEET11 promoter and induces SWEET11 expression.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Biochemical_Assay",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "the EBE on the SWEET11 promoter binds to PthXo1 ... This interaction between the EBE and PthXo1 leads to the induction of SWEET11 expression",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_9",
+        "object_id": "gene_2",
+        "relation_type": "positively_regulates",
+        "mechanism": "PthXo2 induces SWEET13 expression.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Biochemical_Assay",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "the expression of SWEET13 is induced by Xoo strains carrying PthXo2",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_10",
+        "object_id": "gene_2",
+        "relation_type": "positively_regulates",
+        "mechanism": "PthXo3 activates SWEET14 expression.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Biochemical_Assay",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "the activation of SWEET14 is mediated by AvrXa7, PthXo3, TalC, and TalF",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_11",
+        "object_id": "gene_2",
+        "relation_type": "positively_regulates",
+        "mechanism": "TalC activates SWEET14 expression.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Biochemical_Assay",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "the activation of SWEET14 is mediated by AvrXa7, PthXo3, TalC, and TalF",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_12",
+        "object_id": "gene_2",
+        "relation_type": "positively_regulates",
+        "mechanism": "TalF activates SWEET14 expression.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Biochemical_Assay",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "the activation of SWEET14 is mediated by AvrXa7, PthXo3, TalC, and TalF",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_14",
+        "object_id": "gene_2",
+        "relation_type": "positively_regulates",
+        "mechanism": "AvrXa7 activates SWEET14 expression.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Biochemical_Assay",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "the activation of SWEET14 is mediated by AvrXa7, PthXo3, TalC, and TalF",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_3",
+        "object_id": "gene_6",
+        "relation_type": "causes",
+        "mechanism": "The xa5 resistant recessive allele encodes TFIIAγ5.",
+        "growth_stage": null,
+        "growth_stage_detail": null,
+        "evidence_type": "Computational_Prediction",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "The xa5 resistant recessive allele in rice encodes a TF subunit TFIIAγ5",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_6",
+        "object_id": "gene_1",
+        "relation_type": "negatively_regulates",
+        "mechanism": "TFIIAγ5 disrupts interaction with TALEs, diminishing their ability to activate SWEET alleles.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Biochemical_Assay",
+        "effect_direction": "negative",
+        "quantitative_effect": null,
+        "evidence": "the xa5 resistant recessive allele in rice encodes a TF subunit TFIIAγ5, which disrupts the interaction with TALEs, consequently diminishing their ability to activate SWEET alleles",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_15",
+        "object_id": "phenotype_3",
+        "relation_type": "associated_with",
+        "mechanism": "XooE6-positive isolates were identified as compatible with IRBB5.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Computational_Prediction",
+        "effect_direction": "positive",
+        "quantitative_effect": "four positive Xoo isolates out of 64",
+        "evidence": "The SNP marker XooE6 conferred four positive Xoo isolates out of 64, including isolates Xoo16PK002, Xoo20PL010, Xoo20UT002, and Xoo strain SK2-3.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_15",
+        "object_id": "phenotype_2",
+        "relation_type": "associated_with",
+        "mechanism": "The marker identified isolates that break xa5-mediated resistance.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Computational_Prediction",
+        "effect_direction": "positive",
+        "quantitative_effect": null,
+        "evidence": "XooE6 is specific to the IRBB5-compatible Xoo strains; therefore, XooE6 can be applied to identify Xoo strains that break xa5-mediated resistance in rice.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_3",
+        "relation_type": "positively_regulates",
+        "mechanism": "Upregulation of SWEET11 was associated with compatibility on IRBB5.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "7 DAI after Xoo inoculation",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "positive",
+        "quantitative_effect": "nearly 150 folds",
+        "evidence": "In rice variety IRBB5, the expression level of SWEET11 dramatically increased nearly 150 folds at 7 DAI with four XooE6-positive Xoo isolates",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_2",
+        "object_id": "phenotype_4",
+        "relation_type": "negatively_regulates",
+        "mechanism": "SWEET14 was suppressed by XooE6-positive isolates in all tested varieties, while the XooE6-negative isolate induced SWEET14 in IRBB13.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "7 DAI after Xoo inoculation",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "negative",
+        "quantitative_effect": "suppressed by all four XooE6-positive Xoo isolates; approximately 92 folds in IRBB13 with Xoo16PK001",
+        "evidence": "the expression of SWEET14 was suppressed by all four XooE6-positive Xoo isolates, but slightly induced by the XooE6-negative isolate Xoo16PK001 ... which significantly activated the expression of SWEET14 in IRBB13 and IRBB21, approximately 92 and 46 folds, respectively",
+        "extraction_FLAG": true
+      }
+    ],
+    "patch_set": null
+  }
+}

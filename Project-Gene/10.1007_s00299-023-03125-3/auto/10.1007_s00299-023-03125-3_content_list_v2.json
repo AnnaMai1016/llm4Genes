@@ -1,0 +1,4074 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6eba2dd7e5689759782b53bd9675df5bafac8545683aec2eba4e4d4d68bf0db8.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                863,
+                81,
+                914,
+                120
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Plasma membrane‑localized hexose transporter OsSWEET1b, afects sugar metabolism and leaf senescence"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                130,
+                818,
+                177
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Qiang Zhang<sup>1,2</sup>  · Changzhao Chen<sup>1</sup> · Rui Guo<sup>1</sup> · Xiaofang Zhu<sup>3</sup> · Xinyu Tao<sup>1,4</sup> · Mengxing He<sup>1,5</sup> · Zhiwen Li<sup>1,3</sup> · Lan Shen<sup>1</sup> · Qing Li<sup>1</sup> · Deyong Ren<sup>1</sup> · Jiang Hu<sup>1</sup> · Li Zhu<sup>1</sup> · Guangheng Zhang<sup>1</sup> · Qian Qian<sup>1,2</sup>"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                196,
+                865,
+                230
+            ]
+        },
+        {
+            "type": "index",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Received: 1 November 2023 / Accepted: 4 December 2023 / Published online: 6 January 2024"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2024"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                250,
+                662,
+                279
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                80,
+                298,
+                152,
+                313
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Key message OsSWEET1b is a hexose transporter protein, which localized in cell membranes and interacting with itself to form homodimer and knockout of OsSWEET1b resulted in reduced leaves sugar content and accelerating leaf senescence."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                313,
+                917,
+                362
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract In the rice genome, the SWEET gene family contains 21 homologous members, but the role of some of them in rice growth and development is still unknown. The function of the sugar transporter OsSWEET1b protein in rice was identified in this research. Expression analysis showed that the expression levels of OsSWEET1b in leaves were higher than that in other tissues. The hexose transport experiment confirmed that OsSWEET1b has glucose and galactose transporter activity in yeast. Subcellular localization indicates that OsSWEET1b protein was targeted to the plasma membrane and BiFC analysis showed that OsSWEET1b interacts with itself to form homodimers. Functional analysis demonstrated that the ossweet1b mutant plants were have reduced the sucrose, glucose, fructose, starch and galactose contents, and induced carbon starvation-related gene expression, which might lead to carbon starvation in leaves at filling stage. The ossweet1b knockout plants showed decreased chlorophyll content and antioxidant enzyme activity, and increased ROS accumulation in leaves, leading to leaf cell death and premature senescence phenotype at filling stage. In ossweet1b mutants, the leaf senescencerelated gene expression levels were increased and the abundance of photosynthesis-related proteins was decreased. Loss of OsSWEET1b were afected the starch, sucrose metabolism and carbon fixation in photosynthetic organelles pathway by RNA-seq analysis. The destruction of OsSWEET1b function will cause sugar starvation, decreased photosynthesis and leaf senescence, which leading to reduced rice yield. Collectively, our results suggest that the OsSWEET1b plays a key role in rice leaves carbohydrate metabolism and leaf senescence."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                362,
+                919,
+                602
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords OsSWEET1b · Hexose transport · Carbon starvation · Leaf senescence · Photosynthesis"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                616,
+                747,
+                632
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                510,
+                662,
+                628,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Plants leaves absorb "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "through stomata for photosynthesis to producing assimilates, which are transported to plastid starch or vacuolar sugars (Jeena et al. 2019). Transportation of assimilates between diferent cells, tissues or organs were requiring transporters protein in various plants. Transporters are involved in transporting assimilates from source tissues through the phloem to diferent sink tissues and influence the plants growth and development (Chen et al. 2015a). In plants, assimilates are transported in form the sugar, especially sucrose (Pommerrenig et al. 2007)."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                696,
+                917,
+                775
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "(0123456789)"
+                    }
+                ]
+            },
+            "bbox": [
+                840,
+                929,
+                915,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29 https://doi.org/10.1007/s00299-023-03125-3"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                39,
+                334,
+                68
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL ARTICLE"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                79,
+                243,
+                94
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Communicated by Li Tian."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                734,
+                243,
+                749
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Qiang Zhang, Changzhao Chen, and Rui Guo have contributed equally to this work."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                759,
+                450,
+                788
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Qian Qian qianqian188@hotmail.com"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                798,
+                267,
+                827
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "1 State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou 310006, Zhejiang, China"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                836,
+                453,
+                878
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "3 State Key Laboratory of Soil and Sustainable Agriculture, Institute of Soil Science, Chinese Academy of Science, Nanjing 210008, China"
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                798,
+                870,
+                839
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "2 National Nanfan Research Institute, Chinese Academy of Agricultural Sciences, Sanya 572000, China"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                881,
+                421,
+                910
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "4 College of Life and Environmental Sciences, Hangzhou Normal University, Hangzhou 310006, Zhejiang, China"
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                843,
+                860,
+                870
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "5 College of Chemistry and Life Sciences, Zhejiang Normal University, Jinhua 321004, Zhejiang, China"
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                874,
+                873,
+                902
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                78,
+                69,
+                489,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Two important sugar transporter families related to sugar transport in diferent plants, namely sucrose transporters (SUTs or SUCs) and sugars will eventually be exported transporters (SWEETs) family proteins (Eom et al. 2015; Garg and Kühn 2022). It’s report that sucrose transporters have the ability to transport hexose or sucrose in various plants. In Arabidopsis, the atsuc2 mutant exhibits reduced sucrose transport in the phloem, resulting in excessive starch accumulation in leaves, stunted growth, and reduced fertility (Gong et al. 2015). In the atsuc4 mutant, accumulates higher sucrose content in shoots compared to the WT but lower sucrose levels in the roots, leading to altered growth (Gong et al. 2015). In maize, ZmSUT1 gene mutation causes high sugar content in leaves, displaying leaf chlorosis and stunted growth (Baker et al. 2016). In rice, OsSUTs family proteins contain five members, with OsSUT2 localized to the tonoplast membrane, while the other four members are located on the plasma membrane (Aoki et al. 2003). OsSUT1 is essential for seed germination and seedling growth in rice (Scofield et al. 2007). The hexose and sucrose content was significantly increased in the ossut2 mutant compared to the WT, leading to sugar excessive accumulation and growth retardation (Eom et al. 2011)."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                149,
+                489,
+                513
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SWEET proteins are responsible for the transport of sucrose or hexose or fructose providing carbohydrates to various tissues in plants (Chen et al. 2015b). In plants, SWEETs protein can be divided into four clades by phylogenetic tree analysis. Among them, in Arabidopsis thaliana, clade I and II members were mainly responsible for hexose transport, clade III members were sucrose transport, and clade IV members were likely fructose transport (Wen et al. 2022; Eom et al. 2015). For example, clade III members AtSWEET11 and AtSWEET12 have the function of sucrose transport based on previous study (Gebauer et al. 2017). Although single mutants for AtSWEET11 and AtSWEET12 do not exhibit any obvious phenotypic changes, the double mutant atsweet11/atsweet12 shows increased starch content in leaves and enhanced disease resistance (Gebauer et al. 2017). The clade IV member AtSWEET16 is located to the tonoplast and transports sucrose and hexose like glucose and fructose (Klemens et al. 2013). Overexpression of AtSWEET16 significantly alters leaf sugar content, improves germination, and enhances freezing tolerance (Klemens et al. 2013). In crops, some SWEETs protein was involved in the transport of assimilates from source to sink, which was crucial for crop yields. For instance, in soybean, GmSWEET15 is involved in sugar transport from the endosperm to the embryo and is crucial for soybean embryo development (Wang et al. 2019a, b). Loss of GmSWEET15 function results in reduced sugar content in the developing embryo and a decreased seed-setting rate (Wang et al. 2019a, b). In maize, ZmSWEET13 functions as a key transporter for sucrose eflux into the apoplasm, and the zmsweet13abc triple-knockout mutant displays excessive sugar accumulation, reduced growth, and leaf chlorosis phenotype (Bezrutczyk et al. 2018)."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                513,
+                490,
+                911
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                507,
+                69,
+                917,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In rice, the OsSWEETs protein family consists of 21 members (Yuan et al. 2014). OsSWEET4 is highly expressed at the base of spikelet and is involved in endosperm basal hexose transport (Sosso et al. 2015). OsSWEET5 transports galactose and overexpression of OsSWEET5 increases hexose content in leaves but leads to slow growth and premature senescence in seedlings (Zhou et al. 2014). OsSWEET11, OsSWEET14, and OsSWEET15 have been implicated in rice grain filling (Fei et al. 2021; Ma et al. 2017; Yang et al. 2018). The ossweet11 mutant exhibits a 30% reduction in grain weight compared to the WT, while the ossweet14 and ossweet15 mutants do not show a grain weight phenotype. However, double mutants, such as ossweet11-ossweet14 or ossweet11-ossweet15, display a significant reduction in grain weight compared to ossweet11 mutants (Fei et al. 2021; Yang et al. 2018). OsSWEET1b belongs to a subfamily that is diferent from OsSWEET4, OsSWEET5, OsSWEET11, OsSWEET14, and OsSWEET15 (Yuan et al. 2014). Therefore, SWEETs protein plays an important role in plant growth, stress tolerance, source to sink sugar transport, and grain development. But the functions of many OsSWEETs protein members in rice were remain unclear and need to further research."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                181,
+                919,
+                529
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In this study, we characterized the OsSWEETs protein member OsSWEET1b functions in rice. OsSWEET1b have glucose and galactose transporter activity in yeast. It is revealed that OsSWEET1b is predominantly expressed in leaves and is localized to the plasma membrane. The expression and protein abundance of the photosynthesis-related gene are reduced in ossweet1b-1 and ossweet1b-2 mutant compared to WT plants. As a result, the mutants showed leaf premature senescence phenotype during the grain-filling stage, reduced grain weight and decreased seed setting at mature stage. The ossweet1b-1 and ossweet1b-2 mutant were reducing the sucrose, glucose, fructose, galactose and starch contents in leaves, which likely leads to sugar starvation and premature leaf senescence phenotypic. In conclusion, OsS-WEET1b plays an important role in regulating rice leaves carbohydrate metabolism and rice yields."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                529,
+                919,
+                783
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials and methods"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                509,
+                811,
+                722,
+                829
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant materials and growth conditions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                509,
+                844,
+                810,
+                862
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The OsSWEET1b-knockout and Nipponbare rice plants were cultivated in China National Rice Research Institute (Hangzhou, China). At maturity stage, ten random plants from both the WT, ossweet1b-1 and ossweet1b-2 mutant plants, were selected for assessing yield-related traits, including number of tillers, seed setting rate, 1000-grain weight and yield per plant."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                877,
+                919,
+                908
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                39,
+                102,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 2 of 15"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                37,
+                184,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                37,
+                915,
+                53
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                929,
+                159,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                78,
+                69,
+                489,
+                149
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Generation of OsSWEET1b‑knockout plants"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                78,
+                170,
+                415,
+                188
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The OsSWEET1b-knockout plants were created by the CRISPR/Cas9 gene editing system. One gRNA target site (TCAACTGCCTCCTCTCTGCATGG) was used to design the first exon of OsSWEET1b gene, which was constructed as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { S K - g R N A - g } ^ { O s S W E E T - g I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "intermediate vector. Then the intermediate vector was double enzyme cutting with Kpn I and Bgl II, and then connected to pC1300-Cas9 to produced "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle \\mathtt { p C 1 3 0 0 - U b i : : c a s 9 - g ^ { O s S W E E T 1 b - g 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "vector and verified by sequencing. The knockout vector was transformed into Agrobacterium EHA105 and infected with the rice callus based on previously described (Zhang et al. 2021). Then, the employed PCR amplification and sequencing to analyze OsSWEET1b-knockout positive plants. The relevant primers used in this study are shown in supplemental Table S1. Next, we performed physiological-related indicator test on WT and two independent knockout lines homozygous "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T } _ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "generation."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                203,
+                489,
+                473
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Determination of chlorophyll, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf H } _ { 2 } { \\bf O } _ { 2 } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "MDA, ROS‑scavenging enzyme and sugar content in leaves"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                78,
+                496,
+                418,
+                544
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Take the same weight (about 0.1 g) of WT, ossweet1b-1 and ossweet1b-2 mutant flag leaves and cut them with scissors. The fragment was placed in 10 ml of 80% acetone and soaked in darkness at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 48 to 72 h until the pigments were completely dissolved into the acetone solution. Afterwards, absorbance was measured at 470 nm, 645 nm and 663 nm using visible spectrophotometer. The content of chlorophyll in the samples was calculated by the reported method (Lichtenthaler 1987)."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                559,
+                489,
+                702
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "At the filling stage, the WT, ossweet1b-1 and ossweet1b-2 mutant flag leaves were collected and stored at –80℃. Thereafter, grind the leaf blades in liquid nitrogen to measure content of hydrogen peroxide "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and malonaldehyde (MDA) and antioxidant enzyme activity involving catalase (CAT), peroxidase (POD), superoxide dismutase (SOD) by assay kit (Suzhou Keming Biotechnology Co, Ltd), according to instruction manual and previous research (Hu et al. 2022). The kits were H2O2-2-Y, MDA-2-Y, CAT-2-W, POD-2-Y, and, SOD-2-Y respectively. Each sample had three independent biological replicates. Statistical analysis was performed in Microsoft Excel by two-tailed Student’s t test. Date shows the mean ± SD of three replicates."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                702,
+                489,
+                910
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "At grain filling stage, the WT, ossweet1b-1 and ossweet1b-2 mutant flag leaves were collected between 9 to 10 am on sunny days with a temperature between 30 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 3 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the sample was immediately frozen and ground in liquid nitrogen. The rice flag leaves starch, sugar, fructose, glucose and galactose concentrations were measurement by Assay kits (Grace Biotechnology Co, Ltd) following the instruction manual and previous studies (Wang et al. 2018). The kits were G0507F, G0506F, G0530F, G0542F, and, G0592F respectively. Each group had five independent biological replicates. Statistical analysis was performed in Microsoft Excel by two-tailed Student’s t test. Date shows the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { m e a n } \\pm \\mathrm { S D }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of five replicates."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                68,
+                919,
+                275
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Transmission electron microscopy (TEM), TUNEL assays, 3,3′‑diaminobenzidine (DAB), nitroblue tetrazolium (NBT) staining analysis"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                507,
+                288,
+                880,
+                339
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The processed fresh leave samples that underwent main vein removal were cut into small piece. TEM Sample preparation and observation methods according to the previous methods (Zhang et al. 2019). Based on the instruction manual of in situ Cell Death Detection Kit, dUTP nickel-end labeling (TUNEL) was used to detect cell death. The methods of sectioning and fluorescence labeling were according to previous studies (Ren et al. 2022; Chen et al. 2021; Cui et al. 2021)."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                354,
+                917,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "At filling stage, the WT, ossweet1b-1 and ossweet1b-2 mutant flag leaves of were acquired. Leaf samples were immersed in 0.1% (w/v) DAB (pH 5.8) or 0.05% (w/v) NBT under dark conditions "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 8 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 6 h. After, the sample was transferred into 95% ethanol hydrate and boiled for 20 min to remove the background color, then observed and photographed."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                481,
+                917,
+                592
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Expression analysis of OsSWEET1b by quantitative real‑time PCR (qRT‑PCR)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                507,
+                605,
+                897,
+                639
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Total RNA was isolated from diferent tissues of japonica rice variety (Nipponbare) during filling stage using RNA Extraction Kit (TaKaRa). The RNA was reversed to generate cDNA using the ReverTra Ace® quantitative PCR RT Master Mix gDNA Remover Kit as instructed by the manufacturer. The Bio-Rad CFX96 instrument was used for qRT-PCR experiments analysis. OsActin1 gene was selected as the internal reference, and the relative gene expressions levels was calculated based on previous studies (Zhang et al. 2019)."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                654,
+                919,
+                812
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Subcellular localization of OsSWEET1b protein and hexose transport analysis"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                507,
+                827,
+                870,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To analyze the subcellular localization of OsSWEET1b protein, the OsWEET1b gene coding sequence was amplified and cloned into GFP vector, to produce the OsSWEET1b-GFP fusion vector. Thereafter, the empty and fusion vectors were transient transformed into rice protoplasts by PEG induction method. Afterwards, the GFP green fluorescence signal and FM4-64 red fluorescence signal were observed by confocal laser scanning microscopy. The FM4-64 was a specific dye for cell membranes (Hu et al. 2022; Zhang et al. 2012; Wang et al. 2019a, b)."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                875,
+                917,
+                908
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                37,
+                255,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 3 of 15 29"
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                37,
+                915,
+                53
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                840,
+                929,
+                915,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                78,
+                69,
+                489,
+                194
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For hexose transport analysis, the CDS of OsWEET1b gene coding sequence was amplified and cloned into the pDR195 expression vector to generate pDR195-OsSWEET1b recombinant vector. The hexose transport-deficient Saccharomyces cerevisiae mutant EBY.VW4000 was transformed with pDR195-OsSWEET1b and pDR195, in 2% maltose, 2% glucose, 2% galactose, 2% fructose, 2% sucrose, 2% mannose and 2% maltose + 0.5% 2DG (2-deoxyglucose) as sole carbon source medium for further assays, respectively. Yeast cells were cultured at 30℃ condition for 3 to 5 days. The medium contain 2% maltose was positive growth medium as control."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                196,
+                489,
+                387
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Bimolecular fluorescence complementation (BiFC) assays"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                78,
+                400,
+                470,
+                434
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For bimolecular fluorescence complementation (BiFC) assays, the CDS of OsSWEET1b were amplified and inserted into BiFC-YN and BiFC-YC vector to obtain BiFC-YN-OsS-WEET1b and BiFC-YC-OsSWEET1b recombined vector, after, transfected into Agrobacterium tumefaciens strain GV3101 and infected to one-month old tobacco leaves. The YFP fluorescence was detected by confocal laser scanning microscope 72 h after infection tobacco leaves cell."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                448,
+                489,
+                577
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Western blot analyses"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                80,
+                589,
+                257,
+                607
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We extracted proteins from the filling stage leaf samples using plant protein extraction kit (CWBio, Cat. CW0885 M), following the instruction manual and previous studies (Zhang et al. 2021). Leaves total proteins were resolved in 15% SDS-PAGE gel electrophoresis, followed by transfer into polyvinylidene difluoride membrane. The proteins were then incubated with specific primary antibodies (Agrisera) and secondary antibodies before undergoing the Clarity western ECL substrate analysis. Anti-Actin antibodies were used as internal control."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                622,
+                489,
+                782
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "RNA‑seq analysis"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                80,
+                796,
+                218,
+                813
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The WT and ossweet1b-1 mutant leaves total RNA were isolated at the filling stage, respectively. Approximately 6 μg of total RNA from each sample was used to build the RNAseq libraries. The cDNA was then generated with random hexamer primers and sequenced using Illumina HiSeq 2000 sequencing platform technology. Raw reads were processed by removing adapter reads and low-quality date, and the clean reads were mapping to the reference genome (ttp:// rice.plantbiology.msu.edu/index.shtml). The expression level of gene was obtained and normalized to FPKM (fragments per kilobase of transcript per million mapped reads) (Li and Dewey 2011). In total, 40 and 44 million reads were obtained from the WT and mutant plants, respectively, which yielded 10,261 diferentially expressed genes (DEGs). DEGs were defined as |Log FC|> 1.0. Next, we performed Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis for DEGs (Bray et al. 2016; Robinson et al. 2010)."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                827,
+                489,
+                908
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                69,
+                919,
+                275
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                509,
+                305,
+                583,
+                321
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Expression analysis of OsSWEET1b and subcellular localization of OsSWEET1b protein"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                507,
+                336,
+                897,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The OsSWEET1b (LOC_Os05g35140) containing 6 exons and 5 introns was cloned from rice, which encoding 261 amino acids with an open reading frame (ORF) of 786 bp. We investigated the expression levels of OsSWEET1b in different rice tissues including roots, stems, leaves and panicles. Our experimental results show that OsSWEET1b had higher expression in leaves than other tissues (Fig. 1A). Additionally, we investigated the expression abundance of OsSWEET1b in diferent leaf senescence stages, which included normal leaves (NL), moderately senescence leaves (MSL) and senescence leaves (SL). The experimental results showed that the expression abundance of OsSWEET1b gene was decreased gradually with leaf senescence (Fig. 1B)."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                384,
+                919,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The SWEET family proteins were containing transmembrane domains. Bioinformatics analysis of OsSWEET1b indicated that it is a membrane protein with seven transmembrane structures (Fig. S1). To determine the subcellular localization of OsSWEET1b, we expressed an OsS-WEET1b-GFP fusion protein in rice protoplasts. While empty GFP localized to the cytoplasm of rice protoplasts, OsSWEET1b-GFP was targeted to the plasma membrane, with its signal co-localizing with the membrane dye FM4-64 red fluorescence signal (Fig. 1C). These results confirmed that OsSWEET1b protein was indeed located to plasma membrane."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                592,
+                919,
+                782
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "OsSWEET1b has hexose transport activity and interact with itself to form homodimers"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                507,
+                794,
+                852,
+                829
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SWEET proteins have been reported to have sugar transport activity in various plants. To confirm whether OsS-WEET1b possesses sugar transport activity, we expressed it in yeast. The EBY.VW4000 mutant strain returned to growth in cultures containing galactose and glucose but failed to grow in medium containing fructose, mannose and sucrose. Additionally, the presence of 2-deoxyglucose (2DG), a glucose analogue with a toxic efect on cells. In 2DG medium, the growth of EBYVW4000 yeast, which containing OsS-WEET1b protein was inhibited, but empty vector growth was normal. These results suggest that OsSWEET1b is involved in galactose and glucose transport ability in yeast (Fig. 2a)."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                844,
+                919,
+                908
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                39,
+                102,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 4 of 15"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                37,
+                184,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                37,
+                915,
+                53
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                929,
+                159,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/61e9232e88af225298274d1904469e8118b07791dd38b1c8570cae3add196e3b.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                139,
+                73,
+                588,
+                296
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/ab6c5407485cd91be84779210f40feb796bcde7bca7535d9fb6d9d0a6ffe923f.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                603,
+                72,
+                892,
+                292
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/308d2d74d62cd12131e7ce34e7b57f1fd810f747ef8a1646229c03cbc4a232ed.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1 Expression pattern analysis of OsSWEET1b and subcellular localization of OsSWEET1b protein. A qRT-PCR analysis of the OsSWEET1b gene expression levels in root, stem, leaf, panicle. B qRT-PCR analysis of OsSWEET1b gene expression levels in normal leaves (NL), moderately senescence leaves (MSL) and senescence"
+                    },
+                    {
+                        "type": "text",
+                        "content": "leaves (SL). Each value in c shows the mean ± SD of three replicates (n = 3), and each repeat involving three plants. C Subcellular localization of OsSWEET1b protein in rice protoplasts cells. The green fluorescence and red fluorescence represents the GFP signal and FM4-64 signal, respectively"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                87,
+                308,
+                909,
+                596
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                78,
+                702,
+                489,
+                844
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SWEETs protein transports sugar through the formation of homodimers or heterodimer. Given that OsSWEET1b demonstrated galactose and glucose transport capacity in yeast, we investigated its ability to form homodimers using BiFC analysis. The BiFC experimental results show that OsSWEET1b-YFPN/OsSWEET1b-YFPC was co-transformed to N. benthamiana leaf cells and the YFP fluorescence signal was observed (Fig. 2b). In contrast, when OsSWEET1b-YFPN/YFPC and YFPN/OsSWEET1b-YFPC were co-transformed to N. benthamiana leaf cells, respectively, the no YFP fluorescence signal was observed. These results indicated that OsSWEET1b can interact with itself to form homodimers."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                844,
+                489,
+                875
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                702,
+                919,
+                877
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                37,
+                255,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 5 of 15"
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                37,
+                887,
+                51
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                895,
+                39,
+                915,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                840,
+                929,
+                915,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d107064aec53ec2c58bcca05301e78b2101efe212acea9e35bbdfb818641949c.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2 Characterization of OsSWEET1b protein. a Functional analysis of OsSWEET1b as sugar transporters. The EBY.VW4000 yeast mutant strain expressing OsSWEET1b was grown on media containing 2% maltose, 2% glucose, 2% maltose plus 0.5% 2DG, 2% galactose, 2% fructose, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "mannose or 2% sucrose as carbon sources with concentration gradients (10<sup>−1</sup>, 10<sup>−2</sup> and 10<sup>−3</sup>). An empty vector was used as a negative control. b OsSWEET1b interact with"
+                    },
+                    {
+                        "type": "text",
+                        "content": "itself to form homodimers. Bimolecular fluorescence complementation (BiFC) assay OsSWEET1b interact with itself in N. benthamiana epidermal cells. The YFP fluorescent signal was detected when BiFC-YN-OsSWEET1b/BiFC-YC-OsSWEET1b co-transformation. While, no YFP fluorescence was observed with the BiFC-YN /BiFC-YC-OsSWEET1b and BiFC-YC/BiFC-YN-OsSWEET1b were used as controls"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                90,
+                67,
+                912,
+                630
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Characterization of OsSWEET1b gene knockout plants"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                78,
+                765,
+                445,
+                797
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To identify the functions of OsSWEET1b, we performed OsSWEET1b gene knocked out by CRISPR/Cas9 gene editing technology and acquired two independent knockout positive plants namely ossweet1b-1 and ossweet1b-2. Sequencing analysis confirmed that 14 bp and 1 bp were deleted and inserted at the target sites in the ossweet1b-1 and ossweet1b-2 lines, respectively, leading to frameshift mutations and the loss of glucose and fructose transport ability (Fig. 3a; Fig. S2). In the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T } _ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "generation, we observed the WT and the two mutant’s phenotypes during diferent stages. No phenotypic diferences were observed between the WT and the two mutant lines during the seedling and heading stages (Fig. S3). However, at grain filling stage, ossweet1b-1 and ossweet1b-2 mutant exhibited premature senescence phenotype, with their leaves turning yellow while the WT leaves remained green (Fig. 3b). In this stage, we determine the photosynthetic parameters in the WT and ossweet1b mutants. The chlorophyll a (Chla) and chlorophyll b (Chlb) content of ossweet1b mutants were obviously decrease than WT (Fig. 3c). Besides, our data showed the values of Fv/Fm, stomatal conductance (Gs) and net photosynthetic rate (Pn) were markedly reduced in the ossweet1b-1 and ossweet1b-2 mutant compared with WT (Fig. 3d–f)."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                812,
+                489,
+                908
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                507,
+                764,
+                919,
+                908
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                39,
+                102,
+                50
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 6 of 15"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                39,
+                183,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                37,
+                915,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                929,
+                157,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/d3fae326542540aee4728e725fd560beb819d5bbf9e416bcdd802c7ae9b7ca63.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "a"
+                    },
+                    {
+                        "type": "text",
+                        "content": "C"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                92,
+                287,
+                324,
+                462
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/43f2956fff3fa83a19bfbc88e56c362d51f1f6a609b50236211430f65bb36a5a.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "d"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 3   Phenotypic characteristics of the ossewwt1b mutant at filling stage. a Mutation types of ossweet1b-1 and ossweet1b-2 mutants. b Phenotype analysis of the WT, ossweet1b-1 and ossweet1b-2 mutants at filling stage. Bar = 10  cm. c The contents of chlorophyll a, b and carotenoids in WT, ossweet1b-1 and ossweet1b-2 mutants at filling stage. d–f Comparison of chlorophyll fluorescence parameter "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ( F _ { v } / F _ { m } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "b"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                322,
+                284,
+                519,
+                460
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                78,
+                591,
+                489,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We also analyzed the expression levels of photosynthesis-related genes including photosystem II light harvesting complex protein 2 (Lhcb2), photosystem I protein A (psaA), photosystem I subunit II (psaD), photosystem II protein D1 (psbA), ribulose bisphosphate carboxylase small subunit (Rbcs), ribulose bisphosphate carboxylase large subunit (rbcL) and uroporphyrinogen III synthase (HEMD) in both the WT and two ossweet1b mutants. The experimental results displayed that significant decrease in the expression of these photosynthesis-related genes ossweet1b-1 and ossweet1b-2 mutant (Fig. 4a). We analyzed the abundance of proteins encoded by these photosynthetic proteins in the"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                717,
+                489,
+                908
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8b7e787194015ecd535bb694deb8538559cf2b298ba5556615c896ca7475fb49.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                524,
+                83,
+                652,
+                265
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bc03b3807a85c61851a21c57439c8e391a85c68bdb075b6b7a5ba500e6aa2fbd.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                655,
+                83,
+                774,
+                267
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/52edcfc9d711c555336290425e0f321540fe8a3dc0dc2b628bc784c027b77b6e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                778,
+                83,
+                910,
+                251
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/d751d44031ec6192abea32efff2ac6c21567e051f6f1a868e45a517d0a87d196.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "f"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                504,
+                287,
+                710,
+                464
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/e03dd7de8d500f23b89ad4b7bd03a830259d7cc3d35ef02d5d0c5af74cf273d6.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "stomatal conductance (Gs) and net photosynthetic rate (Pn) in WT, ossweet1b-1 and ossweet1b-2 mutants at filling stage. Each value in c–f shows the mean ± SD of three replicates (n = 3) and each repeat contain three plants. Asterisks shows significant diferences between WT and ossweet1b-1or ossweet1b-2 by Student’s t test, ** "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { < } 0 . 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { * } P < 0 . 0 5"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                697,
+                296,
+                900,
+                463
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WT, ossweet1b-1 and ossweet1b-2 mutant. Western blot assays displayed that compared to the WT, the abundance of the photosynthesis-associated proteins including PSI (Lhca1, psaE), PSII (Lhcb5, psbD), cytochrome b6/f complex (PetA) and ATPase were decreased in the ossweet1b-1 and ossweet1b-2 mutant (Fig. 4b). These results suggest that loss of OsSWEET1b function results in reduced photosynthetic capacity in rice."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                589,
+                917,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Furthermore, TEM analyses revealed that the chloroplast lamellar structure in WT leaves developed normally, with well-organized thylakoid and stromal arrangements (Fig. 5a). However, in ossweet1b-1 and ossweet1b-2 mutant leaves, the structure of thylakoid and stromal arrangements appeared disordered, and there were more osmiophilic granules (OG) (Fig. 5a). We assessed cell death by TUNEL assays and observed obviously fluorescence signal in the ossweet1b-1 and ossweet1b-2 mutants leaves compared to the WT, while almost no signal was detected in the WT leaves (Fig. 5b; Fig. S4). These results suggests that leaves cell death in the mutants. These results suggest that"
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                717,
+                919,
+                908
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                37,
+                255,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 7 of 15"
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                37,
+                885,
+                51
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                895,
+                39,
+                915,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                840,
+                929,
+                915,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b"
+                    }
+                ]
+            },
+            "bbox": [
+                695,
+                87,
+                712,
+                102
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/ead6fa22320e9d3a7598bc94a88d660c9da8374656297aaec0fcd171b13e54de.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                87,
+                88,
+                699,
+                316
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6fe6e5d03b26b88fb131da9bd18a5d10d67eebab8612816b001e16009401dd07.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "significant diferences between WT and ossweet1b-1or ossweet1b-2 by Student’s t test, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { * * } \\ P { < } 0 . 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { * } P { < } 0 . 0 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". b WB analysis of photosynthesis-related proteins in WT, ossweet1b-1 and ossweet1b-2 mutants at filling stage"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                705,
+                70,
+                912,
+                300
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/083b1a31244f281dfeff0f19523b8f78089bf36da8aca6bd289895563d329315.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4   Measurement of photosynthesis-related gene expression and protein abundance. a The qRT-PCR analysis expression levels of photosynthetic-related genes in WT, ossweet1b-1 and ossweet1b-2 mutants at filling stage. Each value shows the mean ± SD of three replicates (n = 3) and each repeat contain three plants. Asterisks shows"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 5 Tissue structure observation. a Ultrastructural observe of the chloroplasts from the WT, ossweetb-1 and ossweet1b-2 mutants leaves at filling stage. Cp: chloroplast; sg: starch granules; os: osmiophilic. b TUNEL analysis of WT, ossweet1b-1 and ossweet1b-2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "mutant’s DNA fragmentation in mesophyll cells. Red fluorescence signals indicate propidium iodide (PI) staining and green fluorescence signals fluorescence indicate TUNEL-positive nuclei of dead cells"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                84,
+                417,
+                905,
+                768
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                39,
+                102,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 8 of 15"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                37,
+                184,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                37,
+                917,
+                53
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                929,
+                159,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "OsSWEET1b mutation leads to leaf senescence, damage to the chloroplast structure, and cell death in leaves during the filling stage."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                68,
+                489,
+                117
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "RNA sequencing analysis of ossweet1b‑1 mutant"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                78,
+                131,
+                457,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Transcriptome sequencing was performed on the WT and ossweet1b-1 mutant leaves during the filling stage. In total, 10,261 diferentially expressed genes (DEGs) were identified, among of them 4517 showing significance decrease and 5744 genes exhibiting significance increase in the ossweet1b-1 mutant compared to the WT (Fig. 6a). For instance, senescence-related genes including staygreen (OsSGR), pectin methylesterase (OsPME), alkaline α-galactosidase (Osh69) and OwWRKY72 were dramatically upregulated in ossweet1b-1 mutant (Fig. 6b). GO enrichment analysis indicated that the DEGs were involved in metabolic process, carbohydrate binding, carbohydrate metabolic processes and transporter activity (Fig. S5). For example, nutrient transport-related genes included peptide transporter 2 (OsPTR2), peptide transporter 4 (OsPTR4), peptide transporter 5 (OsPTR5), peptide transporter 6 (OsPTR6), peptide transporter 9 (OsPTR9), lysine-histidine-type transporter 1 (OsLHT1) and ammonium transporter 2;1 (OsAMT2;1) expression levels were significantly increased compare with WT (Fig. 6c). These results suggest that OsSWEET1b mutation promotes leaf senescence process and induces nutrient transport genes expression. In addition, KEGG enrichment analysis results display that the DEGs mainly afected carbon fixation in photosynthetic organisms, starch and sucrose metabolism, and fatty acid degradation pathway (Fig. S4). For instance, the transcript abundance of starch synthase gene OsSSI and amylase gene RAmy3D were significantly upregulated and downregulated in the mutant, respectively. The transcript level of sucrose-6-phosphate phosphohydrolase (OsSPP), a key enzyme for sucrose metabolism, was decreased in the mutant than WT. The glucosidase-related gene includes Os4Bglu18, Os4Bglu12, Os3Bglu6, Os3Bglu8 and Os3Bglu7 were dramatically downregulated in mutant (Fig. 6d). These results suggested that in the mutant the sugar anabolism was reduced, while sugar catabolism and nutrient transport were enhanced in the mutant."
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                163,
+                490,
+                593
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                68,
+                919,
+                213
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Knockout of OsSWEET1b causes carbon starvation in leaves"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                507,
+                225,
+                899,
+                259
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Leaf sugar content plays a crucial role in crop growth and photosynthetic efficiency, and disrupted sugar distribution can result in abnormal growth. It’s reported that sugar accumulation or sugar starvation in leaves can lead to leaf senescence phenotype. In the ossweet1b-1 and ossweet1b-2 mutant, TEM observations showed a significant reduction in starch accumulation in leaves. Moreover, the expression levels of genes related to sugar anabolic metabolism were decreased in the mutants. Therefore, we hypothesized that OsSWEET1b may afect sugar accumulation in leaves. Next, we analyzed the sugar content in leaves at grain filling in the WT and the ossweet1b mutants. Our sugar assay shows that the fructose, glucose, sucrose, starch and galactose contents were observably decreased in the ossweet1b-1 and ossweet1b-2 mutant leaves compared to the WT (Fig. 7a–e)."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                274,
+                919,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The dark inducible (DIN) genes have been widely studied in Arabidopsis as markers gene for carbon starvation. Based on Arabidopsis study, we identified eight DIN homologs gene in rice and analyzed their expression levels between WT and ossweet1b-1 mutant by RNA-seq. The results"
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                512,
+                919,
+                592
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/55866c55732591d74a61e24caeea4553e55e9be0d9ec3cc40869a3cd24fb60e9.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "a"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                94,
+                632,
+                319,
+                844
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/5425e835e2275829b46c16caa2fc8e710807fabb7af70cbbed9db1b593a28b7f.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                396,
+                630,
+                620,
+                755
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/8a4b59c7c640389992c7f25a327e7a26069e0d2f5dfc4d874cc448dee158a47c.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 6 Transcriptome sequencing of WT and ossweet1b-1 mutant at filling stage. a Volcano plots shows the diferentially expressed genes (DEGs) between WT and ossweet1b-1 mutant. b Heat map of DEGs"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                398,
+                760,
+                623,
+                843
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/80fc665f80e570f832133942b72be9b40a97a9afc9b2c6d6b4aa16748d15e3b7.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "in leaf senescence-related genes. c Heat map of DEGs in nutrient transport-related genes. d Heat map of DEGs in sugar metabolismrelated genes"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                638,
+                629,
+                910,
+                839
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                37,
+                255,
+                53
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 9 of 15 29"
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                37,
+                917,
+                53
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                840,
+                929,
+                915,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/45176503c097b9eab893ce564bf18323042b59574bdb708a6a52022b3748ee36.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                87,
+                70,
+                329,
+                286
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/ffa574255600d9579d80e748402ce57581ba42b9407ee560c139f3d0fab451cc.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                351,
+                67,
+                589,
+                288
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/8f54d9a14679b2fbbe459208255f4133c7a3bfad83afc7f4f4c4973e74215814.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                84,
+                306,
+                332,
+                520
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/6251c79e2e997be46bb1b1b6e0b2f01e960591a150ce55b8127009cbd1f4a4c4.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 7 OsSWEET1b mutation causes carbon starvation. a-e Determination of fructose, glucose, sucrose, starch and galactose content in WT, ossweet1b-1 and ossweet1b-2 mutants leaves during grain filling stage. Each value shows the mean ± SD of three replicates (n = 3) and each repeat contain five plants. Asterisks shows sig-"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                341,
+                310,
+                593,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "indicated that the eight DIN genes (OsDIN1, OsDIN2, OsDIN3, OsDIN4, OsDIN6, OsDIN9, OsDIN10, and OsDIN11) expression levels were significantly upregulated in the mutants than WT (Fig. 7f). Therefore, these results indicated that the OsSWEET1b gene may be a positive regulator of sugar content in leaves and its knockout caused reduced sugar content and carbon starvation in leaves."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                637,
+                489,
+                750
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ROS accumulation in the ossweet1b mutants"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                80,
+                764,
+                425,
+                779
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/bd6416317b06c6a87facd8f0c6632224fa5f1dd7b410b677257d256c7cf37950.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                620,
+                70,
+                873,
+                291
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Reactive oxygen species (ROS) contain "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and superoxide anion radical "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathbf { O } ^ { 2 - } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and whose metabolism disorder can lead to premature senescence in plants (Zheng et al. 2021). Plant cell death is associated with excessive intracellular accumulation of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "content (Xiong et al. 2021). The DAB and NBT staining in ossweet1b mutant leaves was deeper than that of WT leaves (Fig. 8a, b). Our experimental results indicated that the content of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the ossweet1b mutants were significantly higher than WT (Fig. 8c). The MDA content is usually associated with the degree of cell damage (Wei et al. 2021). Our experimental results indicated that MDA content in the ossweet1b mutants was significantly higher than WT (Fig. 8d). Plants generate antioxidant enzymes involving POD, SOD, and CAT which eliminate the toxic efects of ROS on plant cells. We measured the enzyme activities of CAT, SOD and POD in the ossweet1b mutants and WT plants (Fig. 8e–g). These results showed that the CAT, SOD and POD activities were significantly suppressed in the ossweet1b-1 and ossweet1b-2 mutants compared with the WT, which might be leading to ROS accumulation in the mutants."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                797,
+                489,
+                892
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/6c012cba65bb504638cda33fcde68b743cc1eb706fe34114085d3ac001aaffdc.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "nificant diferences between WT and ossweet1b-1or ossweet1b-2 by Student’s t test, ** "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { < } 0 . 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { * } P { < } 0 . 0 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". f Heat map of DEGs in carbon starvation-related marker genes including OsDIN1, OsDIN3, OsDIN6, OsDIN9, OsDIN10 and OsDIN11 in WT, ossweet1b-1 and ossweet1b-2"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                616,
+                308,
+                910,
+                505
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                507,
+                639,
+                919,
+                892
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                39,
+                102,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 10 of 15"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                37,
+                191,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                37,
+                915,
+                53
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                929,
+                157,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/ae6ab30d1cdfda48e3c5e80de3008e5330ae39b3f3970ed68dc99875f91a8135.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                89,
+                72,
+                258,
+                283
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/e17d9f6e49f78ed5f478570e25615d73c5786a519a53d267238348813e0d2b68.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                278,
+                72,
+                438,
+                283
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/474a9bc6d3139935f9d17281bc61abc59449460577bd6008216d881d6f864cd7.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                445,
+                79,
+                680,
+                287
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/3f9223ec4c866123ce2abcfa5513304723a2a9d177f1893954bb8a58bcf4cc25.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                675,
+                77,
+                912,
+                291
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/de97c3ae315547dbe0f300483c0bbddc212ef64078a99d3682e64506d9f1c352.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "f"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                87,
+                311,
+                339,
+                520
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/bd10186bd882de941879db52cf9831816357f2bdbdbf146eba89af9634b246b1.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "g"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                337,
+                313,
+                594,
+                524
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/beb120fcb22cf85f32c9aee44ae10b49dc2571e68f200a6f0e6f9b594280f267.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 8 Measurement of senescence-related indexes between WT, ossweet1b-1 and ossweet1b-2 mutants at filling stage. a DAB straining. b NBT straining. Scale bar = 2 cm. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { c } \\ \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "content. d MDA content. e CAT activity. f SOD activity. g POD activity. Each value in c–g"
+                    },
+                    {
+                        "type": "text",
+                        "content": "shows the mean ± SD of three replicates (n = 3) and each repeat contains three plants. Asterisks show significant diferences between WT and ossweet1b-1or ossweet1b-2 by Student’s t test, **  P < 0.01, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { * } P < 0 . 0 5"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                589,
+                313,
+                848,
+                525
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The leaf sugar content of ossweet1b-1 and ossweet1b-2 mutant was decreased, and show leaf premature senescence phenotype which afected rice yield-related agronomic traits. We investigated the agronomic characteristics of WT and ossweet1b-1 and ossweet1b-2 mutant at maturity stage. The number of efective tillers of the mutant was significantly less than that of WT (Fig. 9a). The seed setting rate was about 90% in the WT, but only 58% and 56% in the ossweet1b-1 and ossweet1b-2 mutants, respectively (Fig. 9b). The 1000-grain weight was about 24 g in WT, but approximately 20 g in the ossweet1b-1 and ossweet1b-2 mutants (Fig. 9c). In addition, the ossweet1b-1 and ossweet1b-2 mutants showed decrease 64% and 65% in yield per plant, respectively, compared with the WT (Fig. 9d). These results indicated that OsSWEET1b mutation was severely afected rice yield."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                655,
+                489,
+                908
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "OsSWEET1b afects main yield traits in rice"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                80,
+                622,
+                411,
+                639
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                509,
+                622,
+                611,
+                639
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SWEET family proteins were involving in the various pathways such as grain development, leaf senescence, stress resistance and so on to afect plant growth and development (Gautam et al. 2022). For example, ZmSWEET4c plays a key role in grain filling while GmSWEET15 was needed to embryonic development in soybean (Wang et al. 2019a, b; Yuan et al. 2014). There are 21 members of the OsSWEETs family in rice, which include OsSWEET11, OsSWEET14 and OsSWEET15 are mainly expressed in caryopses and afect grain filling (Fei et al. 2021; Yang et al. 2018; Hu et al. 2021). In this study, we functionally characterized the OsSWEET1b gene that mainly expressed in leaves and afect sugar starvation, indicating that the OsSWEET family genes have diferent expression patterns and play diferent biological functions. It has been reported that SWEET needs to form homologous or heterodimers to transport sugar in"
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                655,
+                919,
+                910
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                37,
+                255,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 11 of 15"
+                    }
+                ]
+            },
+            "bbox": [
+                806,
+                37,
+                887,
+                53
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                895,
+                39,
+                915,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                840,
+                929,
+                915,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 9 The main agronomic traits were investigated between WT, ossweet1b-1 and ossweet1b-2 at maturity stage. a Efective tillering number. b Setting rate. c 1000-grain weight. d Yield per plant. Each value shows the mean ± SD of ten replicates (n = 10). Asterisks show significant diferences between WT and ossweet1b-1or ossweet1b-2 by Student’s t test, ** P <0.01, and * P< 0.05"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                69,
+                272,
+                235
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/35b86162f81824e775682fe028ec453ac6837814a117382b42a1be1d0a01fd55.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                304,
+                72,
+                601,
+                321
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/977e279cc5bfd9c03ac678875641cf1f7d182f8e851eec5e31be5b73755d265a.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                610,
+                69,
+                902,
+                321
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/7fda19227e39717a8e5f852f75080b3e2fbae4cc3eb04ca8a2f28f1ed5648415.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                304,
+                355,
+                603,
+                584
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/f0dcab0119ed375a8241cb62905002fff2220c693289966da3078b88aaaef18f.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                616,
+                355,
+                917,
+                584
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "plants (Eom et al. 2015; Yao et al. 2020; Xue et al. 2022). OsSWEET1b has hexose transport activity by yeast complementation assays in our study. Further, we verified that OsS-WEET1b can undergo oligomerization to form homologous. This suggests that OsSWEET1b may have hexose transport activity by forming homodimers."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                606,
+                487,
+                702
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Previous studies have shown that SWEET gene afects leaf senescence through sugar metabolism in diferent plants (Wang et al. 2019a, b; Gautam et al. 2022). For instance, combined loss of function of ZmSWEET13a, ZmSWEET13b and ZmSWEET13c in zmsweet13a,b,c triple mutant led to increased sucrose, glucose and fructose content in leaves and caused premature leaf senescence in maize (Bezrutczyk et al. 2018). Overexpression of AtSWEET15 (SAG29) yields an accelerate leaf senescence phenotype in Arabidopsis thaliana (Seo et al. 2011). In rice, overexpression of OsSWEET5 reduces sugar content in leaves and confers precocious senescence phenotype in seedling stage (Zhou et al. 2014). In addition, overexpression of PbSWEET4 causes sugar reduction and premature senescence in pear leaves (Ni et al. 2020). The increase or decrease sugar content in leaves can cause carbohydrate over-accumulation or starvation, respectively, leading to accelerated leaf senescence in plants (van Doorn 2008; Kim 2019). In this study, the ossweet1b mutant was significant reduction the sugar content in leaves, resulting in sugar starvation and premature leaf senescence. Sugar starvation has been reported to be related to leaf senescence, which has similar plant phenotypes, metabolic changes, and gene expression patterns (Ni et al. 2020). For example, HXK1 overexpression in plants leads to reduced sugar content and accelerated leaf senescence (Moore et al. 2003). In ossweet1b-1 mutant, the expression levels of senescence marker genes including OsSGR, Osh69 and OsWRKY72 were observably upregulation by transcriptome sequencing analysis. Therefore, our study demonstrated that sugar starvation might induces leaf premature senescence. The OsSWEET5 is highly expressed in senescent leaves, and thus promotes leaf senescence (Zhou et al. 2014). However,"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                702,
+                489,
+                908
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                507,
+                606,
+                919,
+                910
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                39,
+                102,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 12 of 15"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                37,
+                191,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                37,
+                915,
+                53
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                929,
+                157,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "OsSWEET1b was highly expressed in young leaves, and OsSWEET1b gene knockout led to premature leaf senescence. Therefore, the OsSWEET1b and OsSWEET5 genes confer conflicting regulation of leaf senescence in rice."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                68,
+                489,
+                132
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "OsSWEET1b was a homolog of AtSWEET1 and SCT1 (closed stomata1) proteins that are targeted to the cell plasma membrane (Wang et al. 2019a, b). Previous data has shown that the atsweet1 mutant does not show any abnormal phenotype under normal culture conditions (Gao et al. 2018). In maize, the cst1 or zmsweet1b mutant exhibited premature leaf senescence (Wang et al. 2019a, b; Wu et al. 2023). Besides, compared to the WT, the cst1 mutant had reduced stomatal conductance, photosynthetic capacity, and grain yield. Our analysis demonstrated that stomatal conductance and grain yield were significantly reduced in ossweet1b mutant compared to the WT. Phylogenetic analysis showed that SWEET1b can be divided into monocotyledonous and dicotyledonous groups in various plants (Fig. S6). Therefore, the SWEET1b gene might be playing divergent functions in monocotyledons and dicotyledons, and the functions might be more conserved in monocotyledons."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                132,
+                489,
+                401
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is noteworthy that the ossweet1b mutant phenotype was obvious at the filling stage, and this phase has significant changes in the point source-sink relationship (Kumar et al. 2019). Thus, the OsSWEET1b activity may be mediating the shifts in the source-sink relationship. The appearance of ossweet1b mutant phenotype in filling stage may also be due to the reduced functional complementarity of the OsS-WEET1b homolog. For example, the expression of OsS-WEET2b, OsSWEET3b, OsSWEET13 and OsSWEET16 was reduced in ossweet1b mutants. On the other hand, RNA-seq analysis demonstrated that the expression of sugar metabolism-related genes greatly changed in the mutant plants. In the mutant, the expression levels of sugar synthesis-related genes were inhibited, but the degradation-related genes was increased. This is consistent with the results of reduced sugar content in the mutants. During the filling stage, nutrients from leaves are transferred to grains. The reduction of sugar content in ossweet1b mutant may accelerate leaf senescence process."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                401,
+                489,
+                702
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The SWEET gene was influence crop yield traits according to previous studies. By knocking out GmSWEET15 was resulted in lower seed setting in soybean (Wang et al. 2019a, b). In the ossweet11 mutant and ossweet11;14 double rice mutants, the 1000-grain weight was decreased by 30% and 70%, respectively (Fei et al. 2021; Yang et  al. 2018). The grains yield was mainly depending on translocation of photosynthetic substances from leaves to grains. In this study, ossweet1b mutants show sugar starvation and premature leaf senescence at the grain filling stage. Although the nutriment transportrelated genes were upregulation in the mutants leaves than WT. But the ossweet1b mutant 1000-grain weight and seed setting was reduced by about 15% and 33%, respectively. And the yield per plant reduced by approximately 62% in ossweet1b mutants than WT. This may be because the ossweet1b mutants leaves lost source capacity in the filling stage and were not able to produce enough photo-assimilates for translocation into grains."
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                701,
+                490,
+                910
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                68,
+                917,
+                163
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In summary, we identified the function of OsSWEET1b, which is diferent from most of the previously reported functions of SWEET in rice. The majority of SWEET gene mutations can cause sugar accumulation, which leading to leaf senescence phenotype and influence crop yield. In this study, we suggested that loss of OsSWEET1b function can lead to sugar starvation and cause leaf senescence during the grain filling stage, which afects rice yield. The OsSWEET1b belongs to a diferent subfamily from previously reported OsSWEET proteins including OsSWEET4, OsSWEET5, OsSWEET11 and so on in rice, and their functions may be diferentiated. These results will contribute to a better understanding the role of OsSWEET1b function in rice growth and development."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                163,
+                919,
+                387
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplementary Information The online version contains supplementary material available at https://doi.org/10.1007/s00299-023-03125-3."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                396,
+                919,
+                424
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements This work was supported by National Key R&D Program of China, Rice germplasm precisely evaluation for directbreeding in east China (No. 2021YFD1200503). The Nanfan special project, CAAS (Grant No. ZDXM2315). The National Natural Science Foundation of China (Grant No. 32188102). Funded by Qian Qian Academician Workstation, and the specific research fund of the innovation platform for academicians of Hainan province (YSPTZX202303). The Key Research and Development Program of Zhejiang Province (2021C02056). The Agricultural Science and Technology Innovation Program (ASTIP). Central Public-interest Scientific Institution Basal Research Fund."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                434,
+                919,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Author contributions QZ and QQ: conceived and designed the research; QZ, CZC, RG and MXH: performing the experiments; ZWL, LS, and QL: investigation and data analysis; QZ and CZC: writing the article JH, LZ, GHZ, and DYR providing critical comments to the manuscript."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                586,
+                917,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Funding This work was funded by Zhejiang Provincial Natural Science Foundation of China under Grant (LQ24C130006). The National Key R&D Program of China, Rice germplasm precisely evaluation for direct-breeding in east China (No. 2021YFD1200503). The Qian Qian Academician Workstation, and the specific research fund of the innovation platform for academicians of Hainan province. The Agricultural Science and Technology Innovation Program (ASTIP). The Key Research and Development Program of Zhejiang Province (2021C02056). The Central Public-interest Scientific Institution Basal Research Fund."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                662,
+                919,
+                791
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Data availability The datasets generated during and/or analyzed during the current study are available from the corresponding author on reasonable request."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                800,
+                917,
+                840
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Declarations"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                509,
+                853,
+                615,
+                869
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Conflict of interest The authors declare no competing financial interest."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                881,
+                917,
+                907
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                37,
+                255,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 13 of 15"
+                    }
+                ]
+            },
+            "bbox": [
+                806,
+                37,
+                887,
+                53
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                895,
+                39,
+                915,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                840,
+                929,
+                915,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                80,
+                69,
+                186,
+                86
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Aoki N, Hirose T, Scofield GN, Whitfeld PR, Furbank RT (2003) The sucrose transporter gene family in rice. Plant Cell Physiol 44(3):223–232"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Baker RF, Leach KA, Boyer NR, Swyers MJ, Benitez-Alfonso Y, Skopelitis T, Luo A, Sylvester A, Jackson D, Braun DM (2016) Sucrose transporter ZmSut1 expression and localization uncover new insights into sucrose phloem loading. Plant Physiol 172(3):1876–1898"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bray NL, Pimentel H, Melsted P (2016) Near-optimal probabilistic RNA-seq quantification. Nat Biotechnol 34(5):525–527"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chen LQ, Cheung LS, Feng L, Tanner W, Frommer WB (2015a) Transport of sugars. Annu Rev Biochem 84:865–894"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chen LQ, Lin IW, Qu XQ, Sosso D, McFarlane HE, Londoño A, Samuels AL, Frommer WB (2015b) A cascade of sequentially expressed sucrose transporters in the seed coat and endosperm provides nutrition for the Arabidopsis embryo. Plant Cell 27(3):607–619"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chen D, Qiu Z, He L, Hou L, Li M, Zhang G, Wang X, Chen G, Hu J, Gao Z, Dong G, Ren D, Shen L, Zhang Q, Guo L, Qian Q, Zeng D, Zhu L (2021) The rice LRR-like1 protein YELLOW AND PREMATURE DWARF 1 is involved in leaf senescence induced by high light. J Exp Bot 72(5):1589–1605"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Cui Y, Peng Y, Zhang Q, Xia S, Ruan B, Xu Q, Yu X, Zhou T, Liu H, Zeng D, Zhang G, Gao Z, Hu J, Zhu L, Shen L, Guo L, Qian Q, Ren D (2021) Disruption of EARLY LESION LEAF 1, encoding a cytochrome P450 monooxygenase, induces ROS accumulation and cell death in rice. Plant J105(4):942–956"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Eom JS, Cho JI, Reinders A, Lee SW, Yoo Y, Tuan PQ, Choi SB, Bang G, Park YI, Cho MH, Bhoo SH, An G, Hahn TR, Ward JM, Jeon JS (2011) Impaired function of the tonoplast-localized sucrose transporter in rice, OsSUT2, limits the transport of vacuolar reserve sucrose and afects plant growth. Plant Physiol 157(1):109–119"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Eom JS, Chen LQ, Sosso D, Julius BT, Lin IW, Qu XQ, Braun DM, Frommer WB (2015) SWEETs, transporters for intracellular and intercellular sugar translocation. Curr Opin Plant Biol 25:53–62"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Fei H, Yang Z, Lu Q, Wen X, Zhang Y, Zhang A, Lu C (2021) OsS-WEET14 cooperates with OsSWEET11 to contribute to grain filling in rice. Plant Sci 306:110851"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gao Y, Zhang C, Han X, Wang ZY, Ma L, Yuan P, Wu JN, Zhu XF, Liu JM, Li DP, Hu YB, Xuan YH (2018) Inhibition of OsS-WEET11 function in mesophyll cells improves resistance of rice to sheath blight disease. Mol Plant Pathol 19(9):2149–2161"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Garg V, Kühn C (2022) Subcellular dynamics and protein-protein interactions of plant sucrose transporters. J Plant Physiol 273:153696"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gautam T, Dutta M, Jaiswal V, Zinta G, Gahlaut V, Kumar S (2022) Emerging roles of SWEET sugar transporters in plant development and abiotic stress responses. Cells 11(8):1303"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gebauer P, Korn M, Engelsdorf T, Sonnewald U, Koch C, Voll LM (2017) Sugar accumulation in leaves of Arabidopsis sweet11/ sweet12 double mutants enhances priming of the salicylic acidmediated defense response. Front Plant Sci 8:1378"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gong X, Liu M, Zhang L, Ruan Y, Ding R, Ji Y, Zhang N, Zhang S, Farmer J, Wang C (2015) Arabidopsis AtSUC2 and AtSUC4, encoding sucrose transporters, are required for abiotic stress tolerance in an ABA-dependent pathway. Physiol Plant 153(1):119–136"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hu Z, Tang Z, Zhang Y, Niu L, Yang F, Zhang D, Hu Y (2021) Rice SUT and SWEET transporters. Int J Mol Sci 22(20):11198"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hu P, Tan Y, Wen Y, Fang Y, Wang Y, Wu H, Wang J, Wu K, Chai B, Zhu L, Zhang G, Gao Z, Ren D, Zeng D, Shen L, Xue D, Qian Q, Hu J (2022) LMPA regulates lesion mimic leaf and"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "panicle development through ROS-induced PCD in rice. Front Plant Sci 13:875038"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jeena GS, Kumar S, Shukla RK (2019) Structure, evolution and diverse physiological roles of SWEET sugar transporters in plants. Plant Mol Biol 100(4–5):351–365"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kim J (2019) Sugar metabolism as input signals and fuel for leaf senescence. Genes Genom 41(7):737–746"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Klemens PA, Patzke K, Deitmer J, Spinner L, Le Hir R, Bellini C, Bedu M, Chardon F, Krapp A, Neuhaus HE (2013) Overexpression of the vacuolar sugar carrier AtSWEET16 modifies germination, growth, and stress tolerance in Arabidopsis. Plant Physiol 163(3):1338–1352"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kumar R, Bishop E, Bridges WC, Tharayil N, Sekhon RS (2019) Sugar partitioning and source-sink interaction are key determinants of leaf senescence in maize. Plant Cell Environ 42(9):2597–2611"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Li B, Dewey CN (2011) RSEM: accurate transcript quantification from RNA-Seq data with or without a reference genome. BMC Bioinform 12:323"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lichtenthaler HK (1987) Chlorophylls and carotenoids: pigments of photosynthetic biomembranes. Methods Enzymol 148:350–382"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ma L, Zhang D, Miao Q, Yang J, Xuan Y, Hu Y (2017) Essential role of sugar transporter OsSWEET11 during the early stage of rice grain filling. Plant Cell Physiol 58(5):863–873"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Moore B, Zhou L, Rolland F, Hall Q, Cheng WH, Liu YX, Hwang I, Jones T, Sheen J (2003) Role of the Arabidopsis glucose sensor HXK1 in nutrient, light, and hormonal signaling. Science 300(5617):332–336"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ni J, Li J, Zhu R, Zhang M, Qi K, Zhang S, Wu J (2020) Overexpression of sugar transporter gene PbSWEET4 of pear causes sugar reduce and early senescence in leaves. Gene 743:144582"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pommerrenig B, Papini-Terzi FS, Sauer N (2007) Diferential regulation of sorbitol and sucrose loading into the phloem of Plantago major in response to salt stress. Plant Physiol 144(2):1029–1038"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ren D, Xie W, Xu Q, Hu J, Zhu L, Zhang G, Zeng D, Qian Q (2022) LSL1 controls cell death and grain production by stabilizing chloroplast in rice. Sci China Life Sci 65(11):2148–2161"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Robinson MD, McCarthy DJ, Smyth GK (2010) edgeR: A bioconductor package for diferential expression analysis of digital gene expression data. Bioinformatics 26(1):139–140"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Scofield GN, Aoki N, Hirose T, Takano M, Jenkins CL, Furbank RT (2007) The role of the sucrose transporter, OsSUT1, in germination and early seedling growth and development of rice plants. J Exp Bot 58(3):483–495"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Seo PJ, Park JM, Kang SK, Kim SG, Park CM (2011) An Arabidopsis senescence-associated protein SAG29 regulates cell viability under high salinity. Planta 233(1):189–200"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sosso D, Luo D, Li QB, Sasse J, Yang J, Gendrot G, Suzuki M, Koch KE, McCarty DR, Chourey PS, Rogowsky PM, Ross-Ibarra J, Yang B, Frommer WB (2015) Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport. Nat Genet 47(12):1489–1493"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "van Doorn WG (2008) Is the onset of senescence in leaf cells of intact plants due to low or high sugar levels? J Exp Bot 59(8):1963–1972"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wang Y, Cui Y, Hu G, Wang X, Chen H, Shi Q, Xiang J, Zhang Y, Zhu D, Zhang Y (2018) Reduced bioactive gibberellin content in rice seeds under low temperature leads to decreased sugar consumption and low seed germination rates. Plant Physiol Biochem 133:1–10"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wang H, Yan S, Xin H, Huang W, Zhang H, Teng S, Yu YC, Fernie AR, Lu X, Li P, Li S, Zhang C, Ruan YL, Chen LQ, Lang Z (2019a) A subsidiary cell-localized glucose transporter promotes stomatal conductance and photosynthesis. Plant Cell 31(6):1328–1343"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wang S, Yokosho K, Guo R, Whelan J, Ruan YL, Ma JF, Shou H (2019b) The Soybean sugar transporter GmSWEET15 mediates sucrose export from endosperm to early embryo. Plant Physiol 180(4):2133–2141"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                101,
+                487,
+                139
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                39,
+                102,
+                50
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 14 of 15"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                39,
+                191,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                39,
+                915,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                929,
+                157,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wei Q, Yan Z, Xiong Y, Fang Z (2021) Altered expression of OsAAP3 influences rice lesion mimic and leaf senescence by regulating arginine transport and nitric oxide pathway. Int J Mol Sci 22(4):2181"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wen S, Neuhaus HE, Cheng J, Bie Z (2022) Contributions of sugar transporters to crop yield and fruit quality. J Exp Bot 73(8):2275–2289"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wu Y, Wang S, Du W, Ding Y, Li W, Chen Y, Zheng Z, Wang Y (2023) Sugar transporter ZmSWEET1b is responsible for assimilate allocation and salt stress response in maize. Funct Integr Genomics 23(2):137"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Xiong E, Dong G, Chen F, Zhang C, Li S, Zhang Y, Shohag JI, Yang X, Zhou Y, Qian Q, Wu L, Yu Y (2021) Formyl tetrahydrofolate deformylase afects hydrogen peroxide accumulation and leaf senescence by regulating the folate status and redox homeostasis in rice. Sci China Life Sci 64(5):720–738"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Xue X, Wang J, Shukla D, Cheung LS, Chen LQ (2022) When SWEETs turn tweens: updates and perspectives. Annu Rev Plant Biol 73:379–403"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Yang J, Luo D, Yang B, Frommer WB, Eom JS (2018) SWEET11 and 15 as key players in seed filling in rice. New Phytol 218(2):604–615"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Yao L, Ding C, Hao X, Zeng J, Yang Y, Wang X, Wang L (2020) CsS-WEET1a and CsSWEET17 mediate growth and freezing tolerance by promoting sugar transport across the plasma membrane. Plant Cell Physiol 61(9):1669–1682"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Yuan M, Zhao J, Huang R, Li X, Xiao J, Wang S (2014) Rice MtN3/ saliva/SWEET gene family: Evolution, expression profiling, and sugar transport. J Integr Plant Biol 56(6):559–570"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Zhang JW, Xu L, Wu YR, Chen XA, Liu Y, Zhu SH, Ding WN, Wu P, Yi KK (2012) OsGLU3, a putative membrane-bound endo-1,4-beta-glucanase, is required for root cell elongation and division in rice (Oryza sativa L.). Mol Plant 5(1):176–186"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Zhang Q, Shen L, Wang Z, Hu G, Ren D, Hu J, Zhu L, Gao Z, Zhang G, Guo L, Zeng D, Qian Q (2019) OsCAF1, a CRM domain containing protein, influences chloroplast development. Int J Mol Sci 20(18):4386"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Zhang Q, Wang Y, Xie W, Chen C, Ren D, Hu J, Zhu L, Zhang G, Gao Z, Guo L, Zeng D, Shen L, Qian Q (2021) OsMORF9 is necessary for chloroplast development and seedling survival in rice. Plant Sci 307:110907"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Zheng S, Lu J, Yu D, Li J, Zhou H, Jiang D, Liu Z, Zhuang C (2021) Hexokinase gene OsHXK1 positively regulates leaf senescence in rice. BMC Plant Biol 21(1):580"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Zhou Y, Liu L, Huang W, Yuan M, Zhou F, Li X, Lin Y (2014) Overexpression of OsSWEET5 in rice causes growth retardation and precocious senescence. PLoS ONE 9(4):e94210"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                69,
+                487,
+                118
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afiliations."
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                310,
+                915,
+                335
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law."
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                348,
+                917,
+                412
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plant Cell Reports (2024) 43:29"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                39,
+                253,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 15 of 15"
+                    }
+                ]
+            },
+            "bbox": [
+                806,
+                39,
+                885,
+                51
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                895,
+                39,
+                915,
+                50
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer"
+                    }
+                ]
+            },
+            "bbox": [
+                840,
+                930,
+                915,
+                946
+            ]
+        }
+    ]
+]

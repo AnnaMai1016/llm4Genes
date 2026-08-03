@@ -1,0 +1,6 @@
+pydantic
+openai
+rapidfuzz
+tiktoken
+numpy
+ipython

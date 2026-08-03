@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "title": "Investigation of SWEET family sugar transporter genes and their role in arbuscular mycorrhiza",
+    "organism": [
+      "Medicago lupulina",
+      "Rhizophagus irregularis"
+    ]
+  },
+  "entities": [
+    {
+      "local_id": "gene_1",
+      "name": "MlSWEET1a",
+      "type": "Gene",
+      "organism": "Medicago lupulina",
+      "synonyms": [],
+      "expression_location": [
+        "leaves"
+      ],
+      "description": "Candidate gene for specific expression in the leaves of the mycorrhized host plant.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_2",
+      "name": "MlSWEET1b",
+      "type": "Gene",
+      "organism": "Medicago lupulina",
+      "synonyms": [],
+      "expression_location": [
+        "leaves"
+      ],
+      "description": "Candidate gene for specific expression in the leaves of the mycorrhized host plant.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_3",
+      "name": "MlSWEET2c",
+      "type": "Gene",
+      "organism": "Medicago lupulina",
+      "synonyms": [],
+      "expression_location": [
+        "roots"
+      ],
+      "description": "Candidate gene for specific expression in the roots.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_1",
+      "name": "increased productivity of aboveground biomass",
+      "type": "Phenotype_Trait",
+      "organism": "Medicago lupulina",
+      "synonyms": [],
+      "description": "Inoculation with AMF increased the productivity of aboveground biomass.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_2",
+      "name": "accelerated plant development",
+      "type": "Phenotype_Trait",
+      "organism": "Medicago lupulina",
+      "synonyms": [],
+      "description": "Inoculation with the AMF accelerated plant development under low phosphorus level.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_3",
+      "name": "lower roots/shoots ratio",
+      "type": "Phenotype_Trait",
+      "organism": "Medicago lupulina",
+      "synonyms": [],
+      "description": "The roots/shoots ratio of mycorrhized plants was lower than in plants without mycorrhiza.",
+      "extraction_FLAG": true
+    }
+  ],
+  "relations": [
+    {
+      "subject_id": "gene_1",
+      "object_id": "phenotype_1",
+      "relation_type": "associated_with",
+      "mechanism": "Gene expression analysis suggests MlSWEET1a is a candidate gene for specific expression in the leaves of the mycorrhized host plant; inoculation increased aboveground biomass productivity.",
+      "growth_stage": [
+        "Vegetative_Growth",
+        "Reproductive_Stage",
+        "Unclear"
+      ],
+      "growth_stage_detail": "during plant development up to the inflorescence phase",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "Gene expression analysis suggests that genes MlSWEET1a ... are candidates for specific expression in the leaves of the mycorrhized host plant; An inoculation of M. lupulina with the AMF increased the productivity of aboveground biomass and accelerated plant development.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_2",
+      "object_id": "phenotype_1",
+      "relation_type": "associated_with",
+      "mechanism": "Gene expression analysis suggests MlSWEET1b is a candidate gene for specific expression in the leaves of the mycorrhized host plant; inoculation increased aboveground biomass productivity.",
+      "growth_stage": [
+        "Vegetative_Growth",
+        "Reproductive_Stage",
+        "Unclear"
+      ],
+      "growth_stage_detail": "during plant development up to the inflorescence phase",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "Gene expression analysis suggests that genes MlSWEET1a and MlSWEET1b are candidates for specific expression in the leaves of the mycorrhized host plant; An inoculation of M. lupulina with the AMF increased the productivity of aboveground biomass and accelerated plant development.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_3",
+      "object_id": "phenotype_3",
+      "relation_type": "associated_with",
+      "mechanism": "Gene expression analysis suggests MlSWEET2c is a candidate gene for specific expression in the roots; mycorrhized plants had a lower roots/shoots ratio than plants without mycorrhiza.",
+      "growth_stage": [
+        "Vegetative_Growth",
+        "Reproductive_Stage",
+        "Unclear"
+      ],
+      "growth_stage_detail": "during plant development up to the inflorescence phase",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "negative",
+      "evidence": "Gene expression analysis suggests that MlSWEET1a and MlSWEET2c are candidate genes for specific expression in the roots. The roots/shoots ratio of M. lupulina was lower in mycorrhized plants than in plants without mycorrhiza.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_1",
+      "object_id": "phenotype_2",
+      "relation_type": "associated_with",
+      "mechanism": "Gene expression analysis suggests MlSWEET1a is a candidate gene for specific expression in the leaves of the mycorrhized host plant; inoculation with AMF accelerated plant development.",
+      "growth_stage": [
+        "Vegetative_Growth",
+        "Reproductive_Stage",
+        "Unclear"
+      ],
+      "growth_stage_detail": "during plant development up to the inflorescence phase",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "Gene expression analysis suggests that genes MlSWEET1a and MlSWEET1b are candidates for specific expression in the leaves of the mycorrhized host plant ... An inoculation of M. lupulina with the AMF increased the productivity of aboveground biomass and accelerated plant development under low phosphorus level.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_2",
+      "object_id": "phenotype_2",
+      "relation_type": "associated_with",
+      "mechanism": "Gene expression analysis suggests MlSWEET1b is a candidate gene for specific expression in the leaves of the mycorrhized host plant; inoculation with AMF accelerated plant development.",
+      "growth_stage": [
+        "Vegetative_Growth",
+        "Reproductive_Stage",
+        "Unclear"
+      ],
+      "growth_stage_detail": "during plant development up to the inflorescence phase",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "Gene expression analysis suggests that genes MlSWEET1a and MlSWEET1b are candidates for specific expression in the leaves of the mycorrhized host plant ... An inoculation of M. lupulina with the AMF increased the productivity of aboveground biomass and accelerated plant development under low phosphorus level.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_3",
+      "object_id": "phenotype_2",
+      "relation_type": "associated_with",
+      "mechanism": "Gene expression analysis suggests MlSWEET2c is a candidate gene for specific expression in the roots; inoculation with AMF accelerated plant development.",
+      "growth_stage": [
+        "Vegetative_Growth",
+        "Reproductive_Stage",
+        "Unclear"
+      ],
+      "growth_stage_detail": "during plant development up to the inflorescence phase",
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "Gene expression analysis suggests that MlSWEET1a and MlSWEET2c are candidate genes for specific expression in the roots. An inoculation of M. lupulina with the AMF increased the productivity of aboveground biomass and accelerated plant development under low phosphorus level.",
+      "extraction_FLAG": true
+    }
+  ]
+}

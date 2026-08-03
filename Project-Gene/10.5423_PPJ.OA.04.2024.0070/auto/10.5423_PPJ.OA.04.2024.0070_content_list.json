@@ -1,0 +1,1324 @@
+[
+    {
+        "type": "text",
+        "text": "Research Article Open Access",
+        "bbox": [
+            93,
+            105,
+            311,
+            122
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Development and Validation of an SNP Marker for Identifying Xanthomonas oryzae pv. oryzae Thai Isolates That Break xa5-Mediated Bacterial Blight Resistance in Rice",
+        "text_level": 1,
+        "bbox": [
+            87,
+            151,
+            886,
+            219
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tebogo Balone<sup>1</sup>, Ananda Nuryadi Pratama<sup>2</sup>, Werapat Chansongkram<sup>2</sup>, Thanita Boonsrangsom<sup>1,2</sup>, Kawee Sujipuli<sup>1,2</sup>, and Kumrop Ratanasut<sup>1,2</sup>\\*",
+        "bbox": [
+            87,
+            240,
+            822,
+            276
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "<sup>1</sup>Department of Agricultural Science, Faculty of Agriculture Natural Resources and Environment, Naresuan University, Phitsanulok 65000, Thailand",
+        "bbox": [
+            88,
+            278,
+            909,
+            310
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "<sup>2</sup>Center of Excellence in Research for Agricultural Biotechnology, Naresuan University, Phitsanulok 65000, Thailand",
+        "bbox": [
+            87,
+            310,
+            891,
+            327
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Received on April 30, 2024; Revised on July 12, 2024; Accepted on August 12, 2024)",
+        "bbox": [
+            87,
+            334,
+            689,
+            351
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xanthomonas oryzae pv. oryzae (Xoo) is a pathogenic bacterium responsible for bacterial blight (BB) disease in rice, primarily mediated by the interaction between the plant and pathogen. The virulence mechanism involves the activation of the Sugars Will Eventually be Exported Transporter (SWEET) gene family in rice by transcription activator-like efectors derived from Xoo. The BB resistance gene xa5 has been identified as one of the most effective genes against Thai Xoo isolates, but xa5-mediated resistance-breaking Xoo strains have emerged. This study aimed to develop a single nucleotide polymorphism (SNP) marker for precise identification of xa5-mediated resistance-breaking Xoo. Comparative genomics of Thai Xoo isolates Xoo16PK001 and Xoo16PK002, which were incompatible and compatible with rice variety IRBB5 carrying xa5, respectively, identified eight SNP positions for the development of an SNP marker. The SNP marker XooE6 yields a specific 1,143 bp PCR product unique to Xoo16PK002. Screening 61 Thai isolates using XooE6 identified two positives: Xoo20PL010 and Xoo20UT002. Inoculation tests on rice varieties IRBB5 and IRBB13 demon-",
+        "bbox": [
+            87,
+            383,
+            487,
+            745
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "strated compatibility with IRBB5 and incompatibility with IRBB13, which bears Xa5 and xa13. Xoo16PK001 (XooE6-negative) showed diferent virulence. Inoculation on IRBB21 harboring Xa5, Xa13, and Xa21 resulted in partial resistance to both XooE6-positive and -negative strains. XooE6-positive strains up-regulated SWEET11 and suppressed SWEET14 in IRBB5, while Xoo16PK001 slightly induced SWEET11 but activated SWEET14 in IRBB13. This highlights the potential of XooE6 to identify xa5-mediated resistance-breaking Xoo strains and elucidate their pathogenic mechanisms through the upregulation ofSWEET11.",
+        "bbox": [
+            509,
+            382,
+            911,
+            581
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords : IRBB5, SWEET11, SWEET14, whole-genome sequencing, Xoo",
+        "bbox": [
+            510,
+            592,
+            909,
+            627
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The virulence of Xanthomonas oryzae pv. oryzae (Xoo) depends on the mechanism of plant-pathogen interaction, primarily revolving around the recognition between specific effector binding elements (EBEs) in the promoters of the Sugars Will Eventually be Exported Transporter (SWEET) gene family in rice and transcription activator-like effectors (TALEs) from Xoo. TALEs, integral components of the type III secretion systems, have been identified and characterized as either direct or indirect activators of SWEETs, which act as susceptibility genes in rice. TALEs possess the capability to bind specifically to the EBE sites on the promoters of SWEETs (Oliva et al., 2019). Moreover, certain TALEs also bind to transcription factor (TF) subunits, such as TFIIAγ1 or TFIIAγ5, to form a transcription complex. This complex subsequently interacts with the EBE of SWEET (White et al., 2009), ultimately precipitating bacterial blight (BB) disease in rice.",
+        "bbox": [
+            509,
+            662,
+            912,
+            928
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Check for updates",
+        "bbox": [
+            88,
+            11,
+            141,
+            51
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Plant Pathol. J. 40(5) : 451-462 (2024) https://doi.org/10.5423/PPJ.OA.04.2024.0070 eISSN 2093-9280",
+        "bbox": [
+            88,
+            56,
+            366,
+            98
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "The Plant Pathology Journal ©The Korean Society of Plant Pathology",
+        "bbox": [
+            651,
+            65,
+            908,
+            107
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*Corresponding author. Phone) +66-850645084, FAX) +66-55962709 E-mail) kumropr@nu.ac.th",
+        "bbox": [
+            88,
+            769,
+            372,
+            813
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "Handling Editor : Young-Su Seo",
+        "bbox": [
+            88,
+            817,
+            275,
+            832
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http:// creativecommons.org/licenses/by-nc/4.0) which permits unrestricted noncommercial use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+        "bbox": [
+            87,
+            836,
+            486,
+            900
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Articles can be freely viewed online at www.ppjonline.org.",
+        "bbox": [
+            87,
+            907,
+            418,
+            924
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            87,
+            104,
+            295,
+            121
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Comparative analysis of the central repeat region in various TALE proteins, consisting of 33-35 amino acids, has revealed that two consecutive variable diresidues at the 12th and 13th positions specifically correspond to binding with a 28-bp DNA sequence in the EBEs located on the SWEET promoter (Erkes et al., 2017). Upregulation of SWEET genes, which encode sucrose or fructose transporters, has the potential to increase the abundance of apoplastic sugar, thereby facilitating the proliferation of pathogenic Xoo and contributing to the development of symptomatic BB (Garcia-Ruiz et al., 2021). Recent studies have reported that only six known TALEs of Xoo target three major rice SWEET genes (SWEET11, SWEET13, and SWEET14) out of more than 20 SWEET genes in nature, leading to a strong virulence effect in causing BB symptoms (Oliva et al., 2019).",
+        "bbox": [
+            85,
+            122,
+            487,
+            383
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The SWEET genes in rice are targeted by a variety of TALEs from different Xoo strains. The initial discovery of an interaction between an EBE and a TALE revealed that the EBE on the SWEET11 promoter binds to PthXo1, a TALE found in several Xoo strains such as PXO99A and PXO71 (Chen et al., 2010). This interaction between the EBE and PthXo1 leads to the induction of SWEET11 expression, characteristic of the susceptible dominance Xa13 allele. However, mutation of the EBE in the SWEET11 promoter eliminates the specific sequence required for PthXo1 binding, converting the susceptible dominance Xa13 allele to the resistant recessive xa13 allele (Zhou et al., 2015). Consequently, the reduced expression of xa13 confers BB resistance against PthXo1-carrying Xoo strains. Moreover, the expression of SWEET13 is induced by Xoo strains carrying PthXo2, whereas the activation of SWEET14 is mediated by AvrXa7, PthXo3, TalC, and TalF (Doucouré et al., 2018). These findings underscore the role of TALEs as virulence factors in the context of BB disease in rice. Each TALE performs a specific function by binding to its target EBE on the SWEET promoter, thereby triggering gene expression in rice. Additionally, TALE proteins are hypothesized to interact with the products of resistance (R) genes such as xa5 (Huang et al., 2016). The xa5 resistant recessive allele in rice encodes a TF subunit TFIIAγ5, which disrupts the interaction with TALEs, consequently diminishing their ability to activate SWEET alleles (Huang et al., 2016).",
+        "bbox": [
+            85,
+            383,
+            487,
+            843
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phylogenomic analysis has revealed high polymorphisms among TALE genes across various Xoo strains isolated from different geographical regions. This Xoo evolution impacts the virulence dynamics of BB disease against rice cultivars, depending on the specific interaction between the Xoo strain and the rice variety (Song et al., 2023). In Thailand, the Xoo strain SK2-3 (referred to as a xa5-mediated BB resistance breaking strain) was initially isolated from Sukhothai province and comprises 15 TALEs. While the Tal7 (ortholog of PthXo7) in the Xoo strain SK2-3 reduces TF accumulation in rice variety IRBB5 (xa5/xa5) by interacting with TFs (TFIIAγ1 and TFIIAγ5), another TALE, such as the Tal1c effector in the Xoo strain SK2-3, strongly activates SWEET11 despite the dampening effect of IRBB5 (Carpenter et al., 2020). These findings suggest that Xoo strain SK2-3 may overcome the xa5 gene through the Tal1c effector, which strongly induces the expression of SWEET11, leading to virulent BB symptoms in IRBB5.",
+        "bbox": [
+            87,
+            843,
+            487,
+            910
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            104,
+            911,
+            351
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our preliminary study on virulence of various pathogenic Xoo isolates, collected from the Lower Northern Thailand, revealed two groups of Xoo pathogenicities: IRBB5- and IRBB13-compatible Xoo. All Xoo isolates were selectively either IRBB13- or IRBB5-compatible; thus, no collected Xoo isolates caused BB virulence on both IRBB13 and IRBB5, which carry BB resistance genes xa13 and xa5, respectively. A few of the collected Xoo isolates are IRBB5-compatible Xoo, whereas the rest of the isolates are IRBB13-compatible Xoo. The xa5 gene has been reported to be the most effective BB resistance gene against most Thai Xoo strains and has been used for improving BB resistance in Thai rice (Wongkhamchan et al., 2018). However, the appearance of IRBB5-compatible Xoo strains indicates that these Xoo strains can overcome xa5-mediated resistance and may pose a risk for outbreaks of these Xoo strains in the future, particularly considering the effects of global warming. Identifying Xoo strains in each ricegrowing region contributes to managing the proper strategy to control the outbreak of specific Xoo strains.",
+        "bbox": [
+            509,
+            351,
+            911,
+            679
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, we aimed to develop and validate a single nucleotide polymorphism (SNP) molecular marker for identifying IRBB5-compatible Xoo strains. Additionally, we determined the responses of SWEET11 and SWEET14 to IRBB5- and IRBB13-compatible Xoo in rice varieties IRBB5, IRBB13, and IRBB21, which carry BB resistance genes xa5, xa13, and Xa21, respectively. These findings could provide a novel SNP marker for categorizing Xoo strains that break xa5-mediated resistance in rice for the first time. Such implications are important for developing effective strategies for managing BB disease in rice production systems and could aid in further improving BB resistance in rice cultivars.",
+        "bbox": [
+            509,
+            679,
+            912,
+            894
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "452",
+        "bbox": [
+            88,
+            69,
+            116,
+            81
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Balone et al.",
+        "bbox": [
+            461,
+            69,
+            535,
+            83
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and Methods",
+        "text_level": 2,
+        "bbox": [
+            87,
+            124,
+            275,
+            142
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Xoo isolates and DNA extraction. Sixty-three Xoo isolates, collected and isolated from rice paddy fields in the Lower Northern Thailand (Table 1) along with a reference Xoo strain SK2-3 provided by Dr. Sujin Patarapuwadol’s Lab at Kasetsart University, Kamphaeng Saen campus, Nakorn Pathom, Thailand, were utilized in this study. Single colonies of each isolate were cultured on nutrient agar (NA) medium (0.5% peptone, 0.3% yeast extract/beef extract, 0.5% NaCl, and 0.5% agar) at $3 7 ^ { \\circ } \\mathrm { C }$ for 3-4 days. Subsequently, they were streaked on fresh NA plates and cultured under the mentioned condition for 1-2 days. Genomic DNA extraction from each Xoo culture was carried out using the genomic DNA extraction kit (PureDirex, Taipei, Taiwan) following the manufacturer’s protocol. The extracted DNA was quantified and assessed for quality using a NanoDrop spectrophotometer (NanoDrop Technologies, Wilmington, DE, USA). The integrity of the DNA was verified through a 1.0% agarose gel electrophoresis assay.",
+        "bbox": [
+            85,
+            156,
+            489,
+            306
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            104,
+            911,
+            254
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Comparative genome analysis and SNP primer design. Each of IRBB5- and IRBB13-compatible Xoo isolates, named Xoo16PK002 and Xoo16PK001, respectively, was selected for whole-genome sequencing using the Illumina HiSeq-PE150 platform (Novogene Bioinformatics Technology Co., Beijing, China). Primer designs to classify both Xoo isolates were carried out using bioinformatic software as shown in Fig. 1. Briefly, the DNA sequence reads from both Xoo isolates were mapped and aligned to the reference genome of Xoo strain SK2-3 (Carpenter et al., 2020). Unique SNPs among Xoo isolates were generated and identified using the Snippy program in Galaxy software.",
+        "bbox": [
+            509,
+            268,
+            911,
+            302
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5202e2b3da7a67db04c16c9c4e8bb4e21e829e5080934711238cf7ef137cf985.jpg",
+        "table_caption": [
+            "Table 1. List of Xanthomonas oryzae pv. oryzae isolates collected from Lower Northern Thailand, and the preliminary test of Xoo compatibilities on rice varieties IRBB5 and IRBB13"
+        ],
+        "table_footnote": [
+            "Abbreviations of sample collecting sources (provinces in Thailand) were designated as follows: PL, Phitsanulok; PC, Phichit; SK, Sukhothai; KP, Kamphaeng Phet; NW, Nakhon Sawan; UN, Uthai Thani; UT, Uttaradit; PB, Phetchabun. Xoo, Xanthomonas oryzae pv. oryzae; N/A, not assessed."
+        ],
+        "table_body": "<table><tr><td rowspan=\"2\">No.</td><td rowspan=\"2\">Bacterial isolates</td><td rowspan=\"2\">Source</td><td rowspan=\"2\">IRBB5/ IRBB13 compatibility</td><td rowspan=\"2\">No.</td><td rowspan=\"2\">Bacterial isolates</td><td rowspan=\"2\">Source</td><td rowspan=\"2\">IRBB5/ IRBB13 compatibility</td></tr><tr><td></td></tr><tr><td>1</td><td>Xoo16PK001</td><td>PL</td><td>IRBB13</td><td>33</td><td>Xoo19SK001</td><td>SK</td><td>IRBB13</td></tr><tr><td>2</td><td>Xoo16PK002</td><td>PL</td><td>IRBB5</td><td>34</td><td>Xoo19SK002</td><td>SK</td><td>IRBB13</td></tr><tr><td>3</td><td>Xoo16PK003</td><td>PL</td><td>IRBB13</td><td>35</td><td>Xoo19SK003</td><td>SK</td><td>IRBB13</td></tr><tr><td>4</td><td>Xoo19PL001</td><td>PL</td><td>IRBB13</td><td>36</td><td>Xoo19KP001</td><td>KP</td><td>IRBB13</td></tr><tr><td>5</td><td>Xoo19PL002</td><td>PL</td><td>IRBB13</td><td>37</td><td>Xoo19KP002</td><td>KP</td><td>IRBB13</td></tr><tr><td>6</td><td>Xoo19PL003</td><td>PL</td><td>IRBB13</td><td>38</td><td>Xoo19KP003</td><td>KP</td><td>IRBB13</td></tr><tr><td>7</td><td>Xoo19PL004</td><td>PL</td><td>IRBB13</td><td>39</td><td>Xoo19KP004</td><td>KP</td><td>IRBB13</td></tr><tr><td>8</td><td>Xoo19PL005</td><td>PL</td><td>IRBB13</td><td>40</td><td>Xoo20KP005</td><td>KP</td><td>IRBB13</td></tr><tr><td>9</td><td>Xoo19PL006</td><td>PL</td><td>IRBB13</td><td>41</td><td>Xoo20KP006</td><td>KP</td><td>IRBB13</td></tr><tr><td>10</td><td>Xoo19PL007</td><td>PL</td><td>IRBB13</td><td>42</td><td>Xoo19NW001</td><td>NW</td><td>IRBB13</td></tr><tr><td>11</td><td>Xoo19PL008</td><td>PL</td><td>IRBB13</td><td>43</td><td>Xoo20NW002</td><td>NW</td><td>IRBB13</td></tr><tr><td>12</td><td>Xoo19PL009</td><td>PL</td><td>IRBB13</td><td>44</td><td>Xoo20NW003</td><td>NW</td><td>N/A</td></tr><tr><td>13</td><td>Xoo19PL010</td><td>PL</td><td>IRBB5</td><td>45</td><td>Xoo20NW004</td><td>NW</td><td>IRBB13</td></tr><tr><td>14</td><td>Xoo19PL011</td><td>PL</td><td>IRBB13</td><td>46</td><td>Xoo20NW005</td><td>NW</td><td>N/A</td></tr><tr><td>15</td><td>Xoo19PL012</td><td>PL</td><td>N/A</td><td>47</td><td>Xoo20NW006</td><td>NW</td><td>N/A</td></tr><tr><td>16</td><td>Xoo19PL013</td><td>PL</td><td>IRBB13</td><td>48</td><td>Xoo20UN001</td><td>UN</td><td>IRBB13</td></tr><tr><td>17</td><td>Xoo16PT001.1</td><td>PC</td><td>N/A</td><td>49</td><td>Xoo20UN002</td><td>UN</td><td>N/A</td></tr><tr><td>18</td><td>Xoo16PT001.2</td><td>PC</td><td>N/A</td><td>50</td><td>Xoo20UN003</td><td>UN</td><td>N/A</td></tr><tr><td>19</td><td>Xoo16PT002</td><td>PC</td><td>IRBB13</td><td>51</td><td>Xoo20UN004</td><td>UN</td><td>IRBB13</td></tr><tr><td>20</td><td>Xoo16PT003.1</td><td>PC</td><td>N/A</td><td>52</td><td>Xoo19UT001</td><td>UT</td><td>IRBB13</td></tr><tr><td>21</td><td>Xoo16PT003.2</td><td>PC</td><td>N/A</td><td>53</td><td>Xoo20UT002</td><td>UT</td><td>IRBB5</td></tr><tr><td>22</td><td>Xoo16PT004</td><td>PC</td><td>IRBB13</td><td>54</td><td>Xoo20UT003</td><td>UT</td><td>N/A</td></tr><tr><td>23</td><td>Xoo16PT005</td><td>PC</td><td>IRBB13</td><td>55</td><td>Xoo20UT004</td><td>UT</td><td>IRBB13</td></tr><tr><td>24</td><td>Xoo19PC001</td><td>PC</td><td>IRBB13</td><td>56</td><td>Xoo20UT005</td><td>UT</td><td>IRBB13</td></tr><tr><td>25</td><td>Xoo19PC002</td><td>PC</td><td>IRBB13</td><td>57</td><td>Xoo20UT006</td><td>UT</td><td>IRBB13</td></tr><tr><td>26</td><td>Xoo19PC003</td><td>PC</td><td>IRBB13</td><td>58</td><td>Xoo20UT007</td><td>UT</td><td>N/A</td></tr><tr><td>27</td><td>Xoo19PC004</td><td>PC</td><td>IRBB13</td><td>59</td><td>Xoo20UT008</td><td>UT</td><td>N/A</td></tr><tr><td>28</td><td>Xoo19PC005</td><td>PC</td><td>IRBB13</td><td>60</td><td>Xoo20UT009</td><td>UT</td><td>N/A</td></tr><tr><td>29</td><td>Xoo19PC006</td><td>PC</td><td>IRBB13</td><td>61</td><td>Xoo20UT010</td><td>UT</td><td>N/A</td></tr><tr><td>30</td><td>Xoo19PC007</td><td>PC</td><td>N/A</td><td>62</td><td>Xoo20UT011</td><td>UT</td><td>N/A</td></tr><tr><td>31</td><td>Xoo19PC008</td><td>PC</td><td>N/A</td><td>63</td><td>Xoo19PB001</td><td>PB</td><td>N/A</td></tr><tr><td>32</td><td>Strain SK2-3</td><td>SK</td><td>IRBB5</td><td>64</td><td>Xoo22PRRC</td><td>PL</td><td>N/A</td></tr></table>",
+        "bbox": [
+            88,
+            355,
+            908,
+            876
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "SNP Marker for xa5-Breaking Xoo",
+        "bbox": [
+            395,
+            68,
+            602,
+            84
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "453",
+        "bbox": [
+            881,
+            69,
+            909,
+            83
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            85,
+            104,
+            487,
+            272
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bfdce01e4fe0feb1780949a4ae1886a1aff93d8f9e07d34f4e7746b24eec262.jpg",
+        "image_caption": [
+            "Fig. 1. Computational pipeline used for single nucleotide polymorphism (SNP) analysis and Xoo16PK002 SNP marker design from whole-genome sequencing data. Xoo, Xanthomonas oryzae pv. oryzae."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            108,
+            296,
+            459,
+            854
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The unique SNPs, along with the sequences around each SNP, were detected and visualized using the JBrowse Snip Viewer software (https://jbrowse.org/jb2/), and then aligned using BLASTN and alignment software in NCBI. Primers were designed from the unique Xoo16PK002 SNPs using SnapGene 7.0 software (https://www.snapgene.com/). At each SNP site, SNP-forward and SNP-reverse primers were designed using the criterion that an SNP marker contained the 1st original-nucleotide mismatch at the 3′ end of its primer. Lastly, the designed forward and reverse primer sequences were validated for potential primer-dimer and intramolecular hairpin formation using Oligo Analyzer primer design tool provided by Integrated DNA Technologies (IDT) (https://www.idtdna.com/pages/tools/oligoanalyzer). The oligonucleotide primers were synthesized by Macrogen Laboratories, Inc. (Seoul, Korea).",
+        "bbox": [
+            509,
+            104,
+            912,
+            369
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PCR optimization and validation of the SNP primers. Two designed primer set were validated for specific detection of the Xoo16PK002 isolate, compared to Xoo16PK001, and the SK2-3 strain using PCR assay (Bio-Helix, New Taipei, Taiwan). The PCR conditions were as follows: initial denaturation at $9 4 ^ { \\circ } \\mathrm { C }$ for 5 min, followed by 35 cycles of denaturation at 94°C for $3 0 \\ \\mathrm { s } ,$ annealing at various temperatures (either 55°C, 57°C, 59°C, 61°C, 63°C or $6 5 ^ { \\circ } \\mathrm { C } )$ for 30 s, extension at $7 2 ^ { \\circ } \\mathrm { C }$ for 1 min, and a final extension at 72°C for 5 min.",
+        "bbox": [
+            509,
+            383,
+            911,
+            548
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The PCR products corresponding to expected sizes of 1,143 and 386 bp were purified using the PCR Clean-Up and gel Extraction Kit (Bio-Helix) following the manufacturer’s protocol. Subsequently, they were subjected to sequencing to compare the sample sequences with the progenitor genome Xoo16PK002.",
+        "bbox": [
+            510,
+            547,
+            912,
+            648
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Artificial Xoo inoculation in rice. The resistance rice varieties IRBB5, IRBB13, and IRBB21, carrying xa5, xa13, and Xa21, respectively, were individually grown in pots with three seedlings per pot. They were cultured for 40 days under natural light and temperature conditions in the greenhouse at Naresuan University, Phitsanulok, Thailand. The Xoo inoculum was prepared by suspending bacterial colonies in sterilized distilled water and adjusting the dilution to an $\\mathrm { O D } _ { 6 0 0 }$ of approximately 0.2 (cell density of $2 . 5 \\times 1 0 ^ { 8 }$ cfu/ml). The inoculum was then applied to leaves of 40-day-old experimental plants using the leaf-clipping method. Each Xoo isolate was artificially inoculated onto six leaves of each plant of all the cultivars planted. Three biological replicates of each cultivar were carried out. The negative control for rice leaf was clipped with sterilized distilled water. At 7, 14, and 21 days after Xoo inoculation (DAI), the symptomatic response to BB disease was evaluated and photographed by measuring the lesion lengths of 9 leaves per rice cultivar. The lesions were then scored according to the International Rice Research Institute Standard Evaluation System for greenhouse (http://www. knowledgebank.irri.org/images/docs/rice-standard-evaluation-system.pdf). The scoring criteria were as follows: resistance (R, lesion length 0-5 cm), moderate resistance (MR, lesion length > 5-10 cm), moderate susceptibility (MS, lesion length > 10-15 cm), susceptibility (S, lesion length > 15-20 cm), and high susceptibility (HS, lesion length > 20).",
+        "bbox": [
+            509,
+            660,
+            912,
+            926
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "454",
+        "bbox": [
+            88,
+            69,
+            116,
+            83
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Balone et al.",
+        "bbox": [
+            461,
+            69,
+            536,
+            83
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            85,
+            104,
+            487,
+            287
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Expression analysis of SWEET genes. The inoculated leaf region approximately 5 cm in size was harvested at specific time points of 0 (immediately collected after clipping) and 7 DAI. Total RNA was extracted using the FavorPrep Plant Total RNA Mini kit (Favorgen, Ping Tung, Taiwan)",
+        "bbox": [
+            85,
+            301,
+            489,
+            385
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "following the manufacturer’s recommendations. Genomic DNA contamination in the total RNA samples was further eliminated with RNase-Free DNaseI treatment (Promega, Madison, WI, USA). For real-time reverse transcriptase (RT)-qPCR, the first-strand cDNA was synthesized from 50 ng of total RNA using the first-strand cDNA synthesis kit (Thermo Fisher Scientific Inc., Waltham, MA, USA), following the manufacturer’s instructions. The RT-qPCR conditions were as follows: initial denaturation at $9 5 \\mathrm { { ^ \\circ C } }$ for 12 min, followed by 40 cycles $( 9 5 ^ { \\circ } \\mathrm { C }$ for $1 5 \\mathrm { ~ s } , 6 0 ^ { \\circ } \\mathrm { C }$ for 30 s, and 72°C for 30 s) in the Eco48 Real-Time PCR system (Eco 48, PCRmax Limited, Cheshire, UK). Primers used for detecting SWEET11, SWEET14, and a reference gene, endothelial differentiation factor (Edf  ), are listed in Table 2. The Ct value was extracted for both the reference gene and target gene and used to calculate the fold change of gene expression using the $2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ method (Livak and Schmittgen,",
+        "bbox": [
+            509,
+            104,
+            911,
+            385
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/930af9d9be189dd8899f83ebfed30e8bc6eea6fb82516e79d8c03c9dd598fdd2.jpg",
+        "table_caption": [
+            "Table 2. A list of primers utilized for the quantitative expression analysis of SWEET11 and SWEET14 in response to the tested Xoo isolates"
+        ],
+        "table_footnote": [
+            "Xoo, Xanthomonas oryzae pv. oryzae."
+        ],
+        "table_body": "<table><tr><td>Gene</td><td>Primer name</td><td>Primer sequence (5′→3′’)</td><td>Amplicon size (bp)</td><td>Reference</td></tr><tr><td rowspan=\"2\">SWEET11</td><td>SWEET11-F</td><td>GTCAAGTTCCTCGGCAGCG</td><td rowspan=\"2\">156</td><td rowspan=\"2\">Verdier et al. (2012)</td></tr><tr><td>SWEET11-R</td><td>GCAGAACCACGCGACGGC</td></tr><tr><td rowspan=\"2\">SWEET14</td><td>SWEET14-F</td><td>GGCGACCGCCGCATCGTGGTT</td><td rowspan=\"2\">216</td><td rowspan=\"2\">Verdier et al. (2012)</td></tr><tr><td>SWEET14-R</td><td>GCCCAGCACGTTGGGAAGAGCG</td></tr><tr><td rowspan=\"2\">Edf</td><td>Edf-F</td><td>TCCGAACCAGCAGATCATCG</td><td rowspan=\"2\">226</td><td rowspan=\"2\">Sagun et al. (2020)</td></tr><tr><td>Edf-R</td><td>GCATGGTATCAAAAGACCCAGC</td></tr></table>",
+        "bbox": [
+            88,
+            442,
+            906,
+            569
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7a63b0ba0932cdf707a32fca63f403eb2dbf6ec041416fa2a15bcb311c6788e.jpg",
+        "table_caption": [
+            "Table 3. SNP-designed primers and their target loci in the Xoo16PK002 genome"
+        ],
+        "table_footnote": [
+            "SNPs are denoted by bold letters at the 3′ ends of primers.",
+            "SNP, single nucleotide polymorphism; Xoo, Xanthomonas oryzae pv. oryzae."
+        ],
+        "table_body": "<table><tr><td>SNP marker name</td><td>Primer set</td><td>Primer Sequence (5′-3′)</td><td>SNP loci</td><td>SNP location</td></tr><tr><td rowspan=\"2\">XooE1</td><td>XooE-F1</td><td>GTGACTCTTTGCGGGCTTT</td><td>T/G</td><td>392,999</td></tr><tr><td>XooE-R1</td><td>CAGATCAGGTCATCGGTG</td><td>C/T</td><td>394,201</td></tr><tr><td rowspan=\"2\">XooE2</td><td>XooE-F2</td><td>GACGGCTGAATGACCCC</td><td>C/T</td><td>1,831,983</td></tr><tr><td>XooE-R2</td><td>GTACTTGCTTGAAGGCTGG</td><td>C/T</td><td>1,832,226</td></tr><tr><td rowspan=\"2\">XooE3</td><td>XooE-F3</td><td>AAGGGTATAAGGATCTGTAC GCAAT-</td><td>C/T</td><td>1,832,206</td></tr><tr><td>XooE-R3</td><td>GCGGCTCCCTCC</td><td>G/T</td><td>1,832,552</td></tr><tr><td rowspan=\"2\">XooE4</td><td>XooE-F4</td><td>ACTCAGGATGGTGTTGGC</td><td></td><td></td></tr><tr><td>XooE-R1</td><td>CAGATCAGGTCATCGGTG</td><td>C/T</td><td>394,201</td></tr><tr><td rowspan=\"2\">XooE5</td><td>XooE-F1</td><td>GTGACTCTTTGCGGGCTTT</td><td>T/G</td><td>392,999</td></tr><tr><td>XooE-R4</td><td>GTCGCCATCGCCACCTT</td><td></td><td></td></tr><tr><td rowspan=\"2\">XooE6</td><td>XooE-F5</td><td>ACCGCCTACAACGACTAC</td><td>C/T</td><td>1,928,910</td></tr><tr><td>XooE-R5</td><td>TCAGTTCCAGGTTCACTTCA</td><td>T/G</td><td>1,930,016</td></tr><tr><td rowspan=\"2\">XooE7</td><td>XooE-F5</td><td>ACCGCCTACAACGACTAC</td><td>C/T</td><td>1,928,910</td></tr><tr><td>XooE-R6</td><td>GAAATACCATTCCAGCCCCA</td><td>-</td><td></td></tr><tr><td rowspan=\"2\">XooE8</td><td>XooE-F6</td><td>ACCTCACCGTGTTCTACGAG</td><td></td><td></td></tr><tr><td>XooE-R5</td><td>TCAGTTCCAGGTTCACTTCA</td><td>T/G</td><td>1,930,016</td></tr></table>",
+        "bbox": [
+            88,
+            626,
+            906,
+            894
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "SNP Marker for xa5-Breaking Xoo",
+        "bbox": [
+            397,
+            69,
+            600,
+            83
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "455",
+        "bbox": [
+            881,
+            69,
+            909,
+            83
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CLUSTAL O (1.2.4) multiple sequence alignment",
+        "bbox": [
+            144,
+            108,
+            591,
+            124
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8182640e56ffc5c963a126913bd719ce8210fd2ecb2496bd97e541dfd063b4bc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">SNP marker: (XooE1 and XooE5)-F1 Nucleotide:392,999</td></tr><tr><td>SK2-3</td><td>GTGACTCTTTGCGGGCTTTACCGCGTCGCTGGCGGGACATCTGGTGCCGGACGCTGC</td></tr><tr><td>Xoo16PK002</td><td>GTGACTCTTTGCGGGCTTTACCGCGTCGCTGGCGGGACATCTGGTGCCGGACGCTGC</td></tr><tr><td rowspan=\"2\">Xoo16PK001</td><td>GTGACTCTTTGCGGGCTTCACCGCGTCGCTGGCGGGACATCCGGTGCCGGACGCTGC</td></tr><tr><td>*******************************************************</td></tr></table>",
+        "bbox": [
+            144,
+            141,
+            824,
+            215
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SNP marker: (XooE1 and XooE4)-R1 Nucleotide:394,201",
+        "text_level": 2,
+        "bbox": [
+            203,
+            235,
+            640,
+            252
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed90f50f04636a0a6dd0a1a1471ebe75c8413a1f1753a0c55770e55fe5f70526.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>SK2-3</td><td>TGATGCGCGAAAACACGCTGACCACCGATGACCTGATCTGGCCGGTGTTCGTGCACGCCT</td></tr><tr><td>Xoo16PK002</td><td>TGATGCGCGAAAACACGCTGACCACCGATGACCTGATCTGGCCGGTGTTCGTGCACGCCT</td></tr><tr><td>Xoo16PK001</td><td>TGATGCGCGAAAACACGCTGACTACCGATGACCTGATCTGGCCGGTGTTCGTGCACGCCT</td></tr><tr><td></td><td>* *********************************************************</td></tr></table>",
+        "bbox": [
+            144,
+            252,
+            852,
+            311
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SNP marker: XooE2-F2 Nucleotide: 1,831,983",
+        "text_level": 2,
+        "bbox": [
+            203,
+            327,
+            559,
+            344
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fdb465b4a2bd7c6728dd4a21395e353d7d3d178cfecca683a2579f9ada8315ab.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>SK2-3</td><td>TTGCGGTGGAGGGACGGCTGAATGACCCCGCACACAAGCGGGTGCATGTGGACATCGACC</td></tr><tr><td>Xoo16PK002</td><td>TTGCGGTGGAGGGACGGCTGAATGACCCCGCACACAAGCGGGTGCATGTGGACATCGACC</td></tr><tr><td>Xoo16PK001</td><td>TTGCGGTGGAGGGACGGCTGAATGACCCTGCACACAAGCGGGTGCATGTGGACATCGACC</td></tr><tr><td></td><td>***************************** *******************************</td></tr></table>",
+        "bbox": [
+            144,
+            344,
+            852,
+            403
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SNP marker: XooE2-R2 Nucleotide: 1,832,226",
+        "text_level": 2,
+        "bbox": [
+            203,
+            421,
+            566,
+            437
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/da63143b5decad8da0713a6bbfb7dd90741d4fb67e588f3c13c112313cb3ade2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>SK2-3</td><td>CACCTAATGTTCAAGGGTATAAGGATCTGTACCAGCCTTCAAGCAAGTACGGGTAAGCAC</td></tr><tr><td>Xoo16PK002</td><td>CACCTAATGTTCAAGGGTATAAGGATCTGTACCAGCCTTCAAGCAAGTACGGGTAAGCAC</td></tr><tr><td>Xoo16PK001</td><td>CACCTAATGTTCAAGGGTATAAGGATCTGTAACAGCCTTCAAGCAAGTACGGGTAAGCAC **********************************************************</td></tr></table>",
+        "bbox": [
+            146,
+            437,
+            852,
+            495
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SNP marker: XooE3-F3Nucleotide: 1,832,206",
+        "text_level": 2,
+        "bbox": [
+            203,
+            514,
+            569,
+            529
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c4a26f8c13a20b6d1c152bdca4fbe04c7a5747e1673d81ce009d519cb63db0e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>SK2-3</td><td>CCTAATGTTCAAGGGTATAAGGATCTGTACCAGCCTTCAAGCAAGTACGGGTAAGCACTC</td></tr><tr><td>Xoo16PK002</td><td>CCTAATGTTCAAGGGTATAAGGATCTGTACCAGCCTTCAAGCAAGTACGGGTAAGCACTC</td></tr><tr><td>Xoo16PK001</td><td>CCTAATGTTCAAGGGTATAAGGATCTGTAACAGCCTTCAAGCAAGTACGGGTAAGCACTC</td></tr></table>",
+        "bbox": [
+            144,
+            530,
+            852,
+            578
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SNP marker: XooE3-R3 Nucleotide: 1,832,552",
+        "text_level": 2,
+        "bbox": [
+            203,
+            606,
+            571,
+            622
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5539276e983048420dc668efaf2e96a7a73250b202c6ab3a29b137a9d255fa3c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>SK2-3</td><td>AGGGAGGGAGCCGCATTGCTGGCGTGGCCAACGTCTCTCAGGTCAGGCCTCCAATGCAAG</td></tr><tr><td>Xoo16PK002</td><td>AGGGAGGGAGCCGCATTGCTGGCGTGGCCAACGTCTCTCAGGTCAGGCCTCCAATGCAAG</td></tr><tr><td>Xoo16PK001 </td><td>AGTGAGGGAGCCGCATTGCTGGCGTGGCCAACGTCTCTCAGGTCAGGCCTCCAATGCAAG</td></tr><tr><td></td><td>***********************************************************</td></tr></table>",
+        "bbox": [
+            144,
+            622,
+            853,
+            682
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SNP marker: (XooE6 and XooE7)-F5 Nucleotide: 1,928,910",
+        "text_level": 2,
+        "bbox": [
+            203,
+            699,
+            666,
+            716
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/63e54b81209665fbb5e89bb1d636a64dfda1c4ea3fd65f14d413f4b9ed48cbc3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>SK2-3</td><td>TTCCACCGACAAGGTGACCGCCTACAACGACTACTTCTTCGACGGCGCCGACGGCAATCC</td></tr><tr><td>Xoo16PK002</td><td>TTCCACCGACAAGGTGACCGCCTACAACGACTACTTCTTCGACGGCGCCGACGGCAATCC</td></tr><tr><td>Xoo16PK001</td><td>TTCCACCGACAAGGTGACCGCCTACAACGACTATTTCTTCGACGGCGCCGACGGCAATCC</td></tr><tr><td></td><td>******************************** * * * ** ** ** ** ** ** ** ** * * * * * * * *</td></tr></table>",
+        "bbox": [
+            144,
+            716,
+            852,
+            775
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SNP marker: (XooE6 and XooE8)-R5 Nucleotide: 1,930,016",
+        "text_level": 2,
+        "bbox": [
+            203,
+            794,
+            674,
+            810
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e064bea7507ee182f54b0a50875513805ff18c8aa35f45ee58b7ad8a2a96825a.jpg",
+        "table_caption": [
+            "Fig. 2. Alignment of selected single nucleotide polymorphism (SNP) regions between Xoo16PK001 and Xoo16PK002 compared to the Xoo strain SK2-3 as a reference (CLUSTAL O (1.2.4)). Bold nucleotides indicate SNPs in each region. The sequence of the SNP primer is underlined. Xoo, Xanthomonas oryzae pv. oryzae."
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>SK2-3</td><td>TCGGTGACGGCCGGGCTGTAGTTGAAGTGAACCTGGAACTGAGGT</td></tr><tr><td>Xoo16PK002 </td><td>TCGGTGACGGCCGGGCTGTAGTTGAAGTGAACCTGGAACTGAGGT</td></tr><tr><td>Xoo16PK001</td><td>TTGGCGGCGGCTGGGTTGTAGTGGAAGTGAACCTGGAACTGAGGT</td></tr></table>",
+        "bbox": [
+            144,
+            809,
+            707,
+            857
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "456",
+        "bbox": [
+            88,
+            69,
+            116,
+            81
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "Balone et al.",
+        "bbox": [
+            461,
+            69,
+            535,
+            83
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2001). All reactions were technically repeated three times with two to three biological replicates.",
+        "bbox": [
+            85,
+            104,
+            486,
+            139
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis. The results were expressed as the mean value ± standard error. Data analysis was carried out using IBM SPSS statistics version 19 (IBM Corp., Armonk, NY, USA). Statistically significant differences in mean values among the treatments were determined by Duncan's new multiple range test at a significance level of $\\begin{array} { r } { P \\leq 0 . 0 5 . } \\end{array}$",
+        "bbox": [
+            85,
+            153,
+            489,
+            269
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Results",
+        "text_level": 2,
+        "bbox": [
+            512,
+            123,
+            576,
+            139
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The SNP marker designed specifically for the Xoo isolate Xoo16PK002. The nucleotide sequence comparison between Xoo16PK001 (4,871,124 bp) and Xoo16PK002 (4,923,613 bp), generated by an Illumina HiSeq-PE150 platform, revealed that most nucleotide sequences, along with both Xoo isolates, shared high sequence identity (99.75%). Galaxy variant calling detected 8,338 SNPs when comparing Xoo16PK001 to Xoo16PK002, and 8,352",
+        "bbox": [
+            509,
+            155,
+            911,
+            288
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cca511f51d097769b72a072d705199e50845a30ddbe7eca143a40576bda3296b.jpg",
+        "image_caption": [
+            "Fig. 3. Evaluation of the single nucleotide polymorphism markers XooE1-XooE8 specifically for identifying Xoo16PK002. Lanes 1, 4, 7, 10, 13, 16, 19, and 22 correspond to Xoo16PK001; lanes 2, 5, 8, 11, 14, 17, 20, and 23 correspond to Xoo16PK002, and lanes 3, 6, 9, 12, 15, 18, 21, and 24 correspond to Xoo-SK2-3. Lane M represents 100 bp DNA ladder (Bio-Helix, Taipei, Taiwan). Xoo, Xanthomonas oryzae pv. oryzae."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            170,
+            311,
+            814,
+            485
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b2898fba0c662790755f7047794cae98630fc41f07de5e25543d1a88ff36caa.jpg",
+        "image_caption": [
+            "Fig. 4. Optimization of the annealing temperatures for the single nucleotide polymorphism markers XooE6 and XooE8 to identify Xoo16PK002. Lanes 1, 4, 7, 10, 13,16, 19, 22, 25, 28, 31, and 34 represent Xoo16PK001. Lanes 2, 5, 8, 11, 14, 17, 20, 23, 26, 29, 32, and 35 represent Xoo16PK002. Lanes 3, 6, 9, 12, 15,18, 21, 24, 27, 30, 33, and 36 represent Xoo strain SK2-3. Lane M represents 100 bp DNA ladder (Bio-Helix, Taipei, Taiwan). Xoo, Xanthomonas oryzae pv. oryzae."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            170,
+            580,
+            827,
+            849
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "SNP Marker for xa5-Breaking Xoo",
+        "bbox": [
+            395,
+            68,
+            602,
+            84
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "457",
+        "bbox": [
+            881,
+            69,
+            909,
+            83
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/17223d70bd04527ff55d57fa0f0f9335763420e3cb74d1a57f2e1a33b2fe4797.jpg",
+        "image_caption": [
+            "Fig. 5. Identification of 64 Xoo isolates using the single nucleotide polymorphism marker XooE6. Lanes 1-64 correspond to Xoo isolates listed in Table 3. Lanes 2, 13, 32, and 53 represent Xoo16PK002, Xoo20PL010, Xoo strain SK2-3, and Xoo20UT002, respectively. Lane M represents the 100-bp DNA ladder (Bio-helix, Taipei, Taiwan). Xoo, Xanthomonas oryzae pv. oryzae."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            170,
+            105,
+            824,
+            365
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SNPs between Xoo16PK001 and XooSK2-3. Various regions of the genome were randomly chosen for marker development, with the PCR product sizes ranging between approximately 300 and 1,200 bp. A higher abundance of distant SNPs in the Xoo16PK002 genome resulted in a decreased selection of SNPs, leading to the selection of eight SNPs for primer design (Table 3, Fig. 2). The SNPs found in both Xoo16PK002 and XooSK2-3 were identical and differed from those in Xoo16PK001. Based on PCR screening, only two SNP markers, XooE6 and XooE8, generated satisfactory molecular markers, providing expected PCR products (Fig. 3). The two SNP loci (C/T and T/G) were identified along both alignment sequences, corresponding to nucleotide positions at 1,928,910, and 1,930,016, respectively (Table 3, Fig. 2). These SNP regions were predicted as hypothetical proteins (accession no. CP019226.1) within the Xoo16PK002 genome using the Blast program. The primer sequences based on these SNP regions were confirmed to be specific to the target region by sequence alignment against the entire genome or target database. The primer set of the SNP markers XooE6 and XooE8 were specifically designed to target DNA regions unique to the Xoo16PK002 isolate, with the expected amplicon sizes of 1,143 bp and 386 bp, respectively (Fig. 3). These SNP markers provided specific amplification in Xoo16PK002 and Xoo strain SK2-3 but not in Xoo16PK001, with the optimal annealing temperature at 65°C (Fig. 4). BLASTN analysis of the amplified PCR products using the XooE6 (1,143 bp) and XooE8 (386 bp) markers from Xoo16PK002 revealed that the DNA sequences exhibited homology to Xoo strain SK2- 3 (GenBank no. CP019515.1), corresponding to 99.63% and 99.15% identity, respectively. However, the XooE6 marker had a slightly higher percentage identity compared to the XooE8 marker. Based on the optimization of primer conditions, XooE6 is primarily chosen for validation across isolates collected from Lower Northern Thailand owing to its consistent specificity across a range of annealing temperatures. In contrast, XooE8 demonstrated specificity only at 65℃ and was therefore not used in the validation process to detect variability, resulting in its disqualification as a suitable marker.",
+        "bbox": [
+            85,
+            451,
+            489,
+            929
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            451,
+            911,
+            665
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Identification of Xoo isolates using the SNP marker XooE6. The SNP marker XooE6 conferred four positive Xoo isolates out of 64, including isolates Xoo16PK002, Xoo20PL010, Xoo20UT002, and Xoo strain SK2-3. Meanwhile, the rest of the Xoo isolates tested negative for the XooE6 marker (Fig. 5). To confirm the correspondence of the XooE6 marker and xa5-mediated resistance breaking Xoo isolates, four of the XooE6-positive Xoo isolates were inoculated on three BB resistance rice varieties: IRBB5, IRBB13, and IRBB21. At 21 DAI, these four Xoo isolates significantly increased BB severity only in IRBB5, characterized by BB lesion lengths longer than 20 cm. In contrast, a significant enhancement of BB resistance in IRBB13 and IRBB21 was evidenced by a reduction in BB lesion lengths on leaves to less than 5 and 10 cm, respectively, indicating high and moderate resistance. In contrast, only Xoo16PK001 isolate exhibited significant BB resistance in IRBB5, with the lesion length on leaves less than 5 cm (2.80 ± 0.1 cm), but it caused significant BB severity in IRBB13 and IRBB21, by enhancing the BB lesion length on leaves (Fig. 6).",
+        "bbox": [
+            509,
+            680,
+            912,
+            929
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "458",
+        "bbox": [
+            88,
+            69,
+            116,
+            81
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "Balone et al.",
+        "bbox": [
+            461,
+            69,
+            536,
+            83
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "chart",
+        "img_path": "images/b840969102571b7f31e264ff30b6ce63f1b1a5ae04428706d5fd96ab74851740.jpg",
+        "content": "",
+        "chart_caption": [
+            "A",
+            "Fig. 6. Artificial inoculation test of four XooE6-positive Xoo isolates (Xoo16PK002, Xoo20PL010, Xoo20UT002, and Xoo strain SK2- 3) in rice varieties IRBB5, IRBB13, and IRBB21. (A) The representatives of the bacterial blight (BB) lesions on the leaves of three varieties inoculated with each Xoo isolate. (B) The average BB lesion lengths of each variety inoculated with each Xoo isolate (n = 9). The Xoo16PK001 isolate represents the XooE6-negative Xoo isolate. The BB lesions were examined at 21 DAI. The control inoculation consisted of H O application. Xoo, Xanthomonas oryzae pv. oryzae. The resistance score is as follows: R = high resistance (0-5 cm); MR = moderate resistance (>5-10 cm); MS = moderate susceptibility (>10-15 cm); S = susceptibility (>15-20 cm); HS = high susceptibility (>20 cm)."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            121,
+            401,
+            873,
+            678
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            85,
+            809,
+            487,
+            909
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Expression analysis of SWEET11 and SWEET14 in IRBB5, IRBB13, and IRBB21 inoculated with XooE6- positive and -negative Xoo isolates. In rice variety IRBB5, the expression level of SWEET11 dramatically increased nearly 150 folds at 7 DAI with four XooE6-positive Xoo isolates, whereas it increased approximately 2.5 folds when inoculated with the XooE6-negative isolate Xoo16PK001 (Fig. 7). The expression of SWEET11 was also induced in IRBB13 and IRBB21 inoculated with four XooE6-positive Xoo isolates ranging between 39-69 folds and 58-68 folds, whereas the XooE6-negative isolate Xoo16PK001 induced only 6 and 5 folds, respectively (Fig. 7). In contrast, the expression of SWEET14 was suppressed by all four XooE6-positive Xoo isolates, but slightly induced by the XooE6-negative isolate Xoo16PK001 (less than 4 folds), which significantly activated the expression of SWEET14 in IRBB13 and IRBB21, approximately 92 and 46 folds, respectively (Fig. 7). Unlike IRBB5, the expression of SWEET14 was slightly induced, but not significantly, by all four XooE6-positive Xoo isolates in both IRBB13 and IRBB21. Noticeably, the expression of SWEET11 was slightly induced when inoculated with water in either IRBB5, IRBB13, or IRBB21.",
+        "bbox": [
+            509,
+            809,
+            911,
+            925
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "SNP Marker for xa5-Breaking Xoo",
+        "bbox": [
+            397,
+            69,
+            600,
+            83
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "459",
+        "bbox": [
+            881,
+            69,
+            909,
+            81
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "chart",
+        "img_path": "images/38393b2e68e54b54dca93004a5f2a6f36910f62c0193622e46f724a3685605fa.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 7. Expression of SWEET11 and SWEET14 in rice varieties IRBB5, IRBB13, and IRBB21 challenged with the XooE6-positive (Xoo16PK002, Xoo20PL010, Xoo20UT002, and Xoo strain SK2-3) and -negative (Xoo16PK001) Xoo isolates. The relative expression values of the SWEET genes were measured at 7 days after Xoo inoculation and normalized to the uninfected control. Each expression level was compared to the baseline expression at 0 h (set to 1). The asterisk (\\*) within each Xoo isolate denotes a significant difference (P ≤ 0.05) in the expression of individual SWEET genes in each rice variety (either IRBB5, IRBB13, or IRBB21) compared to the control (at 0 h after Xoo inoculation). Each bar graph represents the mean of three independent biological replicates, and the error bar indicates the standard error. Xoo, Xanthomonas oryzae pv. oryzae; ns, not significant."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            134,
+            104,
+            865,
+            443
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            87,
+            585,
+            487,
+            848
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Discussion",
+        "text_level": 2,
+        "bbox": [
+            88,
+            865,
+            177,
+            881
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The SNP marker XooE6 specific to IRBB5-compatible Xoo. The comparative nucleotide sequences between the",
+        "bbox": [
+            87,
+            896,
+            487,
+            930
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "IRBB5-compatible Xoo isolate Xoo16PK002 (4,923,613 bp) and the IRBB13-compatible Xoo isolate Xoo16PK001 (4,871,124 bp), exhibiting a high sequence identity (99.75%), suggested that they were lowly diverged in nucleotide sequences. However, there were over 8,000 SNPs throughout these two genomes, but due to the prevalence of distant SNPs, only eight SNP regions were selected for developing the PCR-based markers to distinguish these two Xoo isolates, as they provided PCR product sizes ranging between approximately 300 and 1,200 bp. One out of the eight designed SNP markers, designated as XooE6, could provide a specific PCR product in Xoo16PK002 but not Xoo16PK001. Xoo strain SK2-3, previously reported as an xa5-mediated resistance breaking Xoo strain (Carpenter et al., 2020), was also positive for the XooE6 marker. Rice variety IRBB5 also carries the BB resistance gene xa5; therefore, Xoo16PK002 could be the same strain as SK2-3. Other two Xoo isolates, Xoo20PT010 and Xoo20UT002, were also positive for the SNP marker XooE6. The pathogenicity test for these four XooE6-positive Xoo isolates exhibited similar virulence patterns on rice varieties IRBB5 and IRBB13, which were compatible and incompatible, respectively. In contrast, Xoo16PK001, representative of the XooE6-negative isolates, showed opposite virulence patterns: incompatible with IRBB5 but compatible with IRBB13. These results confirm that the SNP marker XooE6 is specific to the IRBB5-compatible Xoo strains; therefore, XooE6 can be applied to identify Xoo strains that break xa5-mediated resistance in rice. Our results also demonstrate that IRBB21, carrying Xa21, exhibited higher resistance than IRBB5 when plants were inoculated with four XooE6-positive Xoo isolates, and showed higher resistance than IRBB13 when plants were inoculated with the XooE6-negative Xoo16PK001. This confirms the broadspectrum resistance of Xa21 to Thai Xoo isolates as well as other strains previously reported (Win et al., 2012).",
+        "bbox": [
+            509,
+            585,
+            911,
+            930
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "460",
+        "bbox": [
+            90,
+            69,
+            116,
+            81
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "Balone et al.",
+        "bbox": [
+            461,
+            69,
+            535,
+            83
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            85,
+            104,
+            487,
+            353
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Responses of SWEET11 and SWEET14 to XooE6- positive and -negative Xoo isolates. Previous publications have reported that Xoo strains are well known to target BB susceptibility genes in rice, particularly SWEET11 and SWEET14, causing a strong virulence effect of BB symptoms (Oliva et al., 2019). These SWEET genes are classified as a class of passive sugar transporters, playing a crucial role in the transport of glucose or sucrose into or out of a cell along their concentration gradients (Eom et al., 2015).",
+        "bbox": [
+            85,
+            366,
+            487,
+            530
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Here, SWEET11 in rice variety IRBB5 showed the highest expression at 7 DAI with four XooE6-positive Xoo isolates, compared to its expression levels in IRBB13 and IRBB21, and this difference is statistically significant. This finding suggests that upregulation of SWEET11 in IRBB5 was specifically activated by XooE6-positive Xoo isolates. One possible explanation is that XooE6-positive Xoo produced the TALE protein, which specifically and directly bound to the EBE target located in the promoters of SWEET11 in IRBB5, leading to the activation of gene transcription. In agreement with previous findings, the Tal1c effector in the Xoo strain SK2-3 identified recently was predicted to target the EBE of SWEET11, subsequently inducing a strong expression of SWEET11 in rice variety IRBB5 higher than in IR24, carrying no BB resistance gene (Carpenter et al., 2020). Similarly, SWEET11 expression in rice ‘Kitaake’ was up-regulated after inoculation with Xoo strain PXO99A harboring PthXo1 (Kim et al., 2019; Yang and White, 2004). The upregulation of SWEET11 caused a significant increase in sucrose concentration in the rice cells, enabling the proliferation of pathogenic Xoo cells, which are responsible for the susceptibility of rice to BB disease.",
+        "bbox": [
+            85,
+            530,
+            489,
+            907
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In contrast, the expression of SWEET11 in IRBB13 was lower than in IRBB5 after infection of xa5-mediated resistance breaking Xoo. These might be explained by the mutated EBE in the promoter region of SWEET11 (known as xa13) in IRBB13, which prevented its binding with TALE-PthXo1 from Xoo strains PXO99A (Chu et al., 2006) and SK2-3 (Carpenter et al., 2020).",
+        "bbox": [
+            101,
+            907,
+            486,
+            924
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            104,
+            911,
+            204
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the XooE6-negative Xoo16PK001 isolate significantly influenced a more considerable increase in SWEET14 expression in rice varieties IRBB13 and IRBB21 compared to IRBB5. The reason for this could be that IRBB13 and IRBB21, which carry the dominant Xa5 gene, also harbor the basal TF gamma subunit TFIIAγ1 protein. This protein exhibits a stronger binding affinity with various TALE proteins (such as AvrXa7, PthXo3, TalC or Tal5, produced in African and most Asian Xoo strains) than the recessive xa5 gene (present in IRBB5, carrying TFIIAγ5). This interaction complex of the TALE and TFIIAγ1 subsequently results in a greater increase in SWEET14 expression compared to the interaction of TALE and TFIIAγ5 (Carpenter et al., 2020; Ma et al., 2018). In contrast, the expression of SWEET14 showed a trend towards a decrease in all studied rice varieties after infection with the XooE6-positive Xoo isolates, whereas its expression slightly increased when challenged with the XooE6-negative Xoo16PK001 isolate. However, these expression levels were not statistically significant.",
+        "bbox": [
+            509,
+            204,
+            912,
+            532
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In this study, the SNP marker XooE6 displayed high specificity in detecting IRBB5-compatible (xa5-mediated resistance breaking) Xoo isolates, which are widespread in several provinces of Lower Northern Thailand. Consequently, this marker should be further utilized for ongoing development into a practical testing kit for the specific detection of xa5-mediated resistance breaking Xoo isolates in fields, facilitating Xoo surveillance and long-term BB disease management. Additionally, this knowledge could aid in the selection or improvement of suitable rice cultivars for planting in areas affected by outbreaks of xa5-mediated resistance breaking Xoo isolates.",
+        "bbox": [
+            509,
+            530,
+            912,
+            730
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Conflicts of Interest",
+        "text_level": 2,
+        "bbox": [
+            510,
+            745,
+            673,
+            762
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "No potential conflict of interest relevant to this article was reported.",
+        "bbox": [
+            509,
+            776,
+            911,
+            810
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments",
+        "text_level": 2,
+        "bbox": [
+            512,
+            827,
+            661,
+            846
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Program Management Unit for Human Resources & Institutional Development, Research and Innovation (PMU-B), Thailand [grant number B05F640157]; Naresuan University [grant number R2566B027]; Naresuan University [grant number R2565B003]; and the Thailand International Cooperation Agency (TICA) scholarship.",
+        "bbox": [
+            509,
+            858,
+            912,
+            926
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "SNP Marker for xa5-Breaking Xoo",
+        "bbox": [
+            395,
+            69,
+            600,
+            84
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "461",
+        "bbox": [
+            881,
+            69,
+            908,
+            83
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            85,
+            104,
+            486,
+            156
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References",
+        "text_level": 2,
+        "bbox": [
+            88,
+            176,
+            178,
+            192
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Carpenter, S. C. D., Mishra, P., Ghoshal, C., Dash, P. K., Wang, L., Midha, S., Laha, G. S., Lore, J. S., Kositratana, W., Singh, N. K., Singh, K., Patil, P. B., Oliva, R., Patarapuwadol, S., Bogdanove, A. J. and Rai, R. 2020. An xa5 resistance genebreaking Indian strain of the rice bacterial blight pathogen Xanthomonas oryzae pv. oryzae is nearly identical to a Thai strain. Front Microbiol. 11:579504.",
+            "Chen, L.-Q., Hou, B.-H., Lalonde, S., Takanaga, H., Hartung, M. L., Qu, X.-Q., Guo, W.-J., Kim, J.-G., Underwood, W., Chaudhuri, B., Chermak, D., Antony, G., White, F. F., Somerville, S. C., Mudgett, M. B. and Frommer, W. B. 2010. Sugar transporters for intercellular exchange and nutrition of pathogens. Nature 468:527-532.",
+            "Chu, Z., Yuan, M., Yao, J., Ge, X., Yuan, B., Xu, C., Li, X., Fu, B., Li, Z., Bennetzen, J. L., Zhang, Q. and Wang, S. 2006. Promoter mutations of an essential gene for pollen development result in disease resistance in rice. Genes Dev. 20:1250-1255.",
+            "Doucouré, H., Pérez-Quintero, A. L., Reshetnyak, G., Tekete, C., Auguy, F., Thomas, E., Koebnik, R., Szurek, B., Koita, O., Verdier, V. and Cunnac, S. 2018. Functional and genome sequence-driven characterization of tal effector gene repertoires reveals novel variants with altered specificities in closely related Malian Xanthomonas oryzae pv. oryzae strains. Front. Microbiol. 9:1657.",
+            "Eom, J.-S., Chen, L.-Q., Sosso, D., Julius, B. T., Lin, I. W., Qu, X.-Q., Braun, D. M. and Frommer, W. B. 2015. SWEETs, transporters for intracellular and intercellular sugar translocation. Curr. Opin. Plant Biol. 25:53-62.",
+            "Erkes, A., Reschke, M., Boch, J. and Grau, J. 2017. Evolution of transcription activator-like efectors in Xanthomonas oryzae. Genome Biol. Evol. 9:1599-1615.",
+            "Garcia-Ruiz, H., Szurek, B. and Van den Ackerveken, G. 2021. Stop helping pathogens: engineering plant susceptibility genes for durable resistance. Curr. Opin. Biotechnol. 70:187- 195.",
+            "Huang, S., Antony, G., Li, T., Liu, B., Obasa, K., Yang, B. and White, F. F. 2016. The broadly efective recessive resistance gene xa5 of rice is a virulence efector-dependent quantitative trait for bacterial blight. Plant J. 86:186-194.",
+            "Kim, Y.-A., Moon, H. and Park, C.-J. 2019. CRISPR/Cas9- targeted mutagenesis of Os8N3 in rice to confer resistance to Xanthomonas oryzae pv. oryzae. Rice 12:67.",
+            "Livak, K. J. and Schmittgen, T. D. 2001. Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) method. Methods 25:402-408.",
+            "Ma, W., Zou, L., Zhiyuan, J. I., Xiameng, X., Zhengyin, X., Yang,",
+            "Y., Alfano, J. R. and Chen, G. 2018. Xanthomonas oryzae pv. oryzae TALE proteins recruit OsTFIIAγ1 to compensate for the absence of OsTFIIAγ5 in bacterial blight in rice. Mol. Plant Pathol. 19:2248-2262.",
+            "Oliva, R., Ji, C., Atienza-Grande, G., Huguet-Tapia, J. C., Perez-Quintero, A., Li, T., Eom, J.-S., Li, C., Nguyen, H., Liu, B., Auguy, F., Sciallano, C., Luu, V. T., Dossa, G. S., Cunnac, S., Schmidt, S. M., Slamet-Loedin, I. H., Vera Cruz, C., Szurek, B., Frommer, W. B., White, F. F. and Yang, B. 2019. Broadspectrum resistance to bacterial blight in rice using genome editing. Nat. Biotechnol. 37:1344-1350.",
+            "Sagun, C. M., Grandmottet F., Suachaowna N., Sujipuli K. and Ratanasut K. 2020. Validation of suitable reference genes for normalization of quantitative reverse transcriptase- polymerase chain reaction in rice infected by Xanthomonas oryzae pv. oryzae. Plant Gene 21:100217.",
+            "Song, Z., Zheng, J., Zhao, Y., Yin, J., Zheng, D., Hu, H., Liu, H., Sun, M., Ruan, L. and Liu, F. 2023. Population genomics and pathotypic evaluation of the bacterial leaf blight pathogen of rice reveals rapid evolutionary dynamics of a plant pathogen. Front. Cell Infect. Microbiol. 13:1183416.",
+            "Verdier, V., Triplett, L. R., Hummel, A. W., Corral, R., Cernadas, R. A., Schmidt, C. L., Bogdanove, A. J. and Leach, J. E. 2012. Transcription activator-like (TAL) effectors targeting OsSWEET genes enhance virulence on diverse rice (Oryza sativa) varieties when expressed individually in a TAL efector-deficient strain of Xanthomonas oryzae. New Phytol. 196: 1197-1207.",
+            "White, F. F., Potnis, N., Jones, J. B. and Koebnik, R. 2009. The type III efectors of Xanthomonas. Mol. Plant Pathol. 10:749- 766.",
+            "Win, K. M., Korinsak, S., Jantaboon, J., Siangliw, M., Lanceras-Siangliw, J., Sirithunya, P., Vanavichit, A., Pantuwan, G., Jongdee, B., Sidhiwong, N. and Toojinda, T. 2012. Breeding the Thai jasmine rice variety KDML105 for non-age-related broad-spectrum resistance to bacterial blight disease based on combined marker-assisted and phenotypic selection. Field Crops Res. 137:186-194.",
+            "Wongkhamchan, A., Chankaew, S., Monkham, T., Saksirirat, W. and Sanitchon, J. 2018. Broad resistance of RD6 introgression lines with xa5 gene from IR62266 rice variety to bacterial leaf blight disease for rice production in Northeastern Thailand. Agric. Nat. Resour. 52:241-245.",
+            "Yang, B. and White, F. F. 2004. Diverse members of the AvrBs3/ PthA family of type III efectors are major virulence determinants in bacterial blight disease of rice. Mol. Plant-Microbe Interact. 17:1192-1200.",
+            "Zhou, J., Peng, Z., Long, J., Sosso, D., Liu, B., Eom, J.-S., Huang, S., Liu, S., Vera Cruz, C., Frommer, W. B., White, F. F. and Yang, B. 2015. Gene targeting by the TAL efector PthXo2 reveals cryptic resistance gene for bacterial blight of rice. Plant J. 82:632-643."
+        ],
+        "bbox": [
+            90,
+            210,
+            484,
+            315
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "462",
+        "bbox": [
+            88,
+            69,
+            116,
+            81
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "Balone et al.",
+        "bbox": [
+            461,
+            69,
+            535,
+            83
+        ],
+        "page_idx": 11
+    }
+]

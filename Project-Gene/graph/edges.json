@@ -1,0 +1,1607 @@
+[
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "IbLAX1 is an auxin influx carrier and was up-regulated during storage root/tuber initiation, suggesting it contributes to initiation.",
+    "growth_stage": [
+      "Seed_Development"
+    ],
+    "growth_stage_detail": "tuber initiation / storage root initiation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "IbLAX1 was up-regulated in SRs vs. FRs at tuber initiation (30 DAT), and the significant up-regulation during SR indicates that IbLAX1 ... [is a] strong candidate[] for further in-depth studies on [its] functions during SR initiation.",
+    "extraction_FLAG": true,
+    "source": "Gene_IbLAX1",
+    "target": "Phenotype_Trait_storage root initiation",
+    "source_doi": "10.21203/rs.3.rs-2616315/v1"
+  },
+  {
+    "subject_id": "gene_2",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "IbPIN13 is a canonical PIN auxin efflux protein and was up-regulated during storage root initiation and as initiation progressed.",
+    "growth_stage": [
+      "Seed_Development"
+    ],
+    "growth_stage_detail": "storage root initiation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "IbPIN13 was up-regulated in SRs vs. FRs at tuber initiation (30 DAT) ... IbPIN13 is a canonical PIN auxin efflux protein that is up-regulated in SRs vs FRs and also up-regulated as SR initiation progresses.",
+    "extraction_FLAG": true,
+    "source": "Gene_IbPIN13",
+    "target": "Phenotype_Trait_storage root initiation",
+    "source_doi": "10.21203/rs.3.rs-2616315/v1"
+  },
+  {
+    "subject_id": "gene_3",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "IbPILS7 was up-regulated during storage root initiation and may have a role in intercellular auxin partitioning.",
+    "growth_stage": [
+      "Seed_Development"
+    ],
+    "growth_stage_detail": "storage root initiation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "IbPILS7 was up-regulated in SRs vs. FRs at tuber initiation (30 DAT) ... IbPILS7 is also up-regulated at SR initiation, and since PILS proteins are involved in intercellular auxin partitioning, it is possible that IbPILS7 has a similar role.",
+    "extraction_FLAG": true,
+    "source": "Gene_IbPILS7",
+    "target": "Phenotype_Trait_storage root initiation",
+    "source_doi": "10.21203/rs.3.rs-2616315/v1"
+  },
+  {
+    "subject_id": "gene_4",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "IbABCB1 was up-regulated during storage root initiation and was predicted to be an auxin transporter.",
+    "growth_stage": [
+      "Seed_Development"
+    ],
+    "growth_stage_detail": "storage root initiation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "Two of the three up-regulated IbABCB genes (IbABCB1 and IbABCB14) were predicted to be auxin transporters ... The up-regulation of IbABCB1 in SRs vs. FRs at 40 DAT and 50 DAT ... supports its role in SR development.",
+    "extraction_FLAG": true,
+    "source": "Gene_IbABCB1",
+    "target": "Phenotype_Trait_storage root initiation",
+    "source_doi": "10.21203/rs.3.rs-2616315/v1"
+  },
+  {
+    "subject_id": "gene_5",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "IbABCB14 was up-regulated during storage root initiation and was predicted to be an auxin transporter.",
+    "growth_stage": [
+      "Seed_Development"
+    ],
+    "growth_stage_detail": "storage root initiation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "Two of the three up-regulated IbABCB genes (IbABCB1 and IbABCB14) were predicted to be auxin transporters ... and ... is also up-regulated during SR initiation and development and is also predicted to be an auxin transporter.",
+    "extraction_FLAG": true,
+    "source": "Gene_IbABCB1",
+    "target": "Phenotype_Trait_storage root initiation",
+    "source_doi": "10.21203/rs.3.rs-2616315/v1"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "The paper tested whether SLC6A3 VNTR status alters amphetamine-induced synaptic dopamine release measured by [123I]IBZM displacement.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "quantitative_effect": "SLC6A3*9R carriers: 14.4 ± 13.8% vs SLC6A3*10R homozygotes: 10.3 ± 10.2% displacement; p = .16",
+    "evidence": "No significant effect of DAT VNTR status on amphetamine-induced dopamine release was found; the SLC6A3*9R carrier group showed 14.4 ± 13.8% displacement of [123I]IBZM compared to 10.3 ± 10.2% for the SLC6A3*10R homozygote group (p = .16).",
+    "extraction_FLAG": true,
+    "source": "Gene_SLC6A3",
+    "target": "Phenotype_Trait_amphetamine-induced dopamine release",
+    "source_doi": "10.1016/s0893-133x(00)00216-5"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_2",
+    "relation_type": "associated_with",
+    "mechanism": "The paper tested whether SLC6A3 VNTR status alters DAT availability/expression measured by [123I]b-CIT binding.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "no_effect",
+    "quantitative_effect": "SLC6A3*9R carriers: 8.1 ± 1.8 vs SLC6A3*10R homozygotes: 8.1 ± 1.4; p = .97",
+    "evidence": "Analysis of variance revealed no significant effect of diagnosis or VNTR status on [123I]b-CIT V3''; the mean [123I]b-CIT V3'' in the SLC6A3*9R carrier group was 8.1 ± 1.8 compared to 8.1 ± 1.4 for the SLC6A3*10R homozygote group (p = .97).",
+    "extraction_FLAG": true,
+    "source": "Gene_SLC6A3",
+    "target": "Phenotype_Trait_DAT expression",
+    "source_doi": "10.1016/s0893-133x(00)00216-5"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "Within patients with schizophrenia, SLC6A3*9R carriers showed greater amphetamine-induced decrease in [123I]IBZM binding potential than 10R homozygotes, but the difference was not significant.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "quantitative_effect": "Schizophrenia: 21.0 ± 16.2% vs 14.5 ± 11.7%; p = .24",
+    "evidence": "The mean displacement of [123I]IBZM following amphetamine in SLC6A3*9R carrier subjects with schizophrenia was 21.0 ± 16.2% compared to 14.5 ± 11.7% in SLC6A3*10R homozygote subjects with schizophrenia (p = .24).",
+    "extraction_FLAG": true,
+    "source": "Gene_SLC6A3",
+    "target": "Phenotype_Trait_amphetamine-induced dopamine release",
+    "source_doi": "10.1016/s0893-133x(00)00216-5"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "Within healthy controls, SLC6A3*9R carriers showed greater amphetamine-induced decrease in [123I]IBZM binding potential than 10R homozygotes, but the difference was not significant.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "quantitative_effect": "Controls: 8.3 ± 7.8% vs 6.6 ± 7.2%; p = .55",
+    "evidence": "The SLC6A3*9R carrier control subjects showed a mean displacement of 8.3 ± 7.8%, whereas SLC6A3*10R homozygote control subjects showed a mean displacement of 6.6 ± 7.2% (p = .55).",
+    "extraction_FLAG": true,
+    "source": "Gene_SLC6A3",
+    "target": "Phenotype_Trait_amphetamine-induced dopamine release",
+    "source_doi": "10.1016/s0893-133x(00)00216-5"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_2",
+    "relation_type": "causes",
+    "mechanism": "Mutations in DTDST reduce sulfate transport into chondrocytes.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Biochemical_Assay",
+    "effect_direction": "negative",
+    "evidence": "The DTDST gene encodes a sulfate transporter that also accepts chloride and possibly bicarbonate as substrates... Reduced sulfate transport in chondrocytes of individuals with DTDST mutations results in the under-sulfation of proteoglycans.",
+    "extraction_FLAG": true,
+    "source": "Gene_DTDST",
+    "target": "Phenotype_Trait_sulfate transport deficiency",
+    "source_doi": "10.1093/hmg/10.14.1485"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_3",
+    "relation_type": "causes",
+    "mechanism": "Reduced sulfate transport in chondrocytes results in under-sulfation of proteoglycans.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Biochemical_Assay",
+    "effect_direction": "negative",
+    "evidence": "Reduced sulfate transport in chondrocytes of individuals with DTDST mutations results in the under-sulfation of proteoglycans, which in turn leads to abnormal cartilage formation.",
+    "extraction_FLAG": true,
+    "source": "Gene_DTDST",
+    "target": "Phenotype_Trait_under-sulfation of proteoglycans",
+    "source_doi": "10.1093/hmg/10.14.1485"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "Mutations in DTDST are responsible for four recessively inherited chondrodysplasias.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Biochemical_Assay",
+    "effect_direction": "negative",
+    "evidence": "Mutations in this gene are responsible for four recessively inherited chondrodysplasias that include diastrophic dysplasia, multiple epiphyseal dysplasia, atelosteogenesis type 2 and achondrogenesis 1B (ACG-1B).",
+    "extraction_FLAG": true,
+    "source": "Gene_DTDST",
+    "target": "Phenotype_Trait_chondrodysplasias",
+    "source_doi": "10.1093/hmg/10.14.1485"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was differentially expressed after powdery mildew infection and was proposed as a candidate for disease resistance.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "leaves after powdery mildew infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "Expression of AsSWEET1a was significantly up-regulated in the leaves of both cultivars after infection, and these SWEET genes are potential candidates for disease resistance in oats.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET1a",
+    "target": "Phenotype_Trait_powdery mildew resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_2",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was differentially expressed after powdery mildew and leaf spot infection and was proposed as a candidate for disease resistance.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "leaves after powdery mildew or leaf spot infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "AsSWEET1b, 2b, 3a, 11, and 16 were diferentially expressed after infection with either powdery mildew or leaf spot, making them important candidate genes for studying the oat response to biological stress.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET1a",
+    "target": "Phenotype_Trait_powdery mildew resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_3",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was differentially expressed after powdery mildew infection and was proposed as a candidate for disease resistance.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "leaves after powdery mildew infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "AsSWEET2a was significantly down-regulated in leaves of ‘ForagePlus’ after infection, while it was significantly up-regulated in ‘Molasses leaves.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET1a",
+    "target": "Phenotype_Trait_powdery mildew resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_4",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was differentially expressed after powdery mildew and leaf spot infection and was proposed as a candidate for disease resistance.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "leaves after powdery mildew or leaf spot infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "AsSWEET1b, 2b, 3a, 11, and 16 were diferentially expressed after infection with either powdery mildew or leaf spot, making them important candidate genes for studying the oat response to biological stress.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET1a",
+    "target": "Phenotype_Trait_powdery mildew resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_5",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "The gene responded to powdery mildew infection and may be involved in resistance.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "3 days after powdery mildew infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "Expression of AsSWEET3a was significantly up-regulated in the leaves of both cultivars after infection.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET1a",
+    "target": "Phenotype_Trait_powdery mildew resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_6",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was differentially expressed after leaf spot infection and is one of the genes implicated in disease response.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "after leaf spot infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "AsSWEET4, 5, 11, 12, 13, 15, and 16 were significantly down-regulated in both cultivars.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET4",
+    "target": "Phenotype_Trait_powdery mildew resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_7",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was significantly up-regulated after powdery mildew infection in both cultivars and down-regulated after leaf spot infection, indicating participation in disease response.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "after powdery mildew infection; after leaf spot infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "In this study, significant up-regulation of AsSWEET5 was observed in both ‘ForagePlus’ and ‘Molasses’ cultivars three days after powdery mildew infection, though AsSWEET5 expression was down-regulated at a comparable time point after leaf spot infection.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET4",
+    "target": "Phenotype_Trait_powdery mildew resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_7",
+    "object_id": "phenotype_2",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was down-regulated after leaf spot infection and may be involved in response to leaf spot.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "after leaf spot infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "AsSWEET5 expression was down-regulated at a comparable time point after leaf spot infection.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET4",
+    "target": "Phenotype_Trait_leaf spot resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_8",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was differentially expressed after powdery mildew and leaf spot infection and was proposed as a candidate for disease resistance.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "leaves after powdery mildew or leaf spot infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "AsSWEET1b, 2b, 3a, 11, and 16 were diferentially expressed after infection with either powdery mildew or leaf spot, making them important candidate genes for studying the oat response to biological stress.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET1a",
+    "target": "Phenotype_Trait_powdery mildew resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_9",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was differentially expressed after powdery mildew and leaf spot infection and was proposed as a candidate for disease resistance.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "leaves after powdery mildew or leaf spot infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "AsSWEET1b, 2b, 3a, 11, and 16 were diferentially expressed after infection with either powdery mildew or leaf spot, making them important candidate genes for studying the oat response to biological stress.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET1a",
+    "target": "Phenotype_Trait_powdery mildew resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_10",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was differentially expressed after powdery mildew and leaf spot infection and was proposed as a candidate for disease resistance.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "leaves after powdery mildew or leaf spot infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "AsSWEET1b, 2b, 3a, 11, and 16 were diferentially expressed after infection with either powdery mildew or leaf spot, making them important candidate genes for studying the oat response to biological stress.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET1a",
+    "target": "Phenotype_Trait_powdery mildew resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_11",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was differentially expressed after powdery mildew or leaf spot infection and was proposed as a candidate for disease resistance.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "after powdery mildew or leaf spot infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "AsSWEET1b, 2b, 3a, 11, and 16 were diferentially expressed after infection with either powdery mildew or leaf spot, making them important candidate genes for studying the oat response to biological stress.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET4",
+    "target": "Phenotype_Trait_powdery mildew resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_12",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was differentially expressed after powdery mildew infection and may be involved in regulating powdery mildew resistance.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "after powdery mildew infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "AsSWEET16 was significantly up-regulated after powdery mildew infection, indicating that AsSWEET16 may be involved in regulating powdery mildew resistance in oats.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET1a",
+    "target": "Phenotype_Trait_powdery mildew resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_12",
+    "object_id": "phenotype_2",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was differentially expressed after leaf spot infection and is one of the genes implicated in disease response.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "after leaf spot infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "AsSWEET4, 5, 11, 12, 13, 15, and 16 were significantly down-regulated in both cultivars.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET1a",
+    "target": "Phenotype_Trait_leaf spot resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_13",
+    "object_id": "phenotype_2",
+    "relation_type": "associated_with",
+    "mechanism": "The gene was differentially expressed after leaf spot infection.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "after leaf spot infection",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "context_dependent",
+    "evidence": "AsSWEET17 was stable in ‘ForagePlus’ after infection, while it was significantly down-regulated in leaves of ‘Molasses’.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET1a",
+    "target": "Phenotype_Trait_leaf spot resistance",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_3",
+    "relation_type": "associated_with",
+    "mechanism": "The cultivar ForagePlus was described as more susceptible to powdery mildew than Molasses in the expression study.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "powdery mildew infection comparison between cultivars",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "negative",
+    "evidence": "‘ForagePlus’ was more susceptible to powdery mildew than ‘Molasses’.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET1a",
+    "target": "Phenotype_Trait_more susceptible to powdery mildew",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_4",
+    "relation_type": "associated_with",
+    "mechanism": "The cultivar Molasses was described as having more severe leaf spot than ForagePlus in the expression study.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "leaf spot infection comparison between cultivars",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "negative",
+    "evidence": "Infection with leaf spot was more severe in ‘Molasses than in ‘ForagePlus’.",
+    "extraction_FLAG": true,
+    "source": "Gene_AsSWEET1a",
+    "target": "Phenotype_Trait_leaf spot was more severe",
+    "source_doi": "10.1186/s12864-024-10933-8"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "Transcript abundance was significantly induced under salt stress and exogenous ABA; the gene was described as part of the set affected by multiple treatments.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "Under salt stress, the transcription of five ZmSWEET genes (ZmSWEET1a/4a/6a/6b/13a) was significantly induced... Under exogenous ABA treatment, the transcription of 16 ZmSWEET genes was induced, of which five genes (ZmSWEET1a/3b/12a/14a/15b) were significantly induced.",
+    "extraction_FLAG": true,
+    "source": "Gene_ZmSWEET1a",
+    "target": "Phenotype_Trait_severe stunting",
+    "source_doi": "10.3390/genes13101682"
+  },
+  {
+    "subject_id": "gene_4",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "Transcript abundance was distinctly increased under Cd stress and significantly induced by exogenous ABA.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "Under Cd stress, the transcript abundance of ZmSWEET3b/11a/13b/17a was distinctly increased... Under exogenous ABA treatment, the transcription of 16 ZmSWEET genes was induced, of which five genes (ZmSWEET1a/3b/12a/14a/15b) were significantly induced.",
+    "extraction_FLAG": true,
+    "source": "Gene_ZmSWEET1a",
+    "target": "Phenotype_Trait_severe stunting",
+    "source_doi": "10.3390/genes13101682"
+  },
+  {
+    "subject_id": "gene_7",
+    "object_id": "phenotype_3",
+    "relation_type": "causes",
+    "mechanism": "The zmsweet4c mutation causes kernel crumpling.",
+    "growth_stage": [
+      "Seed_Development"
+    ],
+    "growth_stage_detail": "development and maturation of maize kernels",
+    "evidence_type": "Knockout_Knockdown",
+    "effect_direction": "negative",
+    "evidence": "the zmsweet4c mutation causes severe crumpling of the kernel, thereby reducing yield",
+    "extraction_FLAG": true,
+    "source": "Gene_ZmSWEET1a",
+    "target": "Phenotype_Trait_severe crumpling of the kernel",
+    "source_doi": "10.3390/genes13101682"
+  },
+  {
+    "subject_id": "gene_7",
+    "object_id": "phenotype_4",
+    "relation_type": "causes",
+    "mechanism": "The zmsweet4c mutation reduces yield.",
+    "growth_stage": [
+      "Seed_Development"
+    ],
+    "growth_stage_detail": "development and maturation of maize kernels",
+    "evidence_type": "Knockout_Knockdown",
+    "effect_direction": "negative",
+    "evidence": "the zmsweet4c mutation causes severe crumpling of the kernel, thereby reducing yield",
+    "extraction_FLAG": true,
+    "source": "Gene_ZmSWEET1a",
+    "target": "Phenotype_Trait_reduced yield",
+    "source_doi": "10.3390/genes13101682"
+  },
+  {
+    "subject_id": "gene_11",
+    "object_id": "phenotype_2",
+    "relation_type": "causes",
+    "mechanism": "The ossweet11 and ossweet14 mutants are defective in seed development.",
+    "growth_stage": [
+      "Seed_Development"
+    ],
+    "evidence_type": "Knockout_Knockdown",
+    "effect_direction": "negative",
+    "evidence": "the ossweet11 and ossweet14 mutants are defective in seed development, exhibiting a small grain and semidwarf phenotype",
+    "extraction_FLAG": true,
+    "source": "Gene_ZmSWEET1a",
+    "target": "Phenotype_Trait_small grain and semidwarf phenotype",
+    "source_doi": "10.3390/genes13101682"
+  },
+  {
+    "subject_id": "gene_20",
+    "object_id": "phenotype_5",
+    "relation_type": "negatively_regulates",
+    "mechanism": "The atsweet15 mutant shows greater salt tolerance.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "evidence_type": "Knockout_Knockdown",
+    "effect_direction": "negative",
+    "evidence": "the atsweet15 mutant shows greater salt tolerance",
+    "extraction_FLAG": true,
+    "source": "Gene_ZmSWEET1a",
+    "target": "Phenotype_Trait_greater salt tolerance",
+    "source_doi": "10.3390/genes13101682"
+  },
+  {
+    "subject_id": "gene_20",
+    "object_id": "phenotype_6",
+    "relation_type": "positively_regulates",
+    "mechanism": "Transgenic Arabidopsis overexpressing AtSWEET15 was more sensitive to salt stress.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "evidence_type": "Transgenic",
+    "effect_direction": "positive",
+    "evidence": "Transgenic Arabidopsis overexpressing AtSWEET15 was more sensitive to salt stress",
+    "extraction_FLAG": true,
+    "source": "Gene_ZmSWEET1a",
+    "target": "Phenotype_Trait_more sensitive to salt stress",
+    "source_doi": "10.3390/genes13101682"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "Gene expression analysis suggests MlSWEET1a is a candidate gene for specific expression in the leaves of the mycorrhized host plant; inoculation increased aboveground biomass productivity.",
+    "growth_stage": [
+      "Vegetative_Growth",
+      "Reproductive_Stage",
+      "Unclear"
+    ],
+    "growth_stage_detail": "during plant development up to the inflorescence phase",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "Gene expression analysis suggests that genes MlSWEET1a ... are candidates for specific expression in the leaves of the mycorrhized host plant; An inoculation of M. lupulina with the AMF increased the productivity of aboveground biomass and accelerated plant development.",
+    "extraction_FLAG": true,
+    "source": "Gene_MlSWEET1a",
+    "target": "Phenotype_Trait_increased productivity of aboveground biomass",
+    "source_doi": "10.18699/plantgen2021-113"
+  },
+  {
+    "subject_id": "gene_2",
+    "object_id": "phenotype_1",
+    "relation_type": "associated_with",
+    "mechanism": "Gene expression analysis suggests MlSWEET1b is a candidate gene for specific expression in the leaves of the mycorrhized host plant; inoculation increased aboveground biomass productivity.",
+    "growth_stage": [
+      "Vegetative_Growth",
+      "Reproductive_Stage",
+      "Unclear"
+    ],
+    "growth_stage_detail": "during plant development up to the inflorescence phase",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "Gene expression analysis suggests that genes MlSWEET1a and MlSWEET1b are candidates for specific expression in the leaves of the mycorrhized host plant; An inoculation of M. lupulina with the AMF increased the productivity of aboveground biomass and accelerated plant development.",
+    "extraction_FLAG": true,
+    "source": "Gene_MlSWEET1a",
+    "target": "Phenotype_Trait_increased productivity of aboveground biomass",
+    "source_doi": "10.18699/plantgen2021-113"
+  },
+  {
+    "subject_id": "gene_3",
+    "object_id": "phenotype_3",
+    "relation_type": "associated_with",
+    "mechanism": "Gene expression analysis suggests MlSWEET2c is a candidate gene for specific expression in the roots; mycorrhized plants had a lower roots/shoots ratio than plants without mycorrhiza.",
+    "growth_stage": [
+      "Vegetative_Growth",
+      "Reproductive_Stage",
+      "Unclear"
+    ],
+    "growth_stage_detail": "during plant development up to the inflorescence phase",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "negative",
+    "evidence": "Gene expression analysis suggests that MlSWEET1a and MlSWEET2c are candidate genes for specific expression in the roots. The roots/shoots ratio of M. lupulina was lower in mycorrhized plants than in plants without mycorrhiza.",
+    "extraction_FLAG": true,
+    "source": "Gene_MlSWEET2c",
+    "target": "Phenotype_Trait_lower roots_shoots ratio",
+    "source_doi": "10.18699/plantgen2021-113"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_2",
+    "relation_type": "associated_with",
+    "mechanism": "Gene expression analysis suggests MlSWEET1a is a candidate gene for specific expression in the leaves of the mycorrhized host plant; inoculation with AMF accelerated plant development.",
+    "growth_stage": [
+      "Vegetative_Growth",
+      "Reproductive_Stage",
+      "Unclear"
+    ],
+    "growth_stage_detail": "during plant development up to the inflorescence phase",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "Gene expression analysis suggests that genes MlSWEET1a and MlSWEET1b are candidates for specific expression in the leaves of the mycorrhized host plant ... An inoculation of M. lupulina with the AMF increased the productivity of aboveground biomass and accelerated plant development under low phosphorus level.",
+    "extraction_FLAG": true,
+    "source": "Gene_MlSWEET1a",
+    "target": "Phenotype_Trait_accelerated plant development",
+    "source_doi": "10.18699/plantgen2021-113"
+  },
+  {
+    "subject_id": "gene_2",
+    "object_id": "phenotype_2",
+    "relation_type": "associated_with",
+    "mechanism": "Gene expression analysis suggests MlSWEET1b is a candidate gene for specific expression in the leaves of the mycorrhized host plant; inoculation with AMF accelerated plant development.",
+    "growth_stage": [
+      "Vegetative_Growth",
+      "Reproductive_Stage",
+      "Unclear"
+    ],
+    "growth_stage_detail": "during plant development up to the inflorescence phase",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "Gene expression analysis suggests that genes MlSWEET1a and MlSWEET1b are candidates for specific expression in the leaves of the mycorrhized host plant ... An inoculation of M. lupulina with the AMF increased the productivity of aboveground biomass and accelerated plant development under low phosphorus level.",
+    "extraction_FLAG": true,
+    "source": "Gene_MlSWEET1a",
+    "target": "Phenotype_Trait_accelerated plant development",
+    "source_doi": "10.18699/plantgen2021-113"
+  },
+  {
+    "subject_id": "gene_3",
+    "object_id": "phenotype_2",
+    "relation_type": "associated_with",
+    "mechanism": "Gene expression analysis suggests MlSWEET2c is a candidate gene for specific expression in the roots; inoculation with AMF accelerated plant development.",
+    "growth_stage": [
+      "Vegetative_Growth",
+      "Reproductive_Stage",
+      "Unclear"
+    ],
+    "growth_stage_detail": "during plant development up to the inflorescence phase",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "Gene expression analysis suggests that MlSWEET1a and MlSWEET2c are candidate genes for specific expression in the roots. An inoculation of M. lupulina with the AMF increased the productivity of aboveground biomass and accelerated plant development under low phosphorus level.",
+    "extraction_FLAG": true,
+    "source": "Gene_MlSWEET2c",
+    "target": "Phenotype_Trait_accelerated plant development",
+    "source_doi": "10.18699/plantgen2021-113"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Its promoter activity increased upon mycorrhiza colonization and was relocalized mainly to arbuscule-containing cells.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "6 and 8 weeks post inoculation",
+    "evidence_type": "Transgenic",
+    "effect_direction": "positive",
+    "evidence": "The promoter of SWEET2c ... showed activity in non-colonized roots mainly at the root tip ... Upon fungal colonization, expression level was increased and relocalized mainly to arbuscule-containing cells.",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET2c",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_2",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Promoter activity was increased in arbuscule-containing cells during symbiosis.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "during mycorrhiza colonization",
+    "evidence_type": "Transgenic",
+    "effect_direction": "positive",
+    "evidence": "Promoter-reporter activity for SWEET7a ... symbiosis induces its expression and this is largely occurring in arbuscule-containing cells that show a much stronger GUS activity than non-colonized cortical cells.",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET7a",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_3",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Its transcript was induced and promoter activity became strong in arbuscule-containing cells.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "8 weeks post inoculation",
+    "evidence_type": "Transgenic",
+    "effect_direction": "positive",
+    "evidence": "One of them is SWEET12a, whose transcript was induced at 8 wpi ... in mycorrhizal roots SWEET12a had a strong promoter activity in the cortex, particularly in arbuscule-containing cells.",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET12a",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_4",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Induced during symbiosis at 6 and 8 weeks post inoculation.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "6 and 8 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "SWEETs 1b and 7a ... were clearly induced during symbiosis at 6 and 8 wpi",
+    "extraction_FLAG": true,
+    "source": "Gene_SWEET1b",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_5",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Induced by Rhizophagus irregularis at both time-points analyzed and promoter activity was strongest in arbuscule-containing cells.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "6 and 8 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "SWEET7a was also expressed in control roots, and induced even further by R. irregularis at both time-points ... symbiosis induces its expression and this is largely occurring in arbuscule-containing cells.",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET7a",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_6",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Induced in response to fungal colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "during mycorrhiza colonization",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "10 were induced at least in one time point (SWEETs 1a, 1e, 2b, 2c, 3, 5b, 12a, 12e, 17a, and 17b).",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET12a",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_7",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Expressed at low level in control roots and induced in response to fungal colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "mainly at 6 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "SWEET1e, 5b, and 17a showed expression, albeit low, in control roots and were induced in response to fungal colonization",
+    "extraction_FLAG": true,
+    "source": "Gene_SWEET1b",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_8",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Induced at least in one time point during mycorrhiza colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "during mycorrhiza colonization",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "10 were induced at least in one time point (SWEETs 1a, 1e, 2b, 2c, 3, 5b, 12a, 12e, 17a, and 17b).",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET2c",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_9",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Promoter activity increased and relocalized mainly to arbuscule-containing cells.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "during mycorrhiza colonization",
+    "evidence_type": "Transgenic",
+    "effect_direction": "positive",
+    "evidence": "Upon fungal colonization, expression level was increased and relocalized mainly to arbuscule-containing cells.",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET2c",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_10",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Induced at least in one time point during mycorrhiza colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "during mycorrhiza colonization",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "10 were induced at least in one time point (SWEETs 1a, 1e, 2b, 2c, 3, 5b, 12a, 12e, 17a, and 17b).",
+    "extraction_FLAG": true,
+    "source": "Gene_SWEET3",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_11",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Expressed at low level in control roots and induced in response to fungal colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "mainly at 6 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "SWEET1e, 5b, and 17a showed expression, albeit low, in control roots and were induced in response to fungal colonization",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET2c",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_12",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Transcript was induced and promoter activity was strong in arbuscule-containing cells.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "8 weeks post inoculation",
+    "evidence_type": "Transgenic",
+    "effect_direction": "positive",
+    "evidence": "One of them is SWEET12a, whose transcript was induced at 8 wpi ... SWEET12a had a strong promoter activity in the cortex, particularly in arbuscule-containing cells.",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET12a",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_13",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Induced at least in one time point during mycorrhiza colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "during mycorrhiza colonization",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "10 were induced at least in one time point (SWEETs 1a, 1e, 2b, 2c, 3, 5b, 12a, 12e, 17a, and 17b).",
+    "extraction_FLAG": true,
+    "source": "Gene_SWEET1b",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_14",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Expressed in control roots and induced in response to fungal colonization, mainly at 6 weeks post inoculation.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "6 and 8 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "SWEET17a showed expression, albeit low, in control roots and were induced in response to fungal colonization, mainly at 6 wpi",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET7a",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_15",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Induced at least in one time point during mycorrhiza colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "during mycorrhiza colonization",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "10 were induced at least in one time point (SWEETs 1a, 1e, 2b, 2c, 3, 5b, 12a, 12e, 17a, and 17b).",
+    "extraction_FLAG": true,
+    "source": "Gene_SWEET1b",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_16",
+    "object_id": "phenotype_1",
+    "relation_type": "negatively_regulates",
+    "mechanism": "Expression was repressed at both time-points during mycorrhiza colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "6 and 8 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "negative",
+    "evidence": "the expression of two of them (SWEETs 10d and 12c) was repressed at both time-points",
+    "extraction_FLAG": true,
+    "source": "Gene_SWEET10d",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_17",
+    "object_id": "phenotype_1",
+    "relation_type": "negatively_regulates",
+    "mechanism": "Expression was repressed at both time-points during mycorrhiza colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "6 and 8 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "negative",
+    "evidence": "the expression of two of them (SWEETs 10d and 12c) was repressed at both time-points",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET2c",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_18",
+    "object_id": "phenotype_1",
+    "relation_type": "negatively_regulates",
+    "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "6 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "negative",
+    "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+    "extraction_FLAG": true,
+    "source": "Gene_SWEET1b",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_19",
+    "object_id": "phenotype_1",
+    "relation_type": "negatively_regulates",
+    "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "6 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "negative",
+    "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET12a",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_20",
+    "object_id": "phenotype_1",
+    "relation_type": "negatively_regulates",
+    "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "6 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "negative",
+    "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+    "extraction_FLAG": true,
+    "source": "Gene_SWEET1b",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_21",
+    "object_id": "phenotype_1",
+    "relation_type": "negatively_regulates",
+    "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "6 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "negative",
+    "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET2c",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_22",
+    "object_id": "phenotype_1",
+    "relation_type": "negatively_regulates",
+    "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "6 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "negative",
+    "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+    "extraction_FLAG": true,
+    "source": "Gene_StSWEET12a",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_23",
+    "object_id": "phenotype_1",
+    "relation_type": "negatively_regulates",
+    "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "6 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "negative",
+    "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+    "extraction_FLAG": true,
+    "source": "Gene_SWEET1b",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_24",
+    "object_id": "phenotype_1",
+    "relation_type": "negatively_regulates",
+    "mechanism": "Expression was repressed at 6 weeks post inoculation during mycorrhiza colonization.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "6 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "negative",
+    "evidence": "7 of them (SWEETs 1g, 10a, 10b, 10c, 11a, 12f, and 17c) showed repression at 6 wpi",
+    "extraction_FLAG": true,
+    "source": "Gene_SWEET1b",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_25",
+    "object_id": "metabolite_2",
+    "relation_type": "transports",
+    "mechanism": "The fungal monosaccharide transporter can transport several monosaccharides and has the greatest affinity for glucose.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "symbiosis",
+    "evidence_type": "Biochemical_Assay",
+    "effect_direction": "positive",
+    "evidence": "MST2 can transport several monosaccharides, including some pentoses, but it has the greatest affinity for glucose.",
+    "extraction_FLAG": true,
+    "source": "Gene_RiMST2",
+    "target": "Metabolite_Substrate_glucose",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_26",
+    "object_id": "phenotype_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "Expression of the potato cell wall-bound invertase increased when fungal colonization raised apoplastic sucrose.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "during mycorrhiza symbiosis",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "evidence": "While StPT4, RiTEF, and RiMST2 were almost exclusively expressed in mycorrhizal samples as expected, the CW invertase showed also expression in non-colonized roots, although fungal colonization significantly raised its expression levels.",
+    "extraction_FLAG": true,
+    "source": "Gene_InvCD141",
+    "target": "Phenotype_Trait_mycorrhiza symbiosis",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "phenotype_1",
+    "object_id": "phenotype_2",
+    "relation_type": "associated_with",
+    "mechanism": "Colonization of potato roots by the AM fungus caused major transcriptional rewiring of the SWEET family in roots.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "4, 6, and 8 weeks post inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "quantitative_effect": "changes in 22 of the 35 members",
+    "evidence": "Colonization of potato roots by the AM fungus Rhizophagus irregularis imposes major transcriptional rewiring of the SWEET family involving, only in roots, changes in 22 of the 35 members.",
+    "extraction_FLAG": true,
+    "source": "Phenotype_Trait_mycorrhiza symbiosis",
+    "target": "Phenotype_Trait_major transcriptional reprogramming of the SWEET family in roots",
+    "source_doi": "10.3389/fpls.2016.00487"
+  },
+  {
+    "subject_id": "gene_15",
+    "object_id": "phenotype_2",
+    "relation_type": "is_required_for",
+    "mechanism": "The marker was developed to identify Xoo strains that break xa5-mediated resistance.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Computational_Prediction",
+    "effect_direction": "positive",
+    "evidence": "This study aimed to develop a single nucleotide polymorphism (SNP) marker for precise identification of xa5-mediated resistance-breaking Xoo.",
+    "extraction_FLAG": true,
+    "source": "Gene_SNP marker XooE6",
+    "target": "Phenotype_Trait_xa5-mediated resistance breaking",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_13",
+    "object_id": "gene_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "The Tal1c effector was predicted to target the SWEET11 EBE and induce strong SWEET11 expression.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "7 DAI after Xoo inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "quantitative_effect": "strong expression of SWEET11",
+    "evidence": "the Tal1c effector in the Xoo strain SK2-3 identified recently was predicted to target the EBE of SWEET11, subsequently inducing a strong expression of SWEET11 in rice variety IRBB5",
+    "extraction_FLAG": true,
+    "source": "Protein_Tal1c",
+    "target": "Gene_SWEET11",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_8",
+    "object_id": "gene_1",
+    "relation_type": "positively_regulates",
+    "mechanism": "PthXo1 binds the EBE on the SWEET11 promoter and induces SWEET11 expression.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "evidence_type": "Biochemical_Assay",
+    "effect_direction": "positive",
+    "evidence": "the EBE on the SWEET11 promoter binds to PthXo1 ... This interaction between the EBE and PthXo1 leads to the induction of SWEET11 expression",
+    "extraction_FLAG": true,
+    "source": "Protein_PthXo1",
+    "target": "Gene_SWEET11",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_9",
+    "object_id": "gene_2",
+    "relation_type": "positively_regulates",
+    "mechanism": "PthXo2 induces SWEET13 expression.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Biochemical_Assay",
+    "effect_direction": "positive",
+    "evidence": "the expression of SWEET13 is induced by Xoo strains carrying PthXo2",
+    "extraction_FLAG": true,
+    "source": "Protein_PthXo2",
+    "target": "Gene_SWEET11",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_10",
+    "object_id": "gene_2",
+    "relation_type": "positively_regulates",
+    "mechanism": "PthXo3 activates SWEET14 expression.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Biochemical_Assay",
+    "effect_direction": "positive",
+    "evidence": "the activation of SWEET14 is mediated by AvrXa7, PthXo3, TalC, and TalF",
+    "extraction_FLAG": true,
+    "source": "Protein_PthXo3",
+    "target": "Gene_SWEET11",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_11",
+    "object_id": "gene_2",
+    "relation_type": "positively_regulates",
+    "mechanism": "TalC activates SWEET14 expression.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Biochemical_Assay",
+    "effect_direction": "positive",
+    "evidence": "the activation of SWEET14 is mediated by AvrXa7, PthXo3, TalC, and TalF",
+    "extraction_FLAG": true,
+    "source": "Protein_TalC",
+    "target": "Gene_SWEET11",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_12",
+    "object_id": "gene_2",
+    "relation_type": "positively_regulates",
+    "mechanism": "TalF activates SWEET14 expression.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Biochemical_Assay",
+    "effect_direction": "positive",
+    "evidence": "the activation of SWEET14 is mediated by AvrXa7, PthXo3, TalC, and TalF",
+    "extraction_FLAG": true,
+    "source": "Protein_TalF",
+    "target": "Gene_SWEET11",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_14",
+    "object_id": "gene_2",
+    "relation_type": "positively_regulates",
+    "mechanism": "AvrXa7 activates SWEET14 expression.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Biochemical_Assay",
+    "effect_direction": "positive",
+    "evidence": "the activation of SWEET14 is mediated by AvrXa7, PthXo3, TalC, and TalF",
+    "extraction_FLAG": true,
+    "source": "Protein_AvrXa7",
+    "target": "Gene_SWEET11",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_3",
+    "object_id": "gene_6",
+    "relation_type": "causes",
+    "mechanism": "The xa5 resistant recessive allele encodes TFIIAγ5.",
+    "evidence_type": "Computational_Prediction",
+    "effect_direction": "positive",
+    "evidence": "The xa5 resistant recessive allele in rice encodes a TF subunit TFIIAγ5",
+    "extraction_FLAG": true,
+    "source": "Gene_xa5",
+    "target": "Protein_TFIIAγ5",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_6",
+    "object_id": "gene_1",
+    "relation_type": "negatively_regulates",
+    "mechanism": "TFIIAγ5 disrupts interaction with TALEs, diminishing their ability to activate SWEET alleles.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Biochemical_Assay",
+    "effect_direction": "negative",
+    "evidence": "the xa5 resistant recessive allele in rice encodes a TF subunit TFIIAγ5, which disrupts the interaction with TALEs, consequently diminishing their ability to activate SWEET alleles",
+    "extraction_FLAG": true,
+    "source": "Protein_TFIIAγ5",
+    "target": "Gene_SWEET11",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_15",
+    "object_id": "phenotype_3",
+    "relation_type": "associated_with",
+    "mechanism": "XooE6-positive isolates were identified as compatible with IRBB5.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Computational_Prediction",
+    "effect_direction": "positive",
+    "quantitative_effect": "four positive Xoo isolates out of 64",
+    "evidence": "The SNP marker XooE6 conferred four positive Xoo isolates out of 64, including isolates Xoo16PK002, Xoo20PL010, Xoo20UT002, and Xoo strain SK2-3.",
+    "extraction_FLAG": true,
+    "source": "Gene_SNP marker XooE6",
+    "target": "Phenotype_Trait_compatibility with IRBB5",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_15",
+    "object_id": "phenotype_2",
+    "relation_type": "associated_with",
+    "mechanism": "The marker identified isolates that break xa5-mediated resistance.",
+    "growth_stage": [
+      "Unclear"
+    ],
+    "evidence_type": "Computational_Prediction",
+    "effect_direction": "positive",
+    "evidence": "XooE6 is specific to the IRBB5-compatible Xoo strains; therefore, XooE6 can be applied to identify Xoo strains that break xa5-mediated resistance in rice.",
+    "extraction_FLAG": true,
+    "source": "Gene_SNP marker XooE6",
+    "target": "Phenotype_Trait_xa5-mediated resistance breaking",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_3",
+    "relation_type": "positively_regulates",
+    "mechanism": "Upregulation of SWEET11 was associated with compatibility on IRBB5.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "7 DAI after Xoo inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "positive",
+    "quantitative_effect": "nearly 150 folds",
+    "evidence": "In rice variety IRBB5, the expression level of SWEET11 dramatically increased nearly 150 folds at 7 DAI with four XooE6-positive Xoo isolates",
+    "extraction_FLAG": true,
+    "source": "Gene_SWEET11",
+    "target": "Phenotype_Trait_compatibility with IRBB5",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_2",
+    "object_id": "phenotype_4",
+    "relation_type": "negatively_regulates",
+    "mechanism": "SWEET14 was suppressed by XooE6-positive isolates in all tested varieties, while the XooE6-negative isolate induced SWEET14 in IRBB13.",
+    "growth_stage": [
+      "Stress_Response"
+    ],
+    "growth_stage_detail": "7 DAI after Xoo inoculation",
+    "evidence_type": "Expression_Profiling",
+    "effect_direction": "negative",
+    "quantitative_effect": "suppressed by all four XooE6-positive Xoo isolates; approximately 92 folds in IRBB13 with Xoo16PK001",
+    "evidence": "the expression of SWEET14 was suppressed by all four XooE6-positive Xoo isolates, but slightly induced by the XooE6-negative isolate Xoo16PK001 ... which significantly activated the expression of SWEET14 in IRBB13 and IRBB21, approximately 92 and 46 folds, respectively",
+    "extraction_FLAG": true,
+    "source": "Gene_SWEET11",
+    "target": "Phenotype_Trait_compatibility with IRBB5",
+    "source_doi": "10.5423/PPJ.OA.04.2024.0070"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_1",
+    "relation_type": "causes",
+    "mechanism": "Loss of OsSWEET1b function reduced sucrose, glucose, fructose, starch and galactose contents in leaves during grain filling.",
+    "growth_stage": [
+      "Seed_Development"
+    ],
+    "growth_stage_detail": "grain filling stage",
+    "evidence_type": "Knockout_Knockdown",
+    "effect_direction": "negative",
+    "evidence": "ossweet1b mutants were have reduced the sucrose, glucose, fructose, starch and galactose contents",
+    "extraction_FLAG": true,
+    "source": "Gene_OsSWEET1b",
+    "target": "Phenotype_Trait_reduced sugar content in leaves",
+    "source_doi": "10.1007/s00299-023-03125-3"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_2",
+    "relation_type": "causes",
+    "mechanism": "Knockout of OsSWEET1b led to leaf yellowing and premature senescence at the filling stage.",
+    "growth_stage": [
+      "Seed_Development"
+    ],
+    "growth_stage_detail": "grain filling stage",
+    "evidence_type": "Knockout_Knockdown",
+    "effect_direction": "negative",
+    "evidence": "ossweet1b-1 and ossweet1b-2 mutant exhibited premature senescence phenotype, with their leaves turning yellow while the WT leaves remained green",
+    "extraction_FLAG": true,
+    "source": "Gene_OsSWEET1b",
+    "target": "Phenotype_Trait_premature leaf senescence phenotype",
+    "source_doi": "10.1007/s00299-023-03125-3"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_3",
+    "relation_type": "causes",
+    "mechanism": "Mutation of OsSWEET1b decreased chlorophyll content, Fv/Fm, stomatal conductance and net photosynthetic rate, and disrupted chloroplast structure.",
+    "growth_stage": [
+      "Seed_Development"
+    ],
+    "growth_stage_detail": "grain filling stage",
+    "evidence_type": "Knockout_Knockdown",
+    "effect_direction": "negative",
+    "evidence": "The chlorophyll a (Chla) and chlorophyll b (Chlb) content of ossweet1b mutants were obviously decrease than WT... the values of Fv/Fm, stomatal conductance (Gs) and net photosynthetic rate (Pn) were markedly reduced",
+    "extraction_FLAG": true,
+    "source": "Gene_OsSWEET1b",
+    "target": "Phenotype_Trait_reduced photosynthetic capacity",
+    "source_doi": "10.1007/s00299-023-03125-3"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_4",
+    "relation_type": "causes",
+    "mechanism": "OsSWEET1b knockout reduced effective tillers, seed setting rate, 1000-grain weight and yield per plant.",
+    "growth_stage": [
+      "Reproductive_Stage"
+    ],
+    "growth_stage_detail": "maturity stage",
+    "evidence_type": "Knockout_Knockdown",
+    "effect_direction": "negative",
+    "quantitative_effect": "seed setting rate was about 90% in the WT, but only 58% and 56% in the ossweet1b-1 and ossweet1b-2 mutants; 1000-grain weight was about 24 g in WT, but approximately 20 g in the mutants; yield per plant decreased 64% and 65%",
+    "evidence": "The seed setting rate was about 90% in the WT, but only 58% and 56% in the ossweet1b-1 and ossweet1b-2 mutants, respectively... The 1000-grain weight was about 24 g in WT, but approximately 20 g in the ossweet1b-1 and ossweet1b-2 mutants... the ossweet1b-1 and ossweet1b-2 mutants showed decrease 64% and 65% in yield per plant",
+    "extraction_FLAG": true,
+    "source": "Gene_OsSWEET1b",
+    "target": "Phenotype_Trait_reduced rice yield",
+    "source_doi": "10.1007/s00299-023-03125-3"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_5",
+    "relation_type": "causes",
+    "mechanism": "OsSWEET1b mutation reduced sugar content and induced carbon starvation-related gene expression, including DIN homologs.",
+    "growth_stage": [
+      "Seed_Development"
+    ],
+    "growth_stage_detail": "grain filling stage",
+    "evidence_type": "Knockout_Knockdown",
+    "effect_direction": "negative",
+    "evidence": "the OsSWEET1b gene may be a positive regulator of sugar content in leaves and its knockout caused reduced sugar content and carbon starvation in leaves",
+    "extraction_FLAG": true,
+    "source": "Gene_OsSWEET1b",
+    "target": "Phenotype_Trait_carbon starvation in leaves",
+    "source_doi": "10.1007/s00299-023-03125-3"
+  },
+  {
+    "subject_id": "gene_1",
+    "object_id": "phenotype_3",
+    "relation_type": "transports",
+    "mechanism": "BjSemiSWEET1 mediates sucrose uptake and efflux.",
+    "evidence_type": "Biochemical_Assay",
+    "effect_direction": "positive",
+    "evidence": "BjSemiSWEET1 from B. japonicum USDA 110 ... sucrose uptake activity was detected ... Together, the data from two different expression systems show that Bradyrhizobium BjSemiSWEET1 ... can mediate cellular sucrose uptake and efflux.",
+    "extraction_FLAG": true,
+    "source": "Gene_BjSemiSWEET1",
+    "target": "Phenotype_Trait_sucrose transport activity",
+    "source_doi": "10.1073/pnas.1311244110"
+  },
+  {
+    "subject_id": "gene_2",
+    "object_id": "phenotype_3",
+    "relation_type": "transports",
+    "mechanism": "AtSWEET11 functions as a sucrose effluxer.",
+    "evidence_type": "Biochemical_Assay",
+    "effect_direction": "positive",
+    "evidence": "The results show that BjSemiSWEET1 and AtSWEET11 function as sucrose effluxers.",
+    "extraction_FLAG": true,
+    "source": "Gene_AtSWEET11",
+    "target": "Phenotype_Trait_sucrose transport activity",
+    "source_doi": "10.1073/pnas.1311244110"
+  },
+  {
+    "subject_id": "gene_3",
+    "object_id": "phenotype_1",
+    "relation_type": "causes",
+    "mechanism": "Mutation of conserved residues in AtSWEET1 can abolish glucose transport activity.",
+    "evidence_type": "Knockout_Knockdown",
+    "effect_direction": "negative",
+    "evidence": "Four mutations (P23T, Y57A, G58D, and G180D) abolished glucose transport activity.",
+    "extraction_FLAG": true,
+    "source": "Gene_AtSWEET11",
+    "target": "Phenotype_Trait_loss of glucose transport activity",
+    "source_doi": "10.1073/pnas.1311244110"
+  },
+  {
+    "subject_id": "gene_4",
+    "object_id": "phenotype_2",
+    "relation_type": "negatively_regulates",
+    "mechanism": "Coexpression of defective AtSWEET1 mutants with wild type AtSWEET1 inhibits glucose transport activity.",
+    "evidence_type": "Transgenic",
+    "effect_direction": "negative",
+    "evidence": "SWEET1-Y57A and -G58D dramatically inhibited wild type SWEET1 activity ... Coexpression of mutant SWEET1 proteins together with WT inhibited SWEET1 glucose transport activity at different levels.",
+    "extraction_FLAG": true,
+    "source": "Gene_AtSWEET11",
+    "target": "Phenotype_Trait_inhibited glucose transport",
+    "source_doi": "10.1073/pnas.1311244110"
+  },
+  {
+    "subject_id": "gene_5",
+    "object_id": "gene_5",
+    "relation_type": "is_homolog_of",
+    "mechanism": "All eukaryotic SWEETs are described as having a conserved 3-TM repeat structure; the paper treats these Arabidopsis SWEETs as family members in interaction analyses.",
+    "evidence_type": "Computational_Prediction",
+    "evidence": "All 17 Arabidopsis SWEETs ... were fused ...; at least eight of the SWEETs can form homooligomers; also, we observed 47 heterooligomers.",
+    "extraction_FLAG": true,
+    "source": "Gene_AtSWEET11",
+    "target": "Gene_AtSWEET11",
+    "source_doi": "10.1073/pnas.1311244110"
+  },
+  {
+    "subject_id": "gene_3",
+    "object_id": "tissue_1",
+    "relation_type": "associated_with",
+    "mechanism": "AtSWEET1 interactions/localization were observed at the plasma membrane in yeast and in planta under transient expression conditions.",
+    "evidence_type": "Expression_Profiling",
+    "evidence": "All interactions seemed to occur at the plasma membrane except for AtSWEET1, for which interactions were observed in the endoplasmic reticulum (ER) and vesicular compartments.",
+    "extraction_FLAG": true,
+    "source": "Gene_AtSWEET11",
+    "target": "Tissue_CellType_plasma membrane",
+    "source_doi": "10.1073/pnas.1311244110"
+  },
+  {
+    "subject_id": "gene_3",
+    "object_id": "tissue_2",
+    "relation_type": "associated_with",
+    "mechanism": "AtSWEET1 interactions were observed in the endoplasmic reticulum.",
+    "evidence_type": "Expression_Profiling",
+    "evidence": "For AtSWEET1, interactions were observed in the endoplasmic reticulum (ER) and vesicular compartments.",
+    "extraction_FLAG": true,
+    "source": "Gene_AtSWEET11",
+    "target": "Tissue_CellType_endoplasmic reticulum",
+    "source_doi": "10.1073/pnas.1311244110"
+  },
+  {
+    "subject_id": "gene_3",
+    "object_id": "tissue_3",
+    "relation_type": "associated_with",
+    "mechanism": "AtSWEET1 interactions were observed in vesicular compartments.",
+    "evidence_type": "Expression_Profiling",
+    "evidence": "For AtSWEET1, interactions were observed in the endoplasmic reticulum (ER) and vesicular compartments.",
+    "extraction_FLAG": true,
+    "source": "Gene_AtSWEET11",
+    "target": "Tissue_CellType_vesicular compartments",
+    "source_doi": "10.1073/pnas.1311244110"
+  },
+  {
+    "subject_id": "gene_3",
+    "object_id": "phenotype_3",
+    "relation_type": "transports",
+    "mechanism": "The two separately expressed halves of AtSWEET1 reconstituted glucose transport activity when coexpressed.",
+    "evidence_type": "Transgenic",
+    "effect_direction": "positive",
+    "evidence": "Transport activity was reconstituted when the two halves were coexpressed, indicating a functional interaction between the two separately expressed domains.",
+    "extraction_FLAG": true,
+    "source": "Gene_AtSWEET11",
+    "target": "Phenotype_Trait_sucrose transport activity",
+    "source_doi": "10.1073/pnas.1311244110"
+  }
+]

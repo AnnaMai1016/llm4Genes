@@ -1,0 +1,416 @@
+{
+  "metadata": {
+    "title": "Genome-Wide Investigation and Characterization of SWEET Gene Family with Focus on Their Evolution and Expression during Hormone and Abiotic Stress Response in Maize",
+    "organism": [
+      "Zea mays"
+    ]
+  },
+  "entities": [
+    {
+      "local_id": "gene_1",
+      "name": "ZmSWEET1a",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d000222"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; reported as significantly expressed in almost all tissues and induced by salt stress and exogenous ABA.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_2",
+      "name": "ZmSWEET1b",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d038226"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; highly expressed in vegetative organs.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_3",
+      "name": "ZmSWEET3a",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d010440"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; highly expressed in vegetative organs.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_4",
+      "name": "ZmSWEET3b",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d039347"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; distinctly increased under Cd stress and significantly induced by exogenous ABA.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_5",
+      "name": "ZmSWEET4a",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d015905"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; significantly induced by salt stress and highly expressed in vegetative organs.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_6",
+      "name": "ZmSWEET4b",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d015914"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; significantly inhibited by salt stress and expressed in almost all tissues.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_7",
+      "name": "ZmSWEET4c",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d015912"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; significantly increased under drought stress and expressed in almost all tissues.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_8",
+      "name": "ZmSWEET6a",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d044421"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; significantly induced by salt stress and highly expressed in vegetative organs.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_9",
+      "name": "ZmSWEET6b",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d011299"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; significantly induced by salt stress and weakly expressed in all tissues.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_10",
+      "name": "ZmSWEET11a",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d031647"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; significantly expressed in the seed and distinctly increased under Cd stress.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_11",
+      "name": "ZmSWEET11b",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d021064"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; significantly expressed in the seed and significantly inhibited by salt stress.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_12",
+      "name": "ZmSWEET12a",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d029135"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; significantly inhibited by salt stress and significantly induced by exogenous ABA.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_13",
+      "name": "ZmSWEET12b",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d047487"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; weakly expressed in all tissues.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_14",
+      "name": "ZmSWEET13a",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d023677",
+        "Zm00001d023673"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; highly expressed in vegetative organs and significantly induced by salt stress.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_15",
+      "name": "ZmSWEET13b",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d041067"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; highly expressed in vegetative organs and distinctly increased under Cd stress.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_16",
+      "name": "ZmSWEET13c",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "description": "Maize SWEET gene identified in the genome-wide analysis; highly expressed in vegetative organs.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_17",
+      "name": "ZmSWEET14a",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d007365"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; significantly expressed in the seed and inhibited by salt stress.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_18",
+      "name": "ZmSWEET14b",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d049252"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; significantly expressed in the seed and inhibited by salt stress; increased under drought stress.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_19",
+      "name": "ZmSWEET15a",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d050577"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; significantly expressed in the seed, inhibited by salt stress, and increased under drought stress.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_20",
+      "name": "ZmSWEET15b",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d016590"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; expressed in almost all tissues, inhibited by salt stress, and significantly induced by exogenous ABA.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_21",
+      "name": "ZmSWEET16",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d029098"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; significantly expressed in the seed and induced by exogenous ABA.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_22",
+      "name": "ZmSWEET17a",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d040656"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; distinctly increased under Cd stress and induced by exogenous ABA.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_23",
+      "name": "ZmSWEET17b",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d009071"
+      ],
+      "description": "Maize SWEET gene identified in the genome-wide analysis; highly expressed in vegetative organs.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "gene_24",
+      "name": "ZmSWEETb-2",
+      "type": "Gene",
+      "organism": "Zea mays",
+      "synonyms": [
+        "Zm00001d043735",
+        "bidirectional sugar transporter SWEET2"
+      ],
+      "description": "A maize SWEET gene named from Zm00001d043735 and referred to as bidirectional sugar transporter SWEET2 in the paper.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_1",
+      "name": "severe stunting",
+      "type": "Phenotype_Trait",
+      "organism": "Zea mays",
+      "description": "Phenotype observed in zmsweet13a, b, and c mutants.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_2",
+      "name": "small grain and semidwarf phenotype",
+      "type": "Phenotype_Trait",
+      "organism": "Oryza sativa",
+      "description": "Defective seed development phenotype reported for ossweet11 and ossweet14 mutants in rice.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_3",
+      "name": "severe crumpling of the kernel",
+      "type": "Phenotype_Trait",
+      "organism": "Zea mays",
+      "description": "Kernel phenotype caused by zmsweet4c mutation; associated with reduced yield.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_4",
+      "name": "reduced yield",
+      "type": "Phenotype_Trait",
+      "organism": "Zea mays",
+      "description": "Yield reduction reported for zmsweet4c mutation.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_5",
+      "name": "greater salt tolerance",
+      "type": "Phenotype_Trait",
+      "organism": "Arabidopsis thaliana",
+      "description": "Phenotype of the atsweet15 mutant reported in the introduction.",
+      "extraction_FLAG": true
+    },
+    {
+      "local_id": "phenotype_6",
+      "name": "more sensitive to salt stress",
+      "type": "Phenotype_Trait",
+      "organism": "Arabidopsis thaliana",
+      "description": "Phenotype of transgenic Arabidopsis overexpressing AtSWEET15 reported in the introduction.",
+      "extraction_FLAG": true
+    }
+  ],
+  "relations": [
+    {
+      "subject_id": "gene_1",
+      "object_id": "phenotype_1",
+      "relation_type": "associated_with",
+      "mechanism": "Transcript abundance was significantly induced under salt stress and exogenous ABA; the gene was described as part of the set affected by multiple treatments.",
+      "growth_stage": [
+        "Unclear"
+      ],
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "Under salt stress, the transcription of five ZmSWEET genes (ZmSWEET1a/4a/6a/6b/13a) was significantly induced... Under exogenous ABA treatment, the transcription of 16 ZmSWEET genes was induced, of which five genes (ZmSWEET1a/3b/12a/14a/15b) were significantly induced.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_4",
+      "object_id": "phenotype_1",
+      "relation_type": "associated_with",
+      "mechanism": "Transcript abundance was distinctly increased under Cd stress and significantly induced by exogenous ABA.",
+      "growth_stage": [
+        "Unclear"
+      ],
+      "evidence_type": "Expression_Profiling",
+      "effect_direction": "positive",
+      "evidence": "Under Cd stress, the transcript abundance of ZmSWEET3b/11a/13b/17a was distinctly increased... Under exogenous ABA treatment, the transcription of 16 ZmSWEET genes was induced, of which five genes (ZmSWEET1a/3b/12a/14a/15b) were significantly induced.",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_7",
+      "object_id": "phenotype_3",
+      "relation_type": "causes",
+      "mechanism": "The zmsweet4c mutation causes kernel crumpling.",
+      "growth_stage": [
+        "Seed_Development"
+      ],
+      "growth_stage_detail": "development and maturation of maize kernels",
+      "evidence_type": "Knockout_Knockdown",
+      "effect_direction": "negative",
+      "evidence": "the zmsweet4c mutation causes severe crumpling of the kernel, thereby reducing yield",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_7",
+      "object_id": "phenotype_4",
+      "relation_type": "causes",
+      "mechanism": "The zmsweet4c mutation reduces yield.",
+      "growth_stage": [
+        "Seed_Development"
+      ],
+      "growth_stage_detail": "development and maturation of maize kernels",
+      "evidence_type": "Knockout_Knockdown",
+      "effect_direction": "negative",
+      "evidence": "the zmsweet4c mutation causes severe crumpling of the kernel, thereby reducing yield",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_11",
+      "object_id": "phenotype_2",
+      "relation_type": "causes",
+      "mechanism": "The ossweet11 and ossweet14 mutants are defective in seed development.",
+      "growth_stage": [
+        "Seed_Development"
+      ],
+      "evidence_type": "Knockout_Knockdown",
+      "effect_direction": "negative",
+      "evidence": "the ossweet11 and ossweet14 mutants are defective in seed development, exhibiting a small grain and semidwarf phenotype",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_20",
+      "object_id": "phenotype_5",
+      "relation_type": "negatively_regulates",
+      "mechanism": "The atsweet15 mutant shows greater salt tolerance.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "evidence_type": "Knockout_Knockdown",
+      "effect_direction": "negative",
+      "evidence": "the atsweet15 mutant shows greater salt tolerance",
+      "extraction_FLAG": true
+    },
+    {
+      "subject_id": "gene_20",
+      "object_id": "phenotype_6",
+      "relation_type": "positively_regulates",
+      "mechanism": "Transgenic Arabidopsis overexpressing AtSWEET15 was more sensitive to salt stress.",
+      "growth_stage": [
+        "Stress_Response"
+      ],
+      "evidence_type": "Transgenic",
+      "effect_direction": "positive",
+      "evidence": "Transgenic Arabidopsis overexpressing AtSWEET15 was more sensitive to salt stress",
+      "extraction_FLAG": true
+    }
+  ]
+}

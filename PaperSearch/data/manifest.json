@@ -1,0 +1,378 @@
+[
+  {
+    "doi": "10.1186/s12870-026-09231-0",
+    "pmid": "42271237",
+    "title": "Integrated transcriptomic and metabolomic analysis of a mutant reveals the potential mechanism of endosperm content increase in sweet-waxy double recessive maize.",
+    "pubdate": "2026 Jun 10",
+    "source_journal": "BMC plant biology",
+    "matched_query": "SWEET transporter gene phenotype",
+    "fulltext_status": "need_to_be_download",
+    "attempted_url": "https://doi.org/10.1186/s12870-026-09231-0",
+    "attempted_urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/63/e2/12870_2026_Article_9231.PMC13374357.pdf",
+      "https://doi.org/10.1186/s12870-026-09231-0"
+    ]
+  },
+  {
+    "doi": "10.3389/fpls.2026.1827811",
+    "pmid": "42255294",
+    "title": "Widely targeted metabolomics reveals maturity-associated metabolic differences and their associations with style characteristics in flue-cured tobacco from distinct ecological regions of Guizhou.",
+    "pubdate": "2026",
+    "source_journal": "Frontiers in plant science",
+    "matched_query": "SWEET transporter gene phenotype",
+    "fulltext_status": "need_to_be_download",
+    "attempted_url": "https://doi.org/10.3389/fpls.2026.1827811",
+    "attempted_urls": [
+      "https://doi.org/10.3389/fpls.2026.1827811"
+    ]
+  },
+  {
+    "doi": "10.1111/jipb.70283",
+    "pmid": "42108611",
+    "title": "Genomic variation drives plant flavor diversification.",
+    "pubdate": "2026 May 10",
+    "source_journal": "Journal of integrative plant biology",
+    "matched_query": "SWEET transporter gene phenotype",
+    "fulltext_status": "need_to_be_download",
+    "attempted_url": "https://doi.org/10.1111/jipb.70283",
+    "attempted_urls": [
+      "https://doi.org/10.1111/jipb.70283"
+    ]
+  },
+  {
+    "doi": "10.3390/microorganisms14030571",
+    "pmid": "41900331",
+    "title": "Dual-Transcriptome Dissection of the Mechanisms Underlying Alfalfa Phenotypic Differences Induced by Two Rhizobial Isolates.",
+    "pubdate": "2026 Mar 3",
+    "source_journal": "Microorganisms",
+    "matched_query": "SWEET transporter gene phenotype",
+    "fulltext_status": "need_to_be_download",
+    "attempted_url": "https://www.mdpi.com/2076-2607/14/3/571/pdf",
+    "attempted_urls": [
+      "https://www.mdpi.com/2076-2607/14/3/571/pdf"
+    ]
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.117055",
+    "pmid": "41805294",
+    "title": "Targeting redundant gene families: A multiplexed, tissue-specific CRISPR toolbox for Arabidopsis genetic screens.",
+    "pubdate": "2026 Mar 24",
+    "source_journal": "Cell reports",
+    "matched_query": "SWEET transporter gene phenotype",
+    "fulltext_status": "need_to_be_download",
+    "attempted_url": "https://doi.org/10.1016/j.celrep.2026.117055",
+    "attempted_urls": [
+      "https://doi.org/10.1016/j.celrep.2026.117055"
+    ]
+  },
+  {
+    "doi": "10.1016/j.gene.2023.147797",
+    "pmid": null,
+    "title": "Genome-wide identification of nitrate transporter 1/peptide transporter family (NPF) genes reveals that PaNPF5.5 enhances nitrate uptake in sweet cherry under high nitrate condition",
+    "pubdate": "2023-12",
+    "source_journal": "Gene",
+    "matched_query": "SWEET transporter gene phenotype",
+    "fulltext_status": "need_to_be_download"
+  },
+  {
+    "doi": "10.21203/rs.3.rs-2616315/v1",
+    "pmid": null,
+    "title": "Genome-wide identification of the auxin transporter gene families in sweet potato (Ipomoea batatas) and their expression during tuberization",
+    "pubdate": "2023-3-1",
+    "source_journal": null,
+    "matched_query": "SWEET transporter gene phenotype",
+    "fulltext_status": "unpaywall_oa",
+    "pdf_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/PaperSearch/data/pdfs/10.21203_rs.3.rs-2616315_v1.pdf",
+    "downloaded_at_utc": "2026-07-31T19:34:36Z",
+    "mineru_status": "done",
+    "markdown_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.21203_rs.3.rs-2616315_v1/auto/10.21203_rs.3.rs-2616315_v1.md",
+    "mineru_backend": "pipeline",
+    "extraction_status": "done",
+    "extraction_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.21203_rs.3.rs-2616315_v1/extraction.json",
+    "entities_count": 6,
+    "relations_count": 5
+  },
+  {
+    "doi": "10.1016/s0893-133x(00)00216-5",
+    "pmid": null,
+    "title": "The Variable Number of Tandem Repeats Polymorphism of the Dopamine Transporter Gene Is Not Associated with Significant Change in Dopamine Transporter Phenotype in Humans",
+    "pubdate": "2001-5",
+    "source_journal": "Neuropsychopharmacology",
+    "matched_query": "SWEET transporter gene phenotype",
+    "fulltext_status": "unpaywall_oa",
+    "pdf_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/PaperSearch/data/pdfs/10.1016_s0893-133x(00)00216-5.pdf",
+    "downloaded_at_utc": "2026-07-31T19:34:37Z",
+    "mineru_status": "done",
+    "markdown_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.1016_s0893-133x(00)00216-5/auto/10.1016_s0893-133x(00)00216-5.md",
+    "mineru_backend": "pipeline",
+    "extraction_status": "done",
+    "extraction_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.1016_s0893-133x(00)00216-5/extraction.json",
+    "entities_count": 5,
+    "relations_count": 4
+  },
+  {
+    "doi": "10.1016/j.gene.2016.10.013",
+    "pmid": null,
+    "title": "Role of HIF-1α in the hypoxia inducible expression of the thiamine transporter, SLC19A3",
+    "pubdate": "2016-12",
+    "source_journal": "Gene",
+    "matched_query": "SWEET transporter gene phenotype",
+    "fulltext_status": "need_to_be_download"
+  },
+  {
+    "doi": "10.1093/hmg/10.14.1485",
+    "pmid": null,
+    "title": "Mutations in the diastrophic dysplasia sulfate transporter (DTDST) gene: correlation between sulfate transport activity and chondrodysplasia phenotype",
+    "pubdate": "2001-7-1",
+    "source_journal": "Human Molecular Genetics",
+    "matched_query": "SWEET transporter gene phenotype",
+    "fulltext_status": "unpaywall_oa",
+    "pdf_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/PaperSearch/data/pdfs/10.1093_hmg_10.14.1485.pdf",
+    "downloaded_at_utc": "2026-07-31T19:34:49Z",
+    "mineru_status": "done",
+    "markdown_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.1093_hmg_10.14.1485/auto/10.1093_hmg_10.14.1485.md",
+    "mineru_backend": "pipeline",
+    "extraction_status": "done",
+    "extraction_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.1093_hmg_10.14.1485/extraction.json",
+    "entities_count": 4,
+    "relations_count": 3
+  },
+  {
+    "doi": "10.1186/s12870-026-08165-x",
+    "pmid": "41555238",
+    "title": "Integrating GWAS and gene expression to decipher genetic components of pericarp thickness and soluble sugars in sweet corn.",
+    "pubdate": "2026 Jan 19",
+    "source_journal": "BMC plant biology",
+    "matched_query": "SWEET family sugar transporter maize",
+    "fulltext_status": "need_to_be_download",
+    "attempted_url": "https://doi.org/10.1186/s12870-026-08165-x",
+    "attempted_urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/bb/29/12870_2026_Article_8165.PMC12895958.pdf",
+      "https://doi.org/10.1186/s12870-026-08165-x"
+    ]
+  },
+  {
+    "doi": "10.1186/s12864-024-10933-8",
+    "pmid": "39448896",
+    "title": "Genome-wide analysis of the SWEET gene family and its response to powdery mildew and leaf spot infection in the common oat (Avena sativa L.).",
+    "pubdate": "2024 Oct 24",
+    "source_journal": "BMC genomics",
+    "matched_query": "SWEET family sugar transporter maize",
+    "fulltext_status": "unpaywall_oa",
+    "pdf_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/PaperSearch/data/pdfs/10.1186_s12864-024-10933-8.pdf",
+    "downloaded_at_utc": "2026-07-31T19:46:31Z",
+    "mineru_status": "done",
+    "markdown_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.1186_s12864-024-10933-8/auto/10.1186_s12864-024-10933-8.md",
+    "mineru_backend": "pipeline",
+    "extraction_status": "done",
+    "extraction_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.1186_s12864-024-10933-8/extraction.json",
+    "entities_count": 17,
+    "relations_count": 17
+  },
+  {
+    "doi": "10.1016/j.plaphy.2024.108845",
+    "pmid": "38885565",
+    "title": "The maize sugar transporters ZmSWEET15a and ZmSWEET15b positively regulate salt tolerance in plants.",
+    "pubdate": "2024 Aug",
+    "source_journal": "Plant physiology and biochemistry : PPB",
+    "matched_query": "SWEET family sugar transporter maize",
+    "fulltext_status": "need_to_be_download",
+    "attempted_url": "ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/4d/ad/main.PMC13154653.pdf",
+    "attempted_urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/4d/ad/main.PMC13154653.pdf"
+    ]
+  },
+  {
+    "doi": "10.1007/s10142-023-01062-8",
+    "pmid": "37093289",
+    "title": "Sugar transporter ZmSWEET1b is responsible for assimilate allocation and salt stress response in maize.",
+    "pubdate": "2023 Apr 24",
+    "source_journal": "Functional & integrative genomics",
+    "matched_query": "SWEET family sugar transporter maize",
+    "fulltext_status": "need_to_be_download"
+  },
+  {
+    "doi": "10.3390/genes13101682",
+    "pmid": "36292567",
+    "title": "Genome-Wide Investigation and Characterization of SWEET Gene Family with Focus on Their Evolution and Expression during Hormone and Abiotic Stress Response in Maize.",
+    "pubdate": "2022 Sep 20",
+    "source_journal": "Genes",
+    "matched_query": "SWEET family sugar transporter maize",
+    "fulltext_status": "download_manual",
+    "attempted_url": "https://www.mdpi.com/2073-4425/13/10/1682/pdf?version=1663912158",
+    "attempted_urls": [
+      "https://www.mdpi.com/2073-4425/13/10/1682/pdf?version=1663912158"
+    ],
+    "pdf_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/PaperSearch/data/pdfs/10.3390_genes13101682.pdf",
+    "downloaded_at_utc": "2026-07-31T21:18:38Z",
+    "mineru_status": "done",
+    "markdown_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.3390_genes13101682/auto/10.3390_genes13101682.md",
+    "mineru_backend": "pipeline",
+    "extraction_status": "done",
+    "extraction_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.3390_genes13101682/extraction.json",
+    "entities_count": 30,
+    "relations_count": 7
+  },
+  {
+    "doi": "10.18699/plantgen2021-113",
+    "pmid": null,
+    "title": "Investigation of SWEET family sugar transporter genes and their role in arbuscular mycorrhiza",
+    "pubdate": "2021",
+    "source_journal": "Plant Genetics, Genomics, Bioinformatics, and Biotechnology (PlantGen2021)",
+    "matched_query": "SWEET family sugar transporter maize",
+    "fulltext_status": "unpaywall_oa",
+    "pdf_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/PaperSearch/data/pdfs/10.18699_plantgen2021-113.pdf",
+    "downloaded_at_utc": "2026-07-31T19:34:54Z",
+    "mineru_status": "done",
+    "markdown_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.18699_plantgen2021-113/auto/10.18699_plantgen2021-113.md",
+    "mineru_backend": "pipeline",
+    "extraction_status": "done",
+    "extraction_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.18699_plantgen2021-113/extraction.json",
+    "entities_count": 6,
+    "relations_count": 6
+  },
+  {
+    "doi": "10.3410/f.742305049.793596484",
+    "pmid": null,
+    "title": "Faculty Opinions recommendation of The sugar transporter ZmSUGCAR1 of the nitrate transporter 1/peptide transporter family is critical for maize grain filling.",
+    "pubdate": "2022-11-12",
+    "source_journal": "Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature",
+    "matched_query": "SWEET family sugar transporter maize",
+    "fulltext_status": "need_to_be_download"
+  },
+  {
+    "doi": "10.3410/f.718106563.793484723",
+    "pmid": null,
+    "title": "Faculty Opinions recommendation of Functional role of oligomerization for bacterial and plant SWEET sugar transporter family.",
+    "pubdate": "2013-10-3",
+    "source_journal": "Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature",
+    "matched_query": "SWEET family sugar transporter maize",
+    "fulltext_status": "need_to_be_download"
+  },
+  {
+    "doi": "10.3410/f.718106563.793483732",
+    "pmid": null,
+    "title": "Faculty Opinions recommendation of Functional role of oligomerization for bacterial and plant SWEET sugar transporter family.",
+    "pubdate": "2013-9-20",
+    "source_journal": "Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature",
+    "matched_query": "SWEET family sugar transporter maize",
+    "fulltext_status": "need_to_be_download"
+  },
+  {
+    "doi": "10.3389/fpls.2016.00487",
+    "pmid": null,
+    "title": "Arbuscular mycorrhiza Symbiosis Induces a Major Transcriptional Reprogramming of the Potato SWEET Sugar Transporter Family",
+    "pubdate": "2016-4-14",
+    "source_journal": "Frontiers in Plant Science",
+    "matched_query": "SWEET family sugar transporter maize",
+    "fulltext_status": "unpaywall_oa",
+    "pdf_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/PaperSearch/data/pdfs/10.3389_fpls.2016.00487.pdf",
+    "downloaded_at_utc": "2026-07-31T19:34:57Z",
+    "mineru_status": "done",
+    "markdown_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.3389_fpls.2016.00487/auto/10.3389_fpls.2016.00487.md",
+    "mineru_backend": "pipeline",
+    "extraction_status": "done",
+    "extraction_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.3389_fpls.2016.00487/extraction.json",
+    "entities_count": 34,
+    "relations_count": 27
+  },
+  {
+    "doi": "10.5423/PPJ.OA.04.2024.0070",
+    "pmid": "39397300",
+    "title": "Development and Validation of an SNP Marker for Identifying Xanthomonas oryzae pv. oryzae Thai Isolates That Break xa5-Mediated Bacterial Blight Resistance in Rice.",
+    "pubdate": "2024 Oct",
+    "source_journal": "The plant pathology journal",
+    "matched_query": "SWEET family sugar transporter rice",
+    "fulltext_status": "unpaywall_oa",
+    "pdf_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/PaperSearch/data/pdfs/10.5423_PPJ.OA.04.2024.0070.pdf",
+    "downloaded_at_utc": "2026-07-31T19:46:38Z",
+    "mineru_status": "done",
+    "markdown_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.5423_PPJ.OA.04.2024.0070/auto/10.5423_PPJ.OA.04.2024.0070.md",
+    "mineru_backend": "pipeline",
+    "extraction_status": "done",
+    "extraction_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.5423_PPJ.OA.04.2024.0070/extraction.json",
+    "entities_count": 26,
+    "relations_count": 14
+  },
+  {
+    "doi": "10.1007/s00299-023-03125-3",
+    "pmid": "38183427",
+    "title": "Plasma membrane-localized hexose transporter OsSWEET1b, affects sugar metabolism and leaf senescence.",
+    "pubdate": "2024 Jan 6",
+    "source_journal": "Plant cell reports",
+    "matched_query": "SWEET family sugar transporter rice",
+    "fulltext_status": "download_manual",
+    "pdf_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/PaperSearch/data/pdfs/10.1007_s00299-023-03125-3.pdf",
+    "downloaded_at_utc": "2026-07-31T21:43:34Z",
+    "mineru_status": "done",
+    "markdown_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.1007_s00299-023-03125-3/auto/10.1007_s00299-023-03125-3.md",
+    "mineru_backend": "pipeline",
+    "extraction_status": "done",
+    "extraction_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.1007_s00299-023-03125-3/extraction.json",
+    "entities_count": 7,
+    "relations_count": 5
+  },
+  {
+    "doi": "10.1111/nph.18808",
+    "pmid": "36764921",
+    "title": "CRISPRi in Xanthomonas demonstrates functional convergence of transcription activator-like effectors in two divergent pathogens.",
+    "pubdate": "2023 May",
+    "source_journal": "The New phytologist",
+    "matched_query": "SWEET family sugar transporter rice",
+    "fulltext_status": "need_to_be_download",
+    "attempted_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.18808",
+    "attempted_urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/09/99/13036_2026_Article_673.PMC13202827.pdf",
+      "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.18808"
+    ]
+  },
+  {
+    "doi": "10.7717/peerj.14704",
+    "pmid": "36684667",
+    "title": "Genome-wide identification and expression profile analysis of SWEET genes in Chinese jujube.",
+    "pubdate": "2023",
+    "source_journal": "PeerJ",
+    "matched_query": "SWEET family sugar transporter rice",
+    "fulltext_status": "need_to_be_download",
+    "attempted_url": "https://doi.org/10.7717/peerj.14704",
+    "attempted_urls": [
+      "https://doi.org/10.7717/peerj.14704"
+    ]
+  },
+  {
+    "doi": "10.1016/j.bpj.2020.11.663",
+    "pmid": null,
+    "title": "Structural Dynamics and Energetics of Glucose Transport via Rice SWEET Sugar Transporter",
+    "pubdate": "2021-2",
+    "source_journal": "Biophysical Journal",
+    "matched_query": "SWEET family sugar transporter rice",
+    "fulltext_status": "need_to_be_download",
+    "attempted_url": "http://www.cell.com/article/S0006349520315708/pdf",
+    "attempted_urls": [
+      "http://www.cell.com/article/S0006349520315708/pdf"
+    ]
+  },
+  {
+    "doi": "10.3410/f.733048803.793547535",
+    "pmid": null,
+    "title": "Faculty Opinions recommendation of Rice transcription factor osdof11 modulates sugar transport by promoting expression of sucrose transporter and SWEET genes.",
+    "pubdate": "2018-6-25",
+    "source_journal": "Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature",
+    "matched_query": "SWEET family sugar transporter rice",
+    "fulltext_status": "need_to_be_download"
+  },
+  {
+    "doi": "10.1073/pnas.1311244110",
+    "title": "Functional role of oligomerization for bacterial and plant SWEET sugar transporter family",
+    "fulltext_status": "download_manual",
+    "pdf_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/PaperSearch/data/pdfs/10.1073_pnas.1311244110.pdf",
+    "downloaded_at_utc": "2026-07-31T21:50:49Z",
+    "mineru_status": "done",
+    "markdown_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.1073_pnas.1311244110/auto/10.1073_pnas.1311244110.md",
+    "mineru_backend": "pipeline",
+    "extraction_status": "done",
+    "extraction_path": "/work/hdd/bbkc/litingm2/PaperReviewTool-main/Project-Gene/10.1073_pnas.1311244110/extraction.json",
+    "entities_count": 14,
+    "relations_count": 9
+  }
+]

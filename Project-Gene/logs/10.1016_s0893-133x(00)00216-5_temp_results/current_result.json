@@ -1,0 +1,148 @@
+{
+  "saved_at_utc": "2026-08-01T02:03:42.792487+00:00",
+  "result": {
+    "metadata": {
+      "title": "The Variable Number of Tandem Repeats Polymorphism of the Dopamine Transporter Gene Is Not Associated with Significant Change in Dopamine Transporter Phenotype in Humans",
+      "organism": [
+        "Human"
+      ]
+    },
+    "entities": [
+      {
+        "local_id": "gene_1",
+        "name": "SLC6A3",
+        "type": "Gene",
+        "organism": "Human",
+        "synonyms": [
+          "DAT",
+          "solute carrier family 6, member 3",
+          "SLC6A3*9R",
+          "SLC6A3*10R"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Gene coding for the dopamine transporter (DAT); VNTR polymorphism in its 3' untranslated region was studied.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_1",
+        "name": "amphetamine-induced dopamine release",
+        "type": "Phenotype_Trait",
+        "organism": null,
+        "synonyms": [
+          "amphetamine-induced increase in synaptic dopamine",
+          "decrease in [123I]IBZM binding potential after amphetamine"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Neurochemical phenotype measured by the decrease in [123I]IBZM binding after amphetamine challenge.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_2",
+        "name": "DAT expression",
+        "type": "Phenotype_Trait",
+        "organism": null,
+        "synonyms": [
+          "DAT protein availability",
+          "[123I]b-CIT binding",
+          "DAT density"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Dopamine transporter availability/expression measured by [123I]b-CIT binding.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_3",
+        "name": "schizophrenia",
+        "type": "Phenotype_Trait",
+        "organism": null,
+        "synonyms": [
+          "patients with schizophrenia"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Diagnostic group included in the imaging study.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_4",
+        "name": "healthy controls",
+        "type": "Phenotype_Trait",
+        "organism": null,
+        "synonyms": [
+          "controls",
+          "normal control group"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Control group without neurological or psychiatric illness.",
+        "extraction_FLAG": true
+      }
+    ],
+    "relations": [
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "The paper tested whether SLC6A3 VNTR status alters amphetamine-induced synaptic dopamine release measured by [123I]IBZM displacement.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": "SLC6A3*9R carriers: 14.4 ± 13.8% vs SLC6A3*10R homozygotes: 10.3 ± 10.2% displacement; p = .16",
+        "evidence": "No significant effect of DAT VNTR status on amphetamine-induced dopamine release was found; the SLC6A3*9R carrier group showed 14.4 ± 13.8% displacement of [123I]IBZM compared to 10.3 ± 10.2% for the SLC6A3*10R homozygote group (p = .16).",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_2",
+        "relation_type": "associated_with",
+        "mechanism": "The paper tested whether SLC6A3 VNTR status alters DAT availability/expression measured by [123I]b-CIT binding.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "no_effect",
+        "quantitative_effect": "SLC6A3*9R carriers: 8.1 ± 1.8 vs SLC6A3*10R homozygotes: 8.1 ± 1.4; p = .97",
+        "evidence": "Analysis of variance revealed no significant effect of diagnosis or VNTR status on [123I]b-CIT V3''; the mean [123I]b-CIT V3'' in the SLC6A3*9R carrier group was 8.1 ± 1.8 compared to 8.1 ± 1.4 for the SLC6A3*10R homozygote group (p = .97).",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "Within patients with schizophrenia, SLC6A3*9R carriers showed greater amphetamine-induced decrease in [123I]IBZM binding potential than 10R homozygotes, but the difference was not significant.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "positive",
+        "quantitative_effect": "Schizophrenia: 21.0 ± 16.2% vs 14.5 ± 11.7%; p = .24",
+        "evidence": "The mean displacement of [123I]IBZM following amphetamine in SLC6A3*9R carrier subjects with schizophrenia was 21.0 ± 16.2% compared to 14.5 ± 11.7% in SLC6A3*10R homozygote subjects with schizophrenia (p = .24).",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "Within healthy controls, SLC6A3*9R carriers showed greater amphetamine-induced decrease in [123I]IBZM binding potential than 10R homozygotes, but the difference was not significant.",
+        "growth_stage": [
+          "Unclear"
+        ],
+        "growth_stage_detail": null,
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "positive",
+        "quantitative_effect": "Controls: 8.3 ± 7.8% vs 6.6 ± 7.2%; p = .55",
+        "evidence": "The SLC6A3*9R carrier control subjects showed a mean displacement of 8.3 ± 7.8%, whereas SLC6A3*10R homozygote control subjects showed a mean displacement of 6.6 ± 7.2% (p = .55).",
+        "extraction_FLAG": true
+      }
+    ],
+    "patch_set": null
+  }
+}

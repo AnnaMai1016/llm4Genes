@@ -1,0 +1,201 @@
+{
+  "saved_at_utc": "2026-08-01T02:05:27.365686+00:00",
+  "result": {
+    "metadata": {
+      "title": "Plasma membrane-localized hexose transporter OsSWEET1b, afects sugar metabolism and leaf senescence",
+      "organism": [
+        "Oryza sativa"
+      ]
+    },
+    "entities": [
+      {
+        "local_id": "gene_1",
+        "name": "OsSWEET1b",
+        "type": "Gene",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "LOC_Os05g35140",
+          "OsWEET1b"
+        ],
+        "expression_location": [
+          "leaves",
+          "plasma membrane"
+        ],
+        "transported_substrate": [
+          "Glucose",
+          "Fructose",
+          "Other_Sugar"
+        ],
+        "description": "Rice SWEET gene characterized as a hexose transporter; expressed higher in leaves, localized to the plasma membrane, and functionally active in yeast for glucose and galactose transport.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "protein_1",
+        "name": "OsSWEET1b protein",
+        "type": "Protein",
+        "organism": "Oryza sativa",
+        "synonyms": [
+          "OsSWEET1b"
+        ],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": [
+          "Glucose",
+          "Fructose",
+          "Other_Sugar"
+        ],
+        "description": "Protein product of OsSWEET1b; shown to localize to the plasma membrane, transport glucose and galactose in yeast, and form homodimers.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_1",
+        "name": "reduced sugar content in leaves",
+        "type": "Phenotype_Trait",
+        "organism": null,
+        "synonyms": [
+          "reduced sucrose, glucose, fructose, starch and galactose contents"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Leaf sugar contents were reduced in ossweet1b mutants during grain filling.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_2",
+        "name": "premature leaf senescence phenotype",
+        "type": "Phenotype_Trait",
+        "organism": null,
+        "synonyms": [
+          "leaf premature senescence",
+          "accelerating leaf senescence"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "ossweet1b knockout plants showed premature senescence of leaves at the grain-filling stage.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_3",
+        "name": "reduced photosynthetic capacity",
+        "type": "Phenotype_Trait",
+        "organism": null,
+        "synonyms": [
+          "decreased chlorophyll content",
+          "reduced net photosynthetic rate",
+          "reduced stomatal conductance"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "ossweet1b mutants had decreased chlorophyll and photosynthetic parameters, with disordered chloroplast structure.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_4",
+        "name": "reduced rice yield",
+        "type": "Phenotype_Trait",
+        "organism": null,
+        "synonyms": [
+          "reduced grain weight",
+          "decreased seed setting",
+          "reduced yield per plant"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "ossweet1b mutants had lower seed setting rate, 1000-grain weight and yield per plant.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_5",
+        "name": "carbon starvation in leaves",
+        "type": "Phenotype_Trait",
+        "organism": null,
+        "synonyms": [
+          "sugar starvation"
+        ],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Knockout of OsSWEET1b caused reduced leaf sugar content and induced carbon starvation-related gene expression.",
+        "extraction_FLAG": true
+      }
+    ],
+    "relations": [
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_1",
+        "relation_type": "causes",
+        "mechanism": "Loss of OsSWEET1b function reduced sucrose, glucose, fructose, starch and galactose contents in leaves during grain filling.",
+        "growth_stage": [
+          "Seed_Development"
+        ],
+        "growth_stage_detail": "grain filling stage",
+        "evidence_type": "Knockout_Knockdown",
+        "effect_direction": "negative",
+        "quantitative_effect": null,
+        "evidence": "ossweet1b mutants were have reduced the sucrose, glucose, fructose, starch and galactose contents",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_2",
+        "relation_type": "causes",
+        "mechanism": "Knockout of OsSWEET1b led to leaf yellowing and premature senescence at the filling stage.",
+        "growth_stage": [
+          "Seed_Development"
+        ],
+        "growth_stage_detail": "grain filling stage",
+        "evidence_type": "Knockout_Knockdown",
+        "effect_direction": "negative",
+        "quantitative_effect": null,
+        "evidence": "ossweet1b-1 and ossweet1b-2 mutant exhibited premature senescence phenotype, with their leaves turning yellow while the WT leaves remained green",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_3",
+        "relation_type": "causes",
+        "mechanism": "Mutation of OsSWEET1b decreased chlorophyll content, Fv/Fm, stomatal conductance and net photosynthetic rate, and disrupted chloroplast structure.",
+        "growth_stage": [
+          "Seed_Development"
+        ],
+        "growth_stage_detail": "grain filling stage",
+        "evidence_type": "Knockout_Knockdown",
+        "effect_direction": "negative",
+        "quantitative_effect": null,
+        "evidence": "The chlorophyll a (Chla) and chlorophyll b (Chlb) content of ossweet1b mutants were obviously decrease than WT... the values of Fv/Fm, stomatal conductance (Gs) and net photosynthetic rate (Pn) were markedly reduced",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_4",
+        "relation_type": "causes",
+        "mechanism": "OsSWEET1b knockout reduced effective tillers, seed setting rate, 1000-grain weight and yield per plant.",
+        "growth_stage": [
+          "Reproductive_Stage"
+        ],
+        "growth_stage_detail": "maturity stage",
+        "evidence_type": "Knockout_Knockdown",
+        "effect_direction": "negative",
+        "quantitative_effect": "seed setting rate was about 90% in the WT, but only 58% and 56% in the ossweet1b-1 and ossweet1b-2 mutants; 1000-grain weight was about 24 g in WT, but approximately 20 g in the mutants; yield per plant decreased 64% and 65%",
+        "evidence": "The seed setting rate was about 90% in the WT, but only 58% and 56% in the ossweet1b-1 and ossweet1b-2 mutants, respectively... The 1000-grain weight was about 24 g in WT, but approximately 20 g in the ossweet1b-1 and ossweet1b-2 mutants... the ossweet1b-1 and ossweet1b-2 mutants showed decrease 64% and 65% in yield per plant",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_5",
+        "relation_type": "causes",
+        "mechanism": "OsSWEET1b mutation reduced sugar content and induced carbon starvation-related gene expression, including DIN homologs.",
+        "growth_stage": [
+          "Seed_Development"
+        ],
+        "growth_stage_detail": "grain filling stage",
+        "evidence_type": "Knockout_Knockdown",
+        "effect_direction": "negative",
+        "quantitative_effect": null,
+        "evidence": "the OsSWEET1b gene may be a positive regulator of sugar content in leaves and its knockout caused reduced sugar content and carbon starvation in leaves",
+        "extraction_FLAG": true
+      }
+    ],
+    "patch_set": null
+  }
+}

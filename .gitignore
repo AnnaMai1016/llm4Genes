@@ -1,0 +1,29 @@
+.env
+**/.env
+MinerU-master.zip
+**/__pycache__/
+
+# Sci-Hub scraper tool - excluded for copyright/ToS reasons
+PaperSearch/scihub-cn-master/
+PaperSearch/scihub-cn-master.zip
+
+# Downloaded copyrighted paper PDFs
+PaperSearch/data/pdfs/*.pdf
+/Project-Gene/*/auto/*.pdf
+
+assessment/__pycache__/
+assessment/samples/
+assessment/runs/
+# assessment/Assessment_update.md
+assessment/Batch_Work_Guidance.md
+assessment/Batch_Work_Document.md
+assessment/instruction.md
+assessment/working.md
+
+/PaperReviewTool/.ipynb_checkpoints
+/PaperReviewTool/__pycache__
+/PaperReviewTool/review_logs
+/PaperReviewTool/log*
+/PaperReviewTool/.env
+
+/PaperReviewTool/src/__pycache__

@@ -1,0 +1,484 @@
+{
+  "saved_at_utc": "2026-08-01T02:04:04.254966+00:00",
+  "result": {
+    "metadata": {
+      "title": "Genome-wide analysis of the SWEET gene family and its response to powdery mildew and leaf spot infection in the common oat (Avena sativa L.)",
+      "organism": [
+        "Avena sativa"
+      ]
+    },
+    "entities": [
+      {
+        "local_id": "gene_1",
+        "name": "AsSWEET1a",
+        "type": "Gene",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Oat SWEET gene predicted to encode a plasma membrane-localized protein and to be differentially expressed after powdery mildew and leaf spot infection.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_2",
+        "name": "AsSWEET1b",
+        "type": "Gene",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Oat SWEET gene predicted to encode a plasma membrane-localized protein and to be differentially expressed after powdery mildew and leaf spot infection.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_3",
+        "name": "AsSWEET2a",
+        "type": "Gene",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Oat SWEET gene predicted to encode a plasma membrane-localized protein and to be differentially expressed after powdery mildew and leaf spot infection.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_4",
+        "name": "AsSWEET2b",
+        "type": "Gene",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Oat SWEET gene predicted to encode a plasma membrane-localized protein and to be differentially expressed after powdery mildew and leaf spot infection.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_5",
+        "name": "AsSWEET3a",
+        "type": "Gene",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Oat SWEET gene predicted to encode a plasma membrane-localized protein and to be differentially expressed after powdery mildew and leaf spot infection.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_6",
+        "name": "AsSWEET4",
+        "type": "Gene",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Oat SWEET gene predicted to encode a plasma membrane-localized protein.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_7",
+        "name": "AsSWEET5",
+        "type": "Gene",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Oat SWEET gene predicted to encode a plasma membrane-localized protein and to respond to powdery mildew and leaf spot infection.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_8",
+        "name": "AsSWEET11",
+        "type": "Gene",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Oat SWEET gene predicted to encode a plasma membrane-localized protein and to be differentially expressed after powdery mildew and leaf spot infection.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_9",
+        "name": "AsSWEET12",
+        "type": "Gene",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Oat SWEET gene predicted to encode a plasma membrane-localized protein and to be differentially expressed after powdery mildew and leaf spot infection.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_10",
+        "name": "AsSWEET13",
+        "type": "Gene",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Oat SWEET gene predicted to encode a plasma membrane-localized protein.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_11",
+        "name": "AsSWEET15",
+        "type": "Gene",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Oat SWEET gene predicted to encode a plasma membrane-localized protein.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_12",
+        "name": "AsSWEET16",
+        "type": "Gene",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Oat SWEET gene predicted to encode a plasma membrane-localized protein and to be differentially expressed after powdery mildew and leaf spot infection.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "gene_13",
+        "name": "AsSWEET17",
+        "type": "Gene",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": [
+          "plasma membrane"
+        ],
+        "transported_substrate": null,
+        "description": "Oat SWEET gene predicted to encode a plasma membrane-localized protein and to respond to leaf spot infection.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_1",
+        "name": "powdery mildew resistance",
+        "type": "Phenotype_Trait",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Disease resistance trait discussed for oat response to powdery mildew.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_2",
+        "name": "leaf spot resistance",
+        "type": "Phenotype_Trait",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Disease resistance trait discussed for oat response to leaf spot.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_3",
+        "name": "more susceptible to powdery mildew",
+        "type": "Phenotype_Trait",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Phenotype describing one oat cultivar as more susceptible to powdery mildew than the other.",
+        "extraction_FLAG": true
+      },
+      {
+        "local_id": "phenotype_4",
+        "name": "leaf spot was more severe",
+        "type": "Phenotype_Trait",
+        "organism": "Avena sativa",
+        "synonyms": [],
+        "expression_location": null,
+        "transported_substrate": null,
+        "description": "Phenotype describing one oat cultivar as more severely affected by leaf spot than the other.",
+        "extraction_FLAG": true
+      }
+    ],
+    "relations": [
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was differentially expressed after powdery mildew infection and was proposed as a candidate for disease resistance.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "leaves after powdery mildew infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "Expression of AsSWEET1a was significantly up-regulated in the leaves of both cultivars after infection, and these SWEET genes are potential candidates for disease resistance in oats.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_2",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was differentially expressed after powdery mildew and leaf spot infection and was proposed as a candidate for disease resistance.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "leaves after powdery mildew or leaf spot infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "AsSWEET1b, 2b, 3a, 11, and 16 were diferentially expressed after infection with either powdery mildew or leaf spot, making them important candidate genes for studying the oat response to biological stress.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_3",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was differentially expressed after powdery mildew infection and was proposed as a candidate for disease resistance.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "leaves after powdery mildew infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "AsSWEET2a was significantly down-regulated in leaves of ‘ForagePlus’ after infection, while it was significantly up-regulated in ‘Molasses leaves.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_4",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was differentially expressed after powdery mildew and leaf spot infection and was proposed as a candidate for disease resistance.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "leaves after powdery mildew or leaf spot infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "AsSWEET1b, 2b, 3a, 11, and 16 were diferentially expressed after infection with either powdery mildew or leaf spot, making them important candidate genes for studying the oat response to biological stress.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_5",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "The gene responded to powdery mildew infection and may be involved in resistance.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "3 days after powdery mildew infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "Expression of AsSWEET3a was significantly up-regulated in the leaves of both cultivars after infection.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_6",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was differentially expressed after leaf spot infection and is one of the genes implicated in disease response.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "after leaf spot infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "AsSWEET4, 5, 11, 12, 13, 15, and 16 were significantly down-regulated in both cultivars.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_7",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was significantly up-regulated after powdery mildew infection in both cultivars and down-regulated after leaf spot infection, indicating participation in disease response.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "after powdery mildew infection; after leaf spot infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "In this study, significant up-regulation of AsSWEET5 was observed in both ‘ForagePlus’ and ‘Molasses’ cultivars three days after powdery mildew infection, though AsSWEET5 expression was down-regulated at a comparable time point after leaf spot infection.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_7",
+        "object_id": "phenotype_2",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was down-regulated after leaf spot infection and may be involved in response to leaf spot.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "after leaf spot infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "AsSWEET5 expression was down-regulated at a comparable time point after leaf spot infection.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_8",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was differentially expressed after powdery mildew and leaf spot infection and was proposed as a candidate for disease resistance.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "leaves after powdery mildew or leaf spot infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "AsSWEET1b, 2b, 3a, 11, and 16 were diferentially expressed after infection with either powdery mildew or leaf spot, making them important candidate genes for studying the oat response to biological stress.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_9",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was differentially expressed after powdery mildew and leaf spot infection and was proposed as a candidate for disease resistance.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "leaves after powdery mildew or leaf spot infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "AsSWEET1b, 2b, 3a, 11, and 16 were diferentially expressed after infection with either powdery mildew or leaf spot, making them important candidate genes for studying the oat response to biological stress.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_10",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was differentially expressed after powdery mildew and leaf spot infection and was proposed as a candidate for disease resistance.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "leaves after powdery mildew or leaf spot infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "AsSWEET1b, 2b, 3a, 11, and 16 were diferentially expressed after infection with either powdery mildew or leaf spot, making them important candidate genes for studying the oat response to biological stress.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_11",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was differentially expressed after powdery mildew or leaf spot infection and was proposed as a candidate for disease resistance.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "after powdery mildew or leaf spot infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "AsSWEET1b, 2b, 3a, 11, and 16 were diferentially expressed after infection with either powdery mildew or leaf spot, making them important candidate genes for studying the oat response to biological stress.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_12",
+        "object_id": "phenotype_1",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was differentially expressed after powdery mildew infection and may be involved in regulating powdery mildew resistance.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "after powdery mildew infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "AsSWEET16 was significantly up-regulated after powdery mildew infection, indicating that AsSWEET16 may be involved in regulating powdery mildew resistance in oats.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_12",
+        "object_id": "phenotype_2",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was differentially expressed after leaf spot infection and is one of the genes implicated in disease response.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "after leaf spot infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "AsSWEET4, 5, 11, 12, 13, 15, and 16 were significantly down-regulated in both cultivars.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_13",
+        "object_id": "phenotype_2",
+        "relation_type": "associated_with",
+        "mechanism": "The gene was differentially expressed after leaf spot infection.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "after leaf spot infection",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "context_dependent",
+        "quantitative_effect": null,
+        "evidence": "AsSWEET17 was stable in ‘ForagePlus’ after infection, while it was significantly down-regulated in leaves of ‘Molasses’.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_3",
+        "relation_type": "associated_with",
+        "mechanism": "The cultivar ForagePlus was described as more susceptible to powdery mildew than Molasses in the expression study.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "powdery mildew infection comparison between cultivars",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "negative",
+        "quantitative_effect": null,
+        "evidence": "‘ForagePlus’ was more susceptible to powdery mildew than ‘Molasses’.",
+        "extraction_FLAG": true
+      },
+      {
+        "subject_id": "gene_1",
+        "object_id": "phenotype_4",
+        "relation_type": "associated_with",
+        "mechanism": "The cultivar Molasses was described as having more severe leaf spot than ForagePlus in the expression study.",
+        "growth_stage": [
+          "Stress_Response"
+        ],
+        "growth_stage_detail": "leaf spot infection comparison between cultivars",
+        "evidence_type": "Expression_Profiling",
+        "effect_direction": "negative",
+        "quantitative_effect": null,
+        "evidence": "Infection with leaf spot was more severe in ‘Molasses than in ‘ForagePlus’.",
+        "extraction_FLAG": true
+      }
+    ],
+    "patch_set": null
+  }
+}
